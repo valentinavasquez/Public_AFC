@@ -1,0 +1,13 @@
+MIP_sector_id,MIP_sector_name,Count_Workers,Share
+1,"Agriculture, forestry and fishing",525672,23.38
+2,Mining,64260,2.86
+3,Manufacturing,586390,26.08
+4,"Electricity, gas, water and waste management",64163,2.85
+5,Construction,638599,28.4
+6,Wholesale and retail trade; accommodation and food services,1157035,51.46
+7,"Transport, communications and information services",481261,21.41
+8,Financial intermediation,384238,17.09
+9,Real estate and housing services,73284,3.26
+10,Business services,1075191,47.82
+11,Personal services,876690,38.99
+12,Public administration,110964,4.94

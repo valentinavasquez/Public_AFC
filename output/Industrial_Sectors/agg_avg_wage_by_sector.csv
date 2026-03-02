@@ -1,0 +1,13 @@
+MIP_sector_id,MIP_sector_name,Avg_Taxable_Income
+1,"Agriculture, forestry and fishing",435151.03
+2,Mining,1759905.31
+3,Manufacturing,749024.6
+4,"Electricity, gas, water and waste management",1050901.02
+5,Construction,630531.48
+6,Wholesale and retail trade; accommodation and food services,619738.53
+7,"Transport, communications and information services",798561.96
+8,Financial intermediation,1263716.99
+9,Real estate and housing services,801803.36
+10,Business services,681200.9
+11,Personal services,695356.99
+12,Public administration,576440.27
