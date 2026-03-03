@@ -1,4 +1,3 @@
-# This archive .py tiene como proposito crear la base de datos con ceros para la AFC, para luego agregar los ingresos por el seguro de cesantia
 import os
 import pandas as pd
 from pyspark.sql import SparkSession, Window
@@ -14,13 +13,13 @@ start_time = time.time()
 # Reiniciar la sesión de Spark con la nueva configuración
 spark = SparkSession.builder.master('local[*]') \
     .appName("Optimización con PySpark") \
-    .config("spark.executor.memory", "12g") \
-    .config("spark.driver.memory", "12g") \
+    .config("spark.executor.memory", "4g") \
+    .config("spark.driver.memory", "4g") \
     .getOrCreate()
 
 ''' LOAD DATA BASE (20% AFC DATA)'''
 data = spark.read.csv(
-    '/Users/valentinavasquez/Documents/GitHub/HANK_Quant/HANK_Quant/bases/processed_data.csv', header=True, inferSchema=True)
+    '/Users/valentinavasquez/Documents/GitHub/Public_AFC/bases/processed_data.csv', header=True, inferSchema=True)
 
 #### 1. COUNT OF WORKERS BY PERIOD AND SKILL LEVEL
 
@@ -143,3 +142,63 @@ avg_wage_strict_wide.toPandas().to_csv(os.path.join(output_path, 'avg_wage_skill
 print("Exported: avg_wage_skill_strict.csv")
 
 print(f"\nTodos los archivos exportados en: {output_path}")
+
+#### 6. SHARE DE INGRESO POR WAGE_DATE Y AGREGADO POR CATEGORÍA DE SKILL
+
+# Sumar ingreso total por Wage_Date
+total_income_by_date = data.groupBy('Wage_Date').agg(F.sum('Taxable_Income').alias('Total_Income'))
+
+# Sumar ingreso por Skill_Broad y Wage_Date
+income_by_skill_broad_date = data.groupBy('Wage_Date', 'Skill_Broad').agg(F.sum('Taxable_Income').alias('Income_Skill'))
+share_income_broad_date = income_by_skill_broad_date.join(total_income_by_date, on=['Wage_Date']) \
+    .withColumn('Share_Income', F.round(F.col('Income_Skill') / F.col('Total_Income') * 100, 2)) \
+    .orderBy('Wage_Date', 'Skill_Broad')
+
+print("=== Share de ingreso por Wage_Date y Skill_Broad ===")
+share_income_broad_date.show(20)
+
+# Sumar ingreso por Skill_Strict y Wage_Date
+income_by_skill_strict_date = data.groupBy('Wage_Date', 'Skill_Strict').agg(F.sum('Taxable_Income').alias('Income_Skill'))
+share_income_strict_date = income_by_skill_strict_date.join(total_income_by_date, on=['Wage_Date']) \
+    .withColumn('Share_Income', F.round(F.col('Income_Skill') / F.col('Total_Income') * 100, 2)) \
+    .orderBy('Wage_Date', 'Skill_Strict')
+
+print("=== Share de ingreso por Wage_Date y Skill_Strict ===")
+share_income_strict_date.show(20)
+
+# Exportar a CSV
+share_income_broad_date.toPandas().to_csv(os.path.join(output_path, 'shares_income_skill_broad_by_date.csv'), index=False)
+print("Exported: shares_income_skill_broad_by_date.csv")
+print("Primeras filas de shares_income_skill_broad_by_date:")
+share_income_broad_date.show(10)
+share_income_strict_date.toPandas().to_csv(os.path.join(output_path, 'shares_income_skill_strict_by_date.csv'), index=False)
+print("Exported: shares_income_skill_strict_by_date.csv")
+print("Primeras filas de shares_income_skill_strict_by_date:")
+share_income_strict_date.show(10)
+
+# Estadística agregada (total)
+total_income = data.agg(F.sum('Taxable_Income').alias('Total_Income')).collect()[0]['Total_Income']
+
+# Skill_Broad agregado
+income_by_skill_broad_total = data.groupBy('Skill_Broad').agg(F.sum('Taxable_Income').alias('Income_Skill'))
+share_income_broad_total = income_by_skill_broad_total \
+    .withColumn('Share_Income', F.round(F.col('Income_Skill') / F.lit(total_income) * 100, 2))
+
+print("=== Share de ingreso agregado por Skill_Broad ===")
+share_income_broad_total.show()
+share_income_broad_total.toPandas().to_csv(os.path.join(output_path, 'shares_income_skill_broad_total.csv'), index=False)
+print("Exported: shares_income_skill_broad_total.csv")
+print("Primeras filas de shares_income_skill_broad_total:")
+share_income_broad_total.show(10)
+
+# Skill_Strict agregado
+income_by_skill_strict_total = data.groupBy('Skill_Strict').agg(F.sum('Taxable_Income').alias('Income_Skill'))
+share_income_strict_total = income_by_skill_strict_total \
+    .withColumn('Share_Income', F.round(F.col('Income_Skill') / F.lit(total_income) * 100, 2))
+
+print("=== Share de ingreso agregado por Skill_Strict ===")
+share_income_strict_total.show()
+share_income_strict_total.toPandas().to_csv(os.path.join(output_path, 'shares_income_skill_strict_total.csv'), index=False)
+print("Exported: shares_income_skill_strict_total.csv")
+print("Primeras filas de shares_income_skill_strict_total:")
+share_income_strict_total.show(10)
