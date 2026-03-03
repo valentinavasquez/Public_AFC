@@ -20,7 +20,7 @@ spark = SparkSession.builder.master('local[*]') \
 ''' LOAD DATA BASE (20% AFC DATA)'''
 #This database is created with the 1_MergeData.py and 2_DataCleaning.py files, which are in the Skilled_Unskilled folder.
 data = spark.read.csv(
-    '/Users/valentinavasquez/Documents/GitHub/HANK_Quant/HANK_Quant/bases/processed_data.csv', header=True, inferSchema=True)
+    '/Users/valentinavasquez/Documents/GitHub/Public_AFC/bases/processed_data.csv', header=True, inferSchema=True)
 
 ''' Create MIP sector classification from AFC economic activity '''
 data = data.withColumn(
@@ -150,7 +150,7 @@ agg_avg_wage_by_sector.show(20, truncate=False)
 
 #### 5. PIVOT TO WIDE FORMAT AND EXPORT TO CSV
 
-output_path = '/Users/valentinavasquez/Documents/GitHub/HANK_Quant/HANK_Quant/output/Industrial_Sectors'
+output_path = '/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors'
 os.makedirs(output_path, exist_ok=True)
 
 # Count by period - wide format (columns = sector names)
