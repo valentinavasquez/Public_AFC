@@ -13,8 +13,8 @@ start_time = time.time()
 # Reiniciar la sesión de Spark con la nueva configuración
 spark = SparkSession.builder.master('local[*]') \
     .appName("Optimización con PySpark") \
-    .config("spark.executor.memory", "4g") \
-    .config("spark.driver.memory", "4g") \
+    .config("spark.executor.memory", "8g") \
+    .config("spark.driver.memory", "8g") \
     .getOrCreate()
 
 ''' LOAD DATA BASE (20% AFC DATA)'''
@@ -105,7 +105,7 @@ avg_wage_strict.show(20)
 
 #### 5. PIVOT TO WIDE FORMAT AND EXPORT TO CSV
 
-output_path = '/Users/valentinavasquez/Documents/GitHub/HANK_Quant/HANK_Quant/output'
+output_path = '/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Skilled_Unskilled'
 os.makedirs(output_path, exist_ok=True)
 
 # 1. Count by period - wide format
