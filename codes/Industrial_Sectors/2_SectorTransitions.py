@@ -26,7 +26,12 @@ data = data.withColumn(
     "Economic_Activity_int",
     F.col("Economic_Activity").cast("int")
 )
+#Make sure that Taxable_Income is double for later calculations
+data = data.withColumn("Taxable_Income", F.col("Taxable_Income").cast("double"))
 
+# ----------------------------
+# 2) Map economic activity -> MIP sector (1..12) + name
+# ----------------------------
 mip_sector_id_map = {
     1: 1,   # Agriculture, forestry and fishing
     2: 2,   # Mining
@@ -126,27 +131,107 @@ full_panel = person_months.join(
 w = Window.partitionBy("ID_Person").orderBy("Wage_Date")
 
 # Sector del periodo anterior
-full_panel = full_panel.withColumn("Prev_Sector", F.lag("Current_Sector").over(w))
-
 # Marcar primer periodo de cada persona
-full_panel = full_panel.withColumn(
-    "is_first_period",
-    (F.row_number().over(w) == 1)
+full_panel = (full_panel
+    .withColumn("Prev_Sector", F.lag("Current_Sector").over(w))
+    .withColumn("is_first_period", (F.row_number().over(w) == 1))
 )
 
-# Clasificar transición
+# ----------------------------
+# 6) Define STATE of each period (your event-state definition)
+# ----------------------------
+# State_t is a label for the period t:
+# - New Worker (first observed month)
+# - Unemployment (Current_Sector is null)
+# - Entry (Prev null & Current not null)
+# - SectorName otherwise
+
+#full_panel = full_panel.withColumn(
+#    "Transition_Type",
+#    F.when(F.col("is_first_period"), F.lit("New Worker")) 
+#     .when(F.col("Current_Sector").isNotNull() & F.col("Prev_Sector").isNull(), F.lit("Entry"))
+#     .when(F.col("Current_Sector").isNull(), F.lit("Unemployment"))
+#     .when(F.col("Current_Sector").isNotNull(), F.lit("Active"))
+#     .otherwise(F.lit(None))
+#)
+
 full_panel = full_panel.withColumn(
-    "Transition_Type",
-    F.when(F.col("is_first_period"), F.lit("New Worker")) 
-     .when(F.col("Current_Sector").isNotNull() & F.col("Prev_Sector").isNull(), F.lit("Entry"))
+    "State",
+    F.when(F.col("is_first_period"), F.lit("New Worker"))
      .when(F.col("Current_Sector").isNull(), F.lit("Unemployment"))
-     .when(F.col("Current_Sector").isNotNull(), F.lit("Active"))
-     .otherwise(F.lit(None))
+     .when(F.col("Prev_Sector").isNull() & F.col("Current_Sector").isNotNull(), F.lit("Entry"))
+     .otherwise(mip_name_expr[F.col("Current_Sector")])
 )
 
-print("\n=== Step 4: Transition types ===")
-full_panel.groupBy("Transition_Type").count().orderBy("Transition_Type").show(truncate=False)
-full_panel.select("ID_Person", "Wage_Date", "Prev_Sector", "Current_Sector", "Transition_Type") \
-    .orderBy("ID_Person", "Wage_Date").show(20, truncate=False)
+# === Step 5: Matriz de transición y probabilidades ===
+transitions = (full_panel
+    .withColumn("State_From", F.lag("State").over(w))
+    .withColumn("State_To", F.col("State"))
+)
+
+# Exclude transitions involving New Worker and missing State_From
+transitions = transitions.filter(
+    F.col("State_From").isNotNull() &
+    (F.col("State_From") != F.lit("New Worker")) &
+    (F.col("State_To") != F.lit("New Worker"))
+)
+
+# Compute P(State_To | State_From)
+transition_counts = transitions.groupBy("State_From", "State_To").agg(F.count("*").alias("count"))
+
+w_from = Window.partitionBy("State_From")
+transition_probs = (transition_counts
+    .withColumn("total_from", F.sum("count").over(w_from))
+    .withColumn("probability", F.round(F.col("count") / F.col("total_from"), 6))
+    .orderBy("State_From", "State_To")
+)
+
+print("\n=== Transition probabilities P(State_To | State_From) ===")
+transition_probs.show(200, truncate=False)
+
+# ----------------------------
+#  Export (Spark write, no toPandas)
+# ----------------------------
+output_dir = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors"
+os.makedirs(output_dir, exist_ok=True)
+
+(transition_probs
+ .coalesce(1)
+ .write.mode("overwrite")
+ .option("header", True)
+ .csv(os.path.join(output_dir, "transition_probabilities_long"))
+)
+
+elapsed = time.time() - start_time
+print(f"\nDone. Execution time: {elapsed:.2f} seconds")
+print(f"Saved to: {output_dir}/transition_probabilities_long/")
 
 
+
+# ----------------------------
+# Create wide transition matrix
+# ----------------------------
+transition_probabilities_wide = (
+    transition_probs
+    .select("State_From", "State_To", "probability")
+    .groupBy("State_From")
+    .pivot("State_To")
+    .agg(F.first("probability"))
+    .fillna(0)
+    .orderBy("State_From")
+)
+
+print("\n=== Transition probabilities (wide matrix) ===")
+#transition_probabilities_wide.show(100, truncate=False)
+
+# Exportar matriz de transición en formato wide
+
+# Guardar matriz wide en CSV (usando transition_probabilities_wide)
+output_path_wide = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors/transition_probabilities_wide.csv"
+transition_probabilities_wide.toPandas().to_csv(output_path_wide, index=False)
+print(f"Matriz de probabilidades de transición (wide) guardada en: {output_path_wide}")
+
+# Guardar matriz long en CSV (sin crear carpeta)
+output_path_long = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors/transition_probabilities_long.csv"
+transition_probs.toPandas().to_csv(output_path_long, index=False)
+print(f"Matriz de probabilidades de transición (long) guardada en: {output_path_long}")
