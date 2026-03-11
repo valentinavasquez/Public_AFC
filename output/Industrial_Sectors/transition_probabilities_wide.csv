@@ -1,0 +1,15 @@
+State_From,"Agriculture, forestry and fishing",Business services,Construction,"Electricity, gas, water and waste management",Entry,Financial intermediation,Manufacturing,Mining,Personal services,Public administration,Real estate and housing services,"Transport, communications and information services",Unemployment,Wholesale and retail trade; accommodation and food services
+"Agriculture, forestry and fishing",0.889011,0.004152,0.004138,1.38E-4,0.0,6.03E-4,0.003339,1.46E-4,0.001901,2.09E-4,1.54E-4,0.001479,0.090318,0.004412
+Business services,0.001791,0.931572,0.004837,3.14E-4,0.0,0.001515,0.002826,4.15E-4,0.00424,1.92E-4,2.35E-4,0.002699,0.043665,0.0057
+Construction,0.002301,0.006285,0.909848,3.99E-4,0.0,6.94E-4,0.0031,4.78E-4,0.001854,2.06E-4,3.6E-4,0.001541,0.070462,0.002472
+"Electricity, gas, water and waste management",8.26E-4,0.003524,0.003982,0.963744,0.0,8.51E-4,0.001109,3.31E-4,0.00116,1.38E-4,7.7E-5,0.001192,0.021594,0.001473
+Entry,0.125018,0.143843,0.171579,0.004882,0.0,0.012465,0.0677,0.005456,0.087041,0.00923,0.004725,0.059792,0.149112,0.159156
+Financial intermediation,9.83E-4,0.004319,0.001844,1.66E-4,0.0,0.963159,0.001692,2.81E-4,0.002991,1.1E-4,3.41E-4,0.001848,0.018464,0.003801
+Manufacturing,0.002112,0.003497,0.003676,1.3E-4,0.0,7.25E-4,0.950218,2.18E-4,0.001255,8.8E-5,8.7E-5,0.001004,0.033505,0.003484
+Mining,4.65E-4,0.002215,0.002338,1.33E-4,0.0,5.9E-4,7.68E-4,0.975371,4.06E-4,4.5E-5,3.7E-5,7.21E-4,0.016157,7.53E-4
+Personal services,8.24E-4,0.004036,0.00146,9.6E-5,0.0,8.46E-4,9.55E-4,6.7E-5,0.962224,3.36E-4,1.66E-4,9.07E-4,0.025747,0.002335
+Public administration,9.72E-4,0.001627,0.00144,1.04E-4,0.0,2.86E-4,5.4E-4,6.1E-5,0.003663,0.964288,4.6E-5,4.5E-4,0.025211,0.001312
+Real estate and housing services,0.00103,0.004093,0.004836,1.11E-4,0.0,0.001652,0.001146,1.88E-4,0.003395,1.24E-4,0.950366,0.001104,0.027929,0.004025
+"Transport, communications and information services",0.001066,0.003624,0.002067,1.58E-4,0.0,9.58E-4,0.001131,1.89E-4,0.001359,8.5E-5,9.7E-5,0.957252,0.02954,0.002474
+Unemployment,0.0,0.0,0.0,0.0,0.105744,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.894256,0.0
+Wholesale and retail trade; accommodation and food services,0.001398,0.003839,0.001603,8.6E-5,0.0,8.15E-4,0.001719,1.14E-4,0.001732,1.28E-4,1.41E-4,0.001183,0.036358,0.950884

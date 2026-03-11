@@ -1,0 +1,5 @@
+State_From,State_To,count,total_from,probability
+Employment,Employment,13938211,14377145,0.96947
+Employment,Unemployment,438934,14377145,0.03053
+Unemployment,Employment,438934,4872596,0.090082
+Unemployment,Unemployment,4433662,4872596,0.909918

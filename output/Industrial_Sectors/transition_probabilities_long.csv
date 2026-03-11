@@ -1,0 +1,172 @@
+State_From,State_To,count,total_from,probability
+"Agriculture, forestry and fishing","Agriculture, forestry and fishing",10197265,11470344,0.889011
+"Agriculture, forestry and fishing",Business services,47621,11470344,0.004152
+"Agriculture, forestry and fishing",Construction,47466,11470344,0.004138
+"Agriculture, forestry and fishing","Electricity, gas, water and waste management",1580,11470344,1.38E-4
+"Agriculture, forestry and fishing",Financial intermediation,6921,11470344,6.03E-4
+"Agriculture, forestry and fishing",Manufacturing,38301,11470344,0.003339
+"Agriculture, forestry and fishing",Mining,1669,11470344,1.46E-4
+"Agriculture, forestry and fishing",Personal services,21804,11470344,0.001901
+"Agriculture, forestry and fishing",Public administration,2399,11470344,2.09E-4
+"Agriculture, forestry and fishing",Real estate and housing services,1766,11470344,1.54E-4
+"Agriculture, forestry and fishing","Transport, communications and information services",16969,11470344,0.001479
+"Agriculture, forestry and fishing",Unemployment,1035977,11470344,0.090318
+"Agriculture, forestry and fishing",Wholesale and retail trade; accommodation and food services,50606,11470344,0.004412
+Business services,"Agriculture, forestry and fishing",45311,25303642,0.001791
+Business services,Business services,23572166,25303642,0.931572
+Business services,Construction,122398,25303642,0.004837
+Business services,"Electricity, gas, water and waste management",7943,25303642,3.14E-4
+Business services,Financial intermediation,38344,25303642,0.001515
+Business services,Manufacturing,71510,25303642,0.002826
+Business services,Mining,10500,25303642,4.15E-4
+Business services,Personal services,107284,25303642,0.00424
+Business services,Public administration,4851,25303642,1.92E-4
+Business services,Real estate and housing services,5939,25303642,2.35E-4
+Business services,"Transport, communications and information services",68289,25303642,0.002699
+Business services,Unemployment,1104885,25303642,0.043665
+Business services,Wholesale and retail trade; accommodation and food services,144222,25303642,0.0057
+Construction,"Agriculture, forestry and fishing",44990,19549162,0.002301
+Construction,Business services,122872,19549162,0.006285
+Construction,Construction,17786772,19549162,0.909848
+Construction,"Electricity, gas, water and waste management",7794,19549162,3.99E-4
+Construction,Financial intermediation,13563,19549162,6.94E-4
+Construction,Manufacturing,60610,19549162,0.0031
+Construction,Mining,9342,19549162,4.78E-4
+Construction,Personal services,36239,19549162,0.001854
+Construction,Public administration,4027,19549162,2.06E-4
+Construction,Real estate and housing services,7036,19549162,3.6E-4
+Construction,"Transport, communications and information services",30122,19549162,0.001541
+Construction,Unemployment,1377475,19549162,0.070462
+Construction,Wholesale and retail trade; accommodation and food services,48320,19549162,0.002472
+"Electricity, gas, water and waste management","Agriculture, forestry and fishing",1379,1669585,8.26E-4
+"Electricity, gas, water and waste management",Business services,5883,1669585,0.003524
+"Electricity, gas, water and waste management",Construction,6648,1669585,0.003982
+"Electricity, gas, water and waste management","Electricity, gas, water and waste management",1609052,1669585,0.963744
+"Electricity, gas, water and waste management",Financial intermediation,1421,1669585,8.51E-4
+"Electricity, gas, water and waste management",Manufacturing,1851,1669585,0.001109
+"Electricity, gas, water and waste management",Mining,553,1669585,3.31E-4
+"Electricity, gas, water and waste management",Personal services,1937,1669585,0.00116
+"Electricity, gas, water and waste management",Public administration,231,1669585,1.38E-4
+"Electricity, gas, water and waste management",Real estate and housing services,128,1669585,7.7E-5
+"Electricity, gas, water and waste management","Transport, communications and information services",1990,1669585,0.001192
+"Electricity, gas, water and waste management",Unemployment,36053,1669585,0.021594
+"Electricity, gas, water and waste management",Wholesale and retail trade; accommodation and food services,2459,1669585,0.001473
+Entry,"Agriculture, forestry and fishing",1012477,8098680,0.125018
+Entry,Business services,1164941,8098680,0.143843
+Entry,Construction,1389562,8098680,0.171579
+Entry,"Electricity, gas, water and waste management",39535,8098680,0.004882
+Entry,Financial intermediation,100954,8098680,0.012465
+Entry,Manufacturing,548283,8098680,0.0677
+Entry,Mining,44185,8098680,0.005456
+Entry,Personal services,704920,8098680,0.087041
+Entry,Public administration,74751,8098680,0.00923
+Entry,Real estate and housing services,38269,8098680,0.004725
+Entry,"Transport, communications and information services",484239,8098680,0.059792
+Entry,Unemployment,1207610,8098680,0.149112
+Entry,Wholesale and retail trade; accommodation and food services,1288954,8098680,0.159156
+Financial intermediation,"Agriculture, forestry and fishing",6149,6255546,9.83E-4
+Financial intermediation,Business services,27017,6255546,0.004319
+Financial intermediation,Construction,11537,6255546,0.001844
+Financial intermediation,"Electricity, gas, water and waste management",1041,6255546,1.66E-4
+Financial intermediation,Financial intermediation,6025086,6255546,0.963159
+Financial intermediation,Manufacturing,10587,6255546,0.001692
+Financial intermediation,Mining,1760,6255546,2.81E-4
+Financial intermediation,Personal services,18709,6255546,0.002991
+Financial intermediation,Public administration,688,6255546,1.1E-4
+Financial intermediation,Real estate and housing services,2134,6255546,3.41E-4
+Financial intermediation,"Transport, communications and information services",11562,6255546,0.001848
+Financial intermediation,Unemployment,115501,6255546,0.018464
+Financial intermediation,Wholesale and retail trade; accommodation and food services,23775,6255546,0.003801
+Manufacturing,"Agriculture, forestry and fishing",35812,16955391,0.002112
+Manufacturing,Business services,59295,16955391,0.003497
+Manufacturing,Construction,62331,16955391,0.003676
+Manufacturing,"Electricity, gas, water and waste management",2211,16955391,1.3E-4
+Manufacturing,Financial intermediation,12300,16955391,7.25E-4
+Manufacturing,Manufacturing,16111318,16955391,0.950218
+Manufacturing,Mining,3698,16955391,2.18E-4
+Manufacturing,Personal services,21275,16955391,0.001255
+Manufacturing,Public administration,1496,16955391,8.8E-5
+Manufacturing,Real estate and housing services,1468,16955391,8.7E-5
+Manufacturing,"Transport, communications and information services",17026,16955391,0.001004
+Manufacturing,Unemployment,568096,16955391,0.033505
+Manufacturing,Wholesale and retail trade; accommodation and food services,59065,16955391,0.003484
+Mining,"Agriculture, forestry and fishing",1333,2865929,4.65E-4
+Mining,Business services,6349,2865929,0.002215
+Mining,Construction,6700,2865929,0.002338
+Mining,"Electricity, gas, water and waste management",381,2865929,1.33E-4
+Mining,Financial intermediation,1692,2865929,5.9E-4
+Mining,Manufacturing,2201,2865929,7.68E-4
+Mining,Mining,2795344,2865929,0.975371
+Mining,Personal services,1165,2865929,4.06E-4
+Mining,Public administration,128,2865929,4.5E-5
+Mining,Real estate and housing services,106,2865929,3.7E-5
+Mining,"Transport, communications and information services",2067,2865929,7.21E-4
+Mining,Unemployment,46305,2865929,0.016157
+Mining,Wholesale and retail trade; accommodation and food services,2158,2865929,7.53E-4
+Personal services,"Agriculture, forestry and fishing",20938,25422148,8.24E-4
+Personal services,Business services,102598,25422148,0.004036
+Personal services,Construction,37115,25422148,0.00146
+Personal services,"Electricity, gas, water and waste management",2453,25422148,9.6E-5
+Personal services,Financial intermediation,21519,25422148,8.46E-4
+Personal services,Manufacturing,24288,25422148,9.55E-4
+Personal services,Mining,1711,25422148,6.7E-5
+Personal services,Personal services,24461797,25422148,0.962224
+Personal services,Public administration,8540,25422148,3.36E-4
+Personal services,Real estate and housing services,4231,25422148,1.66E-4
+Personal services,"Transport, communications and information services",23051,25422148,9.07E-4
+Personal services,Unemployment,654534,25422148,0.025747
+Personal services,Wholesale and retail trade; accommodation and food services,59373,25422148,0.002335
+Public administration,"Agriculture, forestry and fishing",2555,2629245,9.72E-4
+Public administration,Business services,4277,2629245,0.001627
+Public administration,Construction,3786,2629245,0.00144
+Public administration,"Electricity, gas, water and waste management",274,2629245,1.04E-4
+Public administration,Financial intermediation,751,2629245,2.86E-4
+Public administration,Manufacturing,1420,2629245,5.4E-4
+Public administration,Mining,161,2629245,6.1E-5
+Public administration,Personal services,9630,2629245,0.003663
+Public administration,Public administration,2535350,2629245,0.964288
+Public administration,Real estate and housing services,122,2629245,4.6E-5
+Public administration,"Transport, communications and information services",1184,2629245,4.5E-4
+Public administration,Unemployment,66286,2629245,0.025211
+Public administration,Wholesale and retail trade; accommodation and food services,3449,2629245,0.001312
+Real estate and housing services,"Agriculture, forestry and fishing",1395,1354488,0.00103
+Real estate and housing services,Business services,5544,1354488,0.004093
+Real estate and housing services,Construction,6550,1354488,0.004836
+Real estate and housing services,"Electricity, gas, water and waste management",151,1354488,1.11E-4
+Real estate and housing services,Financial intermediation,2238,1354488,0.001652
+Real estate and housing services,Manufacturing,1552,1354488,0.001146
+Real estate and housing services,Mining,254,1354488,1.88E-4
+Real estate and housing services,Personal services,4599,1354488,0.003395
+Real estate and housing services,Public administration,168,1354488,1.24E-4
+Real estate and housing services,Real estate and housing services,1287260,1354488,0.950366
+Real estate and housing services,"Transport, communications and information services",1496,1354488,0.001104
+Real estate and housing services,Unemployment,37829,1354488,0.027929
+Real estate and housing services,Wholesale and retail trade; accommodation and food services,5452,1354488,0.004025
+"Transport, communications and information services","Agriculture, forestry and fishing",16660,15624248,0.001066
+"Transport, communications and information services",Business services,56617,15624248,0.003624
+"Transport, communications and information services",Construction,32303,15624248,0.002067
+"Transport, communications and information services","Electricity, gas, water and waste management",2464,15624248,1.58E-4
+"Transport, communications and information services",Financial intermediation,14975,15624248,9.58E-4
+"Transport, communications and information services",Manufacturing,17665,15624248,0.001131
+"Transport, communications and information services",Mining,2948,15624248,1.89E-4
+"Transport, communications and information services",Personal services,21239,15624248,0.001359
+"Transport, communications and information services",Public administration,1329,15624248,8.5E-5
+"Transport, communications and information services",Real estate and housing services,1522,15624248,9.7E-5
+"Transport, communications and information services","Transport, communications and information services",14956343,15624248,0.957252
+"Transport, communications and information services",Unemployment,461534,15624248,0.02954
+"Transport, communications and information services",Wholesale and retail trade; accommodation and food services,38649,15624248,0.002474
+Unemployment,Entry,8325741,78734981,0.105744
+Unemployment,Unemployment,70409240,78734981,0.894256
+Wholesale and retail trade; accommodation and food services,"Agriculture, forestry and fishing",50584,36176264,0.001398
+Wholesale and retail trade; accommodation and food services,Business services,138892,36176264,0.003839
+Wholesale and retail trade; accommodation and food services,Construction,57991,36176264,0.001603
+Wholesale and retail trade; accommodation and food services,"Electricity, gas, water and waste management",3102,36176264,8.6E-5
+Wholesale and retail trade; accommodation and food services,Financial intermediation,29480,36176264,8.15E-4
+Wholesale and retail trade; accommodation and food services,Manufacturing,62182,36176264,0.001719
+Wholesale and retail trade; accommodation and food services,Mining,4112,36176264,1.14E-4
+Wholesale and retail trade; accommodation and food services,Personal services,62670,36176264,0.001732
+Wholesale and retail trade; accommodation and food services,Public administration,4638,36176264,1.28E-4
+Wholesale and retail trade; accommodation and food services,Real estate and housing services,5092,36176264,1.41E-4
+Wholesale and retail trade; accommodation and food services,"Transport, communications and information services",42784,36176264,0.001183
+Wholesale and retail trade; accommodation and food services,Unemployment,1315311,36176264,0.036358
+Wholesale and retail trade; accommodation and food services,Wholesale and retail trade; accommodation and food services,34399426,36176264,0.950884
