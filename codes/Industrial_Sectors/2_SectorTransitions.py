@@ -1,37 +1,57 @@
 import os
-import pandas as pd
+import time
+import shutil
+import glob
 from pyspark.sql import SparkSession, Window
 from pyspark.sql import functions as F
-from pyspark.sql.window import Window
-from pyspark.sql.types import *
-from pyspark.sql.functions import col, to_date, expr, when, lit, last
-from scipy.stats import kurtosis
-from scipy.stats import skew
-import time
+
 start_time = time.time()
 
-# Reiniciar la sesión de Spark con la nueva configuración
-spark = SparkSession.builder.master('local[*]') \
-    .appName("Optimización con PySpark") \
+# =========================================================
+# Helper: export Spark DataFrame to a single flat CSV file
+# =========================================================
+def write_single_csv(df, output_file):
+    temp_dir = output_file + "_tmp"
+
+    (df.coalesce(1)
+       .write
+       .mode("overwrite")
+       .option("header", True)
+       .csv(temp_dir))
+
+    csv_file = glob.glob(temp_dir + "/part-*.csv")[0]
+    shutil.move(csv_file, output_file)
+    shutil.rmtree(temp_dir)
+
+# =========================================================
+# 1. Spark session
+# =========================================================
+spark = SparkSession.builder.master("local[*]") \
+    .appName("Industrial Sector Transitions") \
     .config("spark.executor.memory", "12g") \
     .config("spark.driver.memory", "12g") \
     .getOrCreate()
 
-''' LOAD DATA BASE (20% AFC DATA)'''
+# =========================================================
+# 2. Load database
+# =========================================================
 data = spark.read.csv(
-    '/Users/valentinavasquez/Documents/GitHub/Public_AFC/bases/processed_data.csv', header=True, inferSchema=True)
+    "/Users/valentinavasquez/Documents/GitHub/Public_AFC/bases/processed_data.csv",
+    header=True,
+    inferSchema=True
+)
 
-''' Create MIP sector classification from AFC economic activity '''
+# Make sure Taxable_Income is numeric
+data = data.withColumn("Taxable_Income", F.col("Taxable_Income").cast("double"))
+
+# =========================================================
+# 3. Create MIP sector classification from AFC economic activity
+# =========================================================
 data = data.withColumn(
     "Economic_Activity_int",
     F.col("Economic_Activity").cast("int")
 )
-#Make sure that Taxable_Income is double for later calculations
-data = data.withColumn("Taxable_Income", F.col("Taxable_Income").cast("double"))
 
-# ----------------------------
-# 2) Map economic activity -> MIP sector (1..12) + name
-# ----------------------------
 mip_sector_id_map = {
     1: 1,   # Agriculture, forestry and fishing
     2: 2,   # Mining
@@ -85,76 +105,82 @@ data = (
     .drop("Economic_Activity_int")
 )
 
-''' Calculate sector transitions '''
-
-# Filter out rows without a valid MIP sector
+# Keep only rows with valid MIP sector
 data = data.filter(F.col("MIP_sector_id").isNotNull())
 
-# Keep only one row per person per period: the one with the highest Taxable_Income
-w_dedup = Window.partitionBy('ID_Person', 'Wage_Date').orderBy(F.col('Taxable_Income').desc())
-persons = data.withColumn('_rank', F.row_number().over(w_dedup)) \
-    .filter(F.col('_rank') == 1) \
-    .select('ID_Person', 'Wage_Date', 'MIP_sector_id') \
-    .drop('_rank')
+# =========================================================
+# 4. Keep only one row per person-period: highest Taxable_Income
+# =========================================================
+# IMPORTANT:
+# Wage_Date is assumed to come as "YYYY-MM"
+# Convert to proper monthly date: YYYY-MM-01
+# Convert to date and normalize to the first day of the month
+data = data.withColumn(
+    "Wage_Date",
+    F.to_date(F.col("Wage_Date"), "yyyy-MM-dd")
+)
 
-# -----------------------------------------------------------------
-# En vez de crossJoin, generar solo los meses entre primera y última
-# aparición de cada persona y luego hacer left join con los datos reales
-# -----------------------------------------------------------------
+data = data.withColumn(
+    "Wage_Date",
+    F.trunc(F.col("Wage_Date"), "month")
+)
+w_dedup = Window.partitionBy("ID_Person", "Wage_Date").orderBy(F.col("Taxable_Income").desc())
 
-# Rango de fechas por persona
+persons = (
+    data.withColumn("_rank", F.row_number().over(w_dedup))
+        .filter(F.col("_rank") == 1)
+        .select("ID_Person", "Wage_Date", "MIP_sector_id")
+        .drop("_rank")
+)
+
+# =========================================================
+# 5. Generate monthly panel per person between first and last appearance
+# =========================================================
 person_range = persons.groupBy("ID_Person").agg(
     F.min("Wage_Date").alias("min_date"),
     F.max("Wage_Date").alias("max_date")
 )
 
-# Generar secuencia mensual por persona (solo sus meses relevantes)
-person_months = person_range.withColumn(
-    "Wage_Date",
-    F.explode(
-        F.sequence(
-            F.col("min_date").cast("date"),
-            F.col("max_date").cast("date"),
-            F.expr("interval 1 month")
+person_months = (
+    person_range.withColumn(
+        "Wage_Date",
+        F.explode(
+            F.sequence(
+                F.col("min_date"),
+                F.col("max_date"),
+                F.expr("interval 1 month")
+            )
         )
     )
-).select("ID_Person", "Wage_Date")
+    .select("ID_Person", "Wage_Date")
+)
 
-# Left join con datos reales para obtener sector (null si no aparece)
+# Left join with observed sectors
 full_panel = person_months.join(
     persons.select("ID_Person", "Wage_Date", F.col("MIP_sector_id").alias("Current_Sector")),
     on=["ID_Person", "Wage_Date"],
     how="left"
 )
 
-# Ventana por persona ordenada cronológicamente
+# =========================================================
+# 6. Previous sector and first period flag
+# =========================================================
 w = Window.partitionBy("ID_Person").orderBy("Wage_Date")
 
-# Sector del periodo anterior
-# Marcar primer periodo de cada persona
-full_panel = (full_panel
+full_panel = (
+    full_panel
     .withColumn("Prev_Sector", F.lag("Current_Sector").over(w))
     .withColumn("is_first_period", (F.row_number().over(w) == 1))
 )
 
-# ----------------------------
-# 6) Define STATE of each period (your event-state definition)
-# ----------------------------
-# State_t is a label for the period t:
-# - New Worker (first observed month)
-# - Unemployment (Current_Sector is null)
-# - Entry (Prev null & Current not null)
-# - SectorName otherwise
-
-#full_panel = full_panel.withColumn(
-#    "Transition_Type",
-#    F.when(F.col("is_first_period"), F.lit("New Worker")) 
-#     .when(F.col("Current_Sector").isNotNull() & F.col("Prev_Sector").isNull(), F.lit("Entry"))
-#     .when(F.col("Current_Sector").isNull(), F.lit("Unemployment"))
-#     .when(F.col("Current_Sector").isNotNull(), F.lit("Active"))
-#     .otherwise(F.lit(None))
-#)
-
+# =========================================================
+# 7. Define State for each person-period
+# =========================================================
+# State definitions:
+# - New Worker: first observed month in database
+# - Unemployment: Current_Sector is null
+# - Entry: Prev_Sector is null and Current_Sector is not null
+# - Otherwise: current MIP sector name
 full_panel = full_panel.withColumn(
     "State",
     F.when(F.col("is_first_period"), F.lit("New Worker"))
@@ -163,54 +189,47 @@ full_panel = full_panel.withColumn(
      .otherwise(mip_name_expr[F.col("Current_Sector")])
 )
 
-# === Step 5: Matriz de transición y probabilidades ===
-transitions = (full_panel
+# =========================================================
+# 8. Build transitions: State_{t-1} -> State_t
+# =========================================================
+transitions = (
+    full_panel
     .withColumn("State_From", F.lag("State").over(w))
     .withColumn("State_To", F.col("State"))
 )
 
-# Exclude transitions involving New Worker and missing State_From
+# Exclude invalid transitions
 transitions = transitions.filter(
     F.col("State_From").isNotNull() &
+    F.col("State_To").isNotNull() &
     (F.col("State_From") != F.lit("New Worker")) &
     (F.col("State_To") != F.lit("New Worker"))
 )
 
-# Compute P(State_To | State_From)
-transition_counts = transitions.groupBy("State_From", "State_To").agg(F.count("*").alias("count"))
+# =========================================================
+# 9. Aggregate transition probabilities
+# =========================================================
+transition_counts = (
+    transitions
+    .groupBy("State_From", "State_To")
+    .agg(F.count("*").alias("count"))
+)
 
 w_from = Window.partitionBy("State_From")
-transition_probs = (transition_counts
+
+transition_probs = (
+    transition_counts
     .withColumn("total_from", F.sum("count").over(w_from))
     .withColumn("probability", F.round(F.col("count") / F.col("total_from"), 6))
     .orderBy("State_From", "State_To")
 )
 
-print("\n=== Transition probabilities P(State_To | State_From) ===")
-transition_probs.show(200, truncate=False)
+#print("\n=== Aggregate transition probabilities P(State_To | State_From) ===")
+#transition_probs.show(200, truncate=False)
 
-# ----------------------------
-#  Export (Spark write, no toPandas)
-# ----------------------------
-output_dir = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors"
-os.makedirs(output_dir, exist_ok=True)
-
-(transition_probs
- .coalesce(1)
- .write.mode("overwrite")
- .option("header", True)
- .csv(os.path.join(output_dir, "transition_probabilities_long"))
-)
-
-elapsed = time.time() - start_time
-print(f"\nDone. Execution time: {elapsed:.2f} seconds")
-print(f"Saved to: {output_dir}/transition_probabilities_long/")
-
-
-
-# ----------------------------
-# Create wide transition matrix
-# ----------------------------
+# =========================================================
+# 10. Aggregate transition matrix in wide format
+# =========================================================
 transition_probabilities_wide = (
     transition_probs
     .select("State_From", "State_To", "probability")
@@ -221,17 +240,70 @@ transition_probabilities_wide = (
     .orderBy("State_From")
 )
 
-print("\n=== Transition probabilities (wide matrix) ===")
-#transition_probabilities_wide.show(100, truncate=False)
+# =========================================================
+# 11. Transition probabilities by period
+# =========================================================
+transition_counts_by_period = (
+    transitions
+    .groupBy("Wage_Date", "State_From", "State_To")
+    .agg(F.count("*").alias("count"))
+)
+#transition_counts_by_period.show(20, truncate=False)
 
-# Exportar matriz de transición en formato wide
+w_from_period = Window.partitionBy("Wage_Date", "State_From")
 
-# Guardar matriz wide en CSV (usando transition_probabilities_wide)
-output_path_wide = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors/transition_probabilities_wide.csv"
-transition_probabilities_wide.toPandas().to_csv(output_path_wide, index=False)
-print(f"Matriz de probabilidades de transición (wide) guardada en: {output_path_wide}")
+transition_probs_by_period = (
+    transition_counts_by_period
+    .withColumn("total_from", F.sum("count").over(w_from_period))
+    .withColumn("probability", F.round(F.col("count") / F.col("total_from"), 6))
+    .orderBy("Wage_Date", "State_From", "State_To")
+)
 
-# Guardar matriz long en CSV (sin crear carpeta)
-output_path_long = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors/transition_probabilities_long.csv"
-transition_probs.toPandas().to_csv(output_path_long, index=False)
-print(f"Matriz de probabilidades de transición (long) guardada en: {output_path_long}")
+print("\n=== Transition probabilities by period P(State_To | State_From, Wage_Date) ===")
+#transition_probs_by_period.show(20, truncate=False)
+
+# =========================================================
+# 12. Transition matrices by period in wide format
+# =========================================================
+transition_probabilities_by_period_wide = (
+    transition_probs_by_period
+    .select("Wage_Date", "State_From", "State_To", "probability")
+    .groupBy("Wage_Date", "State_From")
+    .pivot("State_To")
+    .agg(F.first("probability"))
+    .fillna(0)
+    .orderBy("Wage_Date", "State_From")
+)
+
+# =========================================================
+# 13. Export results as single flat CSV files
+# =========================================================
+output_dir = "/Users/valentinavasquez/Documents/GitHub/Public_AFC/output/Industrial_Sectors"
+os.makedirs(output_dir, exist_ok=True)
+
+# Aggregate long
+output_path_long = os.path.join(output_dir, "transition_probabilities_long.csv")
+write_single_csv(transition_probs, output_path_long)
+print(f"Saved: {output_path_long}")
+
+# Aggregate wide
+output_path_wide = os.path.join(output_dir, "transition_probabilities_wide.csv")
+write_single_csv(transition_probabilities_wide, output_path_wide)
+print(f"Saved: {output_path_wide}")
+
+# By-period long
+output_path_period_long = os.path.join(output_dir, "transition_probabilities_by_period_long.csv")
+write_single_csv(transition_probs_by_period, output_path_period_long)
+print(f"Saved: {output_path_period_long}")
+
+# By-period wide
+output_path_period_wide = os.path.join(output_dir, "transition_probabilities_by_period_wide.csv")
+write_single_csv(transition_probabilities_by_period_wide, output_path_period_wide)
+print(f"Saved: {output_path_period_wide}")
+
+# =========================================================
+# 14. Final timing
+# =========================================================
+elapsed = time.time() - start_time
+print(f"\nDone. Execution time: {elapsed:.2f} seconds")
+print(f"All files saved in: {output_dir}")
