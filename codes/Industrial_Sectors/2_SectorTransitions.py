@@ -82,7 +82,7 @@ mip_sector_name_map = {
     3: "Manufacturing",
     4: "Electricity, gas, water and waste management",
     5: "Construction",
-    6: "Wholesale and retail trade; accommodation and food services",
+    6: "Wholesale and retail trade, accommodation and food services",
     7: "Transport, communications and information services",
     8: "Financial intermediation",
     9: "Real estate and housing services",
@@ -162,6 +162,7 @@ full_panel = person_months.join(
     how="left"
 )
 
+
 # =========================================================
 # 6. Previous sector and first period flag
 # =========================================================
@@ -188,6 +189,11 @@ full_panel = full_panel.withColumn(
      .when(F.col("Prev_Sector").isNull() & F.col("Current_Sector").isNotNull(), F.lit("Entry"))
      .otherwise(mip_name_expr[F.col("Current_Sector")])
 )
+#unique_states = full_panel.select("State").distinct()
+#print("\n=== Valores únicos de State en full_panel ===")
+#unique_states.show(truncate=False)
+
+
 
 # =========================================================
 # 8. Build transitions: State_{t-1} -> State_t
@@ -205,6 +211,18 @@ transitions = transitions.filter(
     (F.col("State_From") != F.lit("New Worker")) &
     (F.col("State_To") != F.lit("New Worker"))
 )
+
+
+#transitions.show(40, truncate=False)
+#unique_states = transitions.select("State_From").distinct()
+#print("\n=== Valores únicos de State_From en full_panel ===")
+#unique_states.show(truncate=False)
+
+
+#unique_states_2 = transitions.select("State_To").distinct()
+#print("\n=== Valores únicos de State_To en full_panel ===")
+#unique_states_2.show(truncate=False)
+
 
 # =========================================================
 # 9. Aggregate transition probabilities

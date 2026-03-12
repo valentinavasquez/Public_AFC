@@ -1,4 +1,4 @@
-State_From,"Agriculture, forestry and fishing",Business services,Construction,"Electricity, gas, water and waste management",Entry,Financial intermediation,Manufacturing,Mining,Personal services,Public administration,Real estate and housing services,"Transport, communications and information services",Unemployment,Wholesale and retail trade; accommodation and food services
+State_From,"Agriculture, forestry and fishing",Business services,Construction,"Electricity, gas, water and waste management",Entry,Financial intermediation,Manufacturing,Mining,Personal services,Public administration,Real estate and housing services,"Transport, communications and information services",Unemployment,"Wholesale and retail trade, accommodation and food services"
 "Agriculture, forestry and fishing",0.889011,0.004152,0.004138,1.38E-4,0.0,6.03E-4,0.003339,1.46E-4,0.001901,2.09E-4,1.54E-4,0.001479,0.090318,0.004412
 Business services,0.001791,0.931572,0.004837,3.14E-4,0.0,0.001515,0.002826,4.15E-4,0.00424,1.92E-4,2.35E-4,0.002699,0.043665,0.0057
 Construction,0.002301,0.006285,0.909848,3.99E-4,0.0,6.94E-4,0.0031,4.78E-4,0.001854,2.06E-4,3.6E-4,0.001541,0.070462,0.002472
@@ -12,4 +12,4 @@ Public administration,9.72E-4,0.001627,0.00144,1.04E-4,0.0,2.86E-4,5.4E-4,6.1E-5
 Real estate and housing services,0.00103,0.004093,0.004836,1.11E-4,0.0,0.001652,0.001146,1.88E-4,0.003395,1.24E-4,0.950366,0.001104,0.027929,0.004025
 "Transport, communications and information services",0.001066,0.003624,0.002067,1.58E-4,0.0,9.58E-4,0.001131,1.89E-4,0.001359,8.5E-5,9.7E-5,0.957252,0.02954,0.002474
 Unemployment,0.0,0.0,0.0,0.0,0.105744,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.894256,0.0
-Wholesale and retail trade; accommodation and food services,0.001398,0.003839,0.001603,8.6E-5,0.0,8.15E-4,0.001719,1.14E-4,0.001732,1.28E-4,1.41E-4,0.001183,0.036358,0.950884
+"Wholesale and retail trade, accommodation and food services",0.001398,0.003839,0.001603,8.6E-5,0.0,8.15E-4,0.001719,1.14E-4,0.001732,1.28E-4,1.41E-4,0.001183,0.036358,0.950884
