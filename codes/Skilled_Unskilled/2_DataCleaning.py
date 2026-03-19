@@ -49,7 +49,7 @@ data = data.withColumn('Age', (F.year('Wage_Date') - F.year('Birthdate') -
                                 F.when(F.month('Wage_Date') < F.month('Birthdate'), 1).otherwise(0)))
 ##### FILTER DATA TO THE PERIOD 2006-2026 AND AGE 15-60
 data = data.filter((F.col('Wage_Year') >= 2006) & (F.col('Wage_Date') <= F.lit('2026-02-28')))
-data = data.filter((F.col('Age') >= 15) & (F.col('Age') <= 60))
+data = data.filter((F.col('Age') >= 25) & (F.col('Age') <= 60))
 
 
 ####CREATE EDUCATION LEVEL VARIABLES
