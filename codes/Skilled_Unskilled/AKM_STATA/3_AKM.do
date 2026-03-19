@@ -338,3 +338,27 @@ sum wid_fe1 fid_fe1 ability_reg1
 * END
 ********************************************************************************
 di "AKM script finished successfully."
+
+
+
+********************************************************************************
+* WFE distribution and summary stats
+********************************************************************************
+
+preserve
+
+collapse (mean) wid_fe1 ability_reg1, by(wid)
+sum wid_fe1, detail
+
+histogram wid_fe1, percent ///
+    bin(50) ///
+    color(navy%60) ///
+    lcolor(black) ///
+    title("Distribution of Worker Fixed Effects") ///
+    xtitle("Worker Fixed Effect (wid_fe1)") ///
+    ytitle("Percent")
+	
+rename wid id_person
+save "${out}/WFE.dta", replace
+	
+restore
