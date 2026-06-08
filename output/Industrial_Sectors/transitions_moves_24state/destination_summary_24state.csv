@@ -1,0 +1,289 @@
+Sector From,Sector To,Cantidad Trabajadores,Total trabajadores que se movieron
+"Agriculture, forestry and fishing","Unemployment from Agriculture, forestry and fishing",732179,782505
+"Agriculture, forestry and fishing","Wholesale and retail trade, accommodation and food services",10487,782505
+"Agriculture, forestry and fishing",Construction,8965,782505
+"Agriculture, forestry and fishing",Manufacturing,8912,782505
+"Agriculture, forestry and fishing",Business services,8710,782505
+"Agriculture, forestry and fishing","Transport, communications and information services",4476,782505
+"Agriculture, forestry and fishing",Personal services,4014,782505
+"Agriculture, forestry and fishing",Financial intermediation,2721,782505
+"Agriculture, forestry and fishing",Real estate and housing services,598,782505
+"Agriculture, forestry and fishing",Mining,503,782505
+"Agriculture, forestry and fishing",Public administration,497,782505
+"Agriculture, forestry and fishing","Electricity, gas, water and waste management",443,782505
+Business services,Unemployment from Business services,1125459,1380061
+Business services,Construction,53058,1380061
+Business services,"Wholesale and retail trade, accommodation and food services",50334,1380061
+Business services,Personal services,40743,1380061
+Business services,"Transport, communications and information services",33227,1380061
+Business services,Manufacturing,31556,1380061
+Business services,Financial intermediation,19916,1380061
+Business services,"Agriculture, forestry and fishing",9164,1380061
+Business services,Mining,7207,1380061
+Business services,"Electricity, gas, water and waste management",4733,1380061
+Business services,Real estate and housing services,2945,1380061
+Business services,Public administration,1719,1380061
+Construction,Unemployment from Construction,1472904,1622576
+Construction,Business services,53898,1622576
+Construction,Manufacturing,24296,1622576
+Construction,"Wholesale and retail trade, accommodation and food services",16633,1622576
+Construction,"Transport, communications and information services",12506,1622576
+Construction,Personal services,11251,1622576
+Construction,"Agriculture, forestry and fishing",7856,1622576
+Construction,Financial intermediation,7843,1622576
+Construction,Mining,5875,1622576
+Construction,"Electricity, gas, water and waste management",4325,1622576
+Construction,Real estate and housing services,3907,1622576
+Construction,Public administration,1282,1622576
+"Electricity, gas, water and waste management","Unemployment from Electricity, gas, water and waste management",56116,68842
+"Electricity, gas, water and waste management",Construction,3540,68842
+"Electricity, gas, water and waste management",Business services,3061,68842
+"Electricity, gas, water and waste management","Wholesale and retail trade, accommodation and food services",1155,68842
+"Electricity, gas, water and waste management","Transport, communications and information services",1057,68842
+"Electricity, gas, water and waste management",Personal services,983,68842
+"Electricity, gas, water and waste management",Financial intermediation,981,68842
+"Electricity, gas, water and waste management",Manufacturing,959,68842
+"Electricity, gas, water and waste management",Mining,437,68842
+"Electricity, gas, water and waste management","Agriculture, forestry and fishing",355,68842
+"Electricity, gas, water and waste management",Public administration,116,68842
+"Electricity, gas, water and waste management",Real estate and housing services,82,68842
+Financial intermediation,Unemployment from Financial intermediation,217075,284170
+Financial intermediation,Business services,14693,284170
+Financial intermediation,"Wholesale and retail trade, accommodation and food services",12897,284170
+Financial intermediation,Personal services,11697,284170
+Financial intermediation,"Transport, communications and information services",7847,284170
+Financial intermediation,Construction,6982,284170
+Financial intermediation,Manufacturing,6387,284170
+Financial intermediation,"Agriculture, forestry and fishing",2570,284170
+Financial intermediation,Real estate and housing services,1449,284170
+Financial intermediation,Mining,1420,284170
+Financial intermediation,"Electricity, gas, water and waste management",754,284170
+Financial intermediation,Public administration,399,284170
+Manufacturing,Unemployment from Manufacturing,628217,739114
+Manufacturing,"Wholesale and retail trade, accommodation and food services",25386,739114
+Manufacturing,Construction,25246,739114
+Manufacturing,Business services,24203,739114
+Manufacturing,"Agriculture, forestry and fishing",8946,739114
+Manufacturing,Personal services,8100,739114
+Manufacturing,"Transport, communications and information services",7512,739114
+Manufacturing,Financial intermediation,6659,739114
+Manufacturing,Mining,2443,739114
+Manufacturing,"Electricity, gas, water and waste management",1264,739114
+Manufacturing,Real estate and housing services,688,739114
+Manufacturing,Public administration,450,739114
+Mining,Unemployment from Mining,157361,171392
+Mining,Construction,3969,171392
+Mining,Business services,3884,171392
+Mining,Manufacturing,1297,171392
+Mining,Financial intermediation,1264,171392
+Mining,"Transport, communications and information services",1214,171392
+Mining,"Wholesale and retail trade, accommodation and food services",1163,171392
+Mining,Personal services,578,171392
+Mining,"Agriculture, forestry and fishing",278,171392
+Mining,"Electricity, gas, water and waste management",262,171392
+Mining,Real estate and housing services,73,171392
+Mining,Public administration,49,171392
+Personal services,Unemployment from Personal services,779724,901022
+Personal services,Business services,38500,901022
+Personal services,"Wholesale and retail trade, accommodation and food services",22875,901022
+Personal services,Financial intermediation,12722,901022
+Personal services,Construction,12445,901022
+Personal services,"Transport, communications and information services",11221,901022
+Personal services,Manufacturing,10571,901022
+Personal services,Public administration,4206,901022
+Personal services,"Agriculture, forestry and fishing",4162,901022
+Personal services,Real estate and housing services,2075,901022
+Personal services,"Electricity, gas, water and waste management",1452,901022
+Personal services,Mining,1069,901022
+Public administration,Unemployment from Public administration,74573,86145
+Public administration,Personal services,5213,86145
+Public administration,Business services,1546,86145
+Public administration,Construction,1362,86145
+Public administration,"Wholesale and retail trade, accommodation and food services",1256,86145
+Public administration,"Transport, communications and information services",503,86145
+Public administration,"Agriculture, forestry and fishing",488,86145
+Public administration,Manufacturing,463,86145
+Public administration,Financial intermediation,454,86145
+Public administration,"Electricity, gas, water and waste management",153,86145
+Public administration,Mining,78,86145
+Public administration,Real estate and housing services,56,86145
+Real estate and housing services,Unemployment from Real estate and housing services,48839,64189
+Real estate and housing services,Construction,3541,64189
+Real estate and housing services,"Wholesale and retail trade, accommodation and food services",2757,64189
+Real estate and housing services,Business services,2730,64189
+Real estate and housing services,Personal services,2516,64189
+Real estate and housing services,Financial intermediation,1436,64189
+Real estate and housing services,"Transport, communications and information services",836,64189
+Real estate and housing services,Manufacturing,726,64189
+Real estate and housing services,"Agriculture, forestry and fishing",444,64189
+Real estate and housing services,Mining,194,64189
+Real estate and housing services,"Electricity, gas, water and waste management",102,64189
+Real estate and housing services,Public administration,68,64189
+"Transport, communications and information services","Unemployment from Transport, communications and information services",555029,649098
+"Transport, communications and information services",Business services,26803,649098
+"Transport, communications and information services","Wholesale and retail trade, accommodation and food services",17209,649098
+"Transport, communications and information services",Construction,13741,649098
+"Transport, communications and information services",Personal services,9846,649098
+"Transport, communications and information services",Financial intermediation,9773,649098
+"Transport, communications and information services",Manufacturing,7750,649098
+"Transport, communications and information services","Agriculture, forestry and fishing",4290,649098
+"Transport, communications and information services",Mining,1890,649098
+"Transport, communications and information services","Electricity, gas, water and waste management",1420,649098
+"Transport, communications and information services",Real estate and housing services,858,649098
+"Transport, communications and information services",Public administration,489,649098
+"Unemployment from Agriculture, forestry and fishing","Agriculture, forestry and fishing",514193,680511
+"Unemployment from Agriculture, forestry and fishing","Wholesale and retail trade, accommodation and food services",39279,680511
+"Unemployment from Agriculture, forestry and fishing",Construction,38919,680511
+"Unemployment from Agriculture, forestry and fishing",Business services,27264,680511
+"Unemployment from Agriculture, forestry and fishing",Manufacturing,26949,680511
+"Unemployment from Agriculture, forestry and fishing","Transport, communications and information services",13128,680511
+"Unemployment from Agriculture, forestry and fishing",Personal services,12018,680511
+"Unemployment from Agriculture, forestry and fishing",Financial intermediation,2360,680511
+"Unemployment from Agriculture, forestry and fishing",Public administration,2345,680511
+"Unemployment from Agriculture, forestry and fishing","Electricity, gas, water and waste management",1579,680511
+"Unemployment from Agriculture, forestry and fishing",Mining,1335,680511
+"Unemployment from Agriculture, forestry and fishing",Real estate and housing services,1142,680511
+Unemployment from Business services,Business services,594429,1018501
+Unemployment from Business services,Construction,102399,1018501
+Unemployment from Business services,"Wholesale and retail trade, accommodation and food services",96787,1018501
+Unemployment from Business services,Personal services,70207,1018501
+Unemployment from Business services,"Transport, communications and information services",48103,1018501
+Unemployment from Business services,Manufacturing,46788,1018501
+Unemployment from Business services,"Agriculture, forestry and fishing",23902,1018501
+Unemployment from Business services,Financial intermediation,16234,1018501
+Unemployment from Business services,Mining,5876,1018501
+Unemployment from Business services,"Electricity, gas, water and waste management",5196,1018501
+Unemployment from Business services,Real estate and housing services,4466,1018501
+Unemployment from Business services,Public administration,4114,1018501
+Unemployment from Construction,Construction,1017593,1369628
+Unemployment from Construction,Business services,107401,1369628
+Unemployment from Construction,Manufacturing,58310,1369628
+Unemployment from Construction,"Wholesale and retail trade, accommodation and food services",55012,1369628
+Unemployment from Construction,"Agriculture, forestry and fishing",36123,1369628
+Unemployment from Construction,"Transport, communications and information services",34927,1369628
+Unemployment from Construction,Personal services,30032,1369628
+Unemployment from Construction,"Electricity, gas, water and waste management",7746,1369628
+Unemployment from Construction,Mining,7539,1369628
+Unemployment from Construction,Real estate and housing services,5395,1369628
+Unemployment from Construction,Financial intermediation,5251,1369628
+Unemployment from Construction,Public administration,4299,1369628
+"Unemployment from Electricity, gas, water and waste management","Electricity, gas, water and waste management",27776,51023
+"Unemployment from Electricity, gas, water and waste management",Construction,7236,51023
+"Unemployment from Electricity, gas, water and waste management",Business services,5077,51023
+"Unemployment from Electricity, gas, water and waste management","Wholesale and retail trade, accommodation and food services",2742,51023
+"Unemployment from Electricity, gas, water and waste management","Transport, communications and information services",2321,51023
+"Unemployment from Electricity, gas, water and waste management",Manufacturing,1878,51023
+"Unemployment from Electricity, gas, water and waste management",Personal services,1560,51023
+"Unemployment from Electricity, gas, water and waste management","Agriculture, forestry and fishing",1313,51023
+"Unemployment from Electricity, gas, water and waste management",Financial intermediation,448,51023
+"Unemployment from Electricity, gas, water and waste management",Mining,357,51023
+"Unemployment from Electricity, gas, water and waste management",Public administration,185,51023
+"Unemployment from Electricity, gas, water and waste management",Real estate and housing services,130,51023
+Unemployment from Financial intermediation,Financial intermediation,134629,199136
+Unemployment from Financial intermediation,Business services,18160,199136
+Unemployment from Financial intermediation,"Wholesale and retail trade, accommodation and food services",13239,199136
+Unemployment from Financial intermediation,Personal services,9961,199136
+Unemployment from Financial intermediation,"Transport, communications and information services",6793,199136
+Unemployment from Financial intermediation,Construction,6351,199136
+Unemployment from Financial intermediation,Manufacturing,4185,199136
+Unemployment from Financial intermediation,"Agriculture, forestry and fishing",2801,199136
+Unemployment from Financial intermediation,Real estate and housing services,1484,199136
+Unemployment from Financial intermediation,Public administration,630,199136
+Unemployment from Financial intermediation,Mining,475,199136
+Unemployment from Financial intermediation,"Electricity, gas, water and waste management",428,199136
+Unemployment from Manufacturing,Manufacturing,319670,572771
+Unemployment from Manufacturing,Construction,61839,572771
+Unemployment from Manufacturing,"Wholesale and retail trade, accommodation and food services",59721,572771
+Unemployment from Manufacturing,Business services,53492,572771
+Unemployment from Manufacturing,"Agriculture, forestry and fishing",27141,572771
+Unemployment from Manufacturing,Personal services,20106,572771
+Unemployment from Manufacturing,"Transport, communications and information services",19314,572771
+Unemployment from Manufacturing,Financial intermediation,3908,572771
+Unemployment from Manufacturing,"Electricity, gas, water and waste management",2216,572771
+Unemployment from Manufacturing,Mining,2090,572771
+Unemployment from Manufacturing,Public administration,1671,572771
+Unemployment from Manufacturing,Real estate and housing services,1603,572771
+Unemployment from Mining,Mining,124433,151752
+Unemployment from Mining,Construction,8379,151752
+Unemployment from Mining,Business services,7060,151752
+Unemployment from Mining,"Wholesale and retail trade, accommodation and food services",2954,151752
+Unemployment from Mining,"Transport, communications and information services",2611,151752
+Unemployment from Mining,Manufacturing,2373,151752
+Unemployment from Mining,"Agriculture, forestry and fishing",1301,151752
+Unemployment from Mining,Personal services,1297,151752
+Unemployment from Mining,Financial intermediation,565,151752
+Unemployment from Mining,"Electricity, gas, water and waste management",474,151752
+Unemployment from Mining,Public administration,170,151752
+Unemployment from Mining,Real estate and housing services,135,151752
+Unemployment from Personal services,Personal services,462084,674768
+Unemployment from Personal services,Business services,68995,674768
+Unemployment from Personal services,"Wholesale and retail trade, accommodation and food services",47630,674768
+Unemployment from Personal services,Construction,30289,674768
+Unemployment from Personal services,"Transport, communications and information services",18292,674768
+Unemployment from Personal services,Manufacturing,16855,674768
+Unemployment from Personal services,"Agriculture, forestry and fishing",10745,674768
+Unemployment from Personal services,Financial intermediation,7725,674768
+Unemployment from Personal services,Public administration,6658,674768
+Unemployment from Personal services,Real estate and housing services,2775,674768
+Unemployment from Personal services,"Electricity, gas, water and waste management",1619,674768
+Unemployment from Personal services,Mining,1101,674768
+Unemployment from Public administration,Public administration,41914,62824
+Unemployment from Public administration,Personal services,6011,62824
+Unemployment from Public administration,Construction,3787,62824
+Unemployment from Public administration,Business services,3416,62824
+Unemployment from Public administration,"Wholesale and retail trade, accommodation and food services",2986,62824
+Unemployment from Public administration,"Agriculture, forestry and fishing",1660,62824
+Unemployment from Public administration,Manufacturing,1123,62824
+Unemployment from Public administration,"Transport, communications and information services",1082,62824
+Unemployment from Public administration,Financial intermediation,421,62824
+Unemployment from Public administration,"Electricity, gas, water and waste management",165,62824
+Unemployment from Public administration,Real estate and housing services,148,62824
+Unemployment from Public administration,Mining,111,62824
+Unemployment from Real estate and housing services,Real estate and housing services,19553,42891
+Unemployment from Real estate and housing services,Construction,5343,42891
+Unemployment from Real estate and housing services,Business services,4783,42891
+Unemployment from Real estate and housing services,"Wholesale and retail trade, accommodation and food services",4715,42891
+Unemployment from Real estate and housing services,Personal services,2942,42891
+Unemployment from Real estate and housing services,Manufacturing,1483,42891
+Unemployment from Real estate and housing services,"Transport, communications and information services",1424,42891
+Unemployment from Real estate and housing services,Financial intermediation,1184,42891
+Unemployment from Real estate and housing services,"Agriculture, forestry and fishing",1024,42891
+Unemployment from Real estate and housing services,Public administration,188,42891
+Unemployment from Real estate and housing services,"Electricity, gas, water and waste management",131,42891
+Unemployment from Real estate and housing services,Mining,121,42891
+"Unemployment from Transport, communications and information services","Transport, communications and information services",317071,499082
+"Unemployment from Transport, communications and information services",Business services,49364,499082
+"Unemployment from Transport, communications and information services","Wholesale and retail trade, accommodation and food services",38688,499082
+"Unemployment from Transport, communications and information services",Construction,32748,499082
+"Unemployment from Transport, communications and information services",Personal services,18950,499082
+"Unemployment from Transport, communications and information services",Manufacturing,16743,499082
+"Unemployment from Transport, communications and information services","Agriculture, forestry and fishing",12008,499082
+"Unemployment from Transport, communications and information services",Financial intermediation,6134,499082
+"Unemployment from Transport, communications and information services","Electricity, gas, water and waste management",2382,499082
+"Unemployment from Transport, communications and information services",Mining,2067,499082
+"Unemployment from Transport, communications and information services",Real estate and housing services,1490,499082
+"Unemployment from Transport, communications and information services",Public administration,1437,499082
+"Unemployment from Wholesale and retail trade, accommodation and food services","Wholesale and retail trade, accommodation and food services",797798,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Business services,110425,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Construction,59496,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Personal services,57903,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Manufacturing,57582,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services","Transport, communications and information services",42642,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services","Agriculture, forestry and fishing",36941,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Financial intermediation,12966,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Real estate and housing services,4722,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Public administration,4437,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services","Electricity, gas, water and waste management",3357,1190967
+"Unemployment from Wholesale and retail trade, accommodation and food services",Mining,2698,1190967
+"Wholesale and retail trade, accommodation and food services","Unemployment from Wholesale and retail trade, accommodation and food services",1337178,1499432
+"Wholesale and retail trade, accommodation and food services",Business services,44587,1499432
+"Wholesale and retail trade, accommodation and food services",Manufacturing,25418,1499432
+"Wholesale and retail trade, accommodation and food services",Personal services,21739,1499432
+"Wholesale and retail trade, accommodation and food services",Construction,19713,1499432
+"Wholesale and retail trade, accommodation and food services","Transport, communications and information services",18055,1499432
+"Wholesale and retail trade, accommodation and food services",Financial intermediation,14574,1499432
+"Wholesale and retail trade, accommodation and food services","Agriculture, forestry and fishing",10210,1499432
+"Wholesale and retail trade, accommodation and food services",Real estate and housing services,2611,1499432
+"Wholesale and retail trade, accommodation and food services",Mining,2492,1499432
+"Wholesale and retail trade, accommodation and food services","Electricity, gas, water and waste management",1476,1499432
+"Wholesale and retail trade, accommodation and food services",Public administration,1379,1499432

@@ -1,0 +1,577 @@
+State_From,State_To,Count,Total_From,Share,Rank
+"Agriculture, forestry and fishing","Agriculture, forestry and fishing",6407892,7190397,0.8911736027927248,1
+"Agriculture, forestry and fishing","Unemployment from Agriculture, forestry and fishing",732179,7190397,0.10182733999249277,2
+"Agriculture, forestry and fishing","Wholesale and retail trade, accommodation and food services",10487,7190397,0.0014584730161630853,3
+"Agriculture, forestry and fishing",Construction,8965,7190397,0.0012468018108040488,4
+"Agriculture, forestry and fishing",Manufacturing,8912,7190397,0.001239430868698905,5
+"Agriculture, forestry and fishing",Business services,8710,7190397,0.0012113378440717529,6
+"Agriculture, forestry and fishing","Transport, communications and information services",4476,7190397,0.0006224969219362992,7
+"Agriculture, forestry and fishing",Personal services,4014,7190397,0.0005582445586801396,8
+"Agriculture, forestry and fishing",Financial intermediation,2721,7190397,0.00037842138619049824,9
+"Agriculture, forestry and fishing",Real estate and housing services,598,7190397,8.316647884671736e-05,10
+"Agriculture, forestry and fishing",Mining,503,7190397,6.995441280919537e-05,11
+"Agriculture, forestry and fishing",Public administration,497,7190397,6.911996653314135e-05,12
+"Agriculture, forestry and fishing","Electricity, gas, water and waste management",443,7190397,6.160995004865517e-05,13
+"Agriculture, forestry and fishing",Unemployment from Mining,0,7190397,0.0,14
+"Agriculture, forestry and fishing",Unemployment from Manufacturing,0,7190397,0.0,15
+"Agriculture, forestry and fishing","Unemployment from Electricity, gas, water and waste management",0,7190397,0.0,16
+"Agriculture, forestry and fishing",Unemployment from Construction,0,7190397,0.0,17
+"Agriculture, forestry and fishing","Unemployment from Wholesale and retail trade, accommodation and food services",0,7190397,0.0,18
+"Agriculture, forestry and fishing","Unemployment from Transport, communications and information services",0,7190397,0.0,19
+"Agriculture, forestry and fishing",Unemployment from Financial intermediation,0,7190397,0.0,20
+"Agriculture, forestry and fishing",Unemployment from Real estate and housing services,0,7190397,0.0,21
+"Agriculture, forestry and fishing",Unemployment from Business services,0,7190397,0.0,22
+"Agriculture, forestry and fishing",Unemployment from Personal services,0,7190397,0.0,23
+"Agriculture, forestry and fishing",Unemployment from Public administration,0,7190397,0.0,24
+Business services,Business services,16896579,18276640,0.9244904424445631,1
+Business services,Unemployment from Business services,1125459,18276640,0.06157909768972853,2
+Business services,Construction,53058,18276640,0.0029030500135692337,3
+Business services,"Wholesale and retail trade, accommodation and food services",50334,18276640,0.0027540073011231825,4
+Business services,Personal services,40743,18276640,0.0022292390723896733,5
+Business services,"Transport, communications and information services",33227,18276640,0.001818003746859379,6
+Business services,Manufacturing,31556,18276640,0.0017265755631232,7
+Business services,Financial intermediation,19916,18276640,0.0010896970121422756,8
+Business services,"Agriculture, forestry and fishing",9164,18276640,0.0005014050722671126,9
+Business services,Mining,7207,18276640,0.00039432849801714103,10
+Business services,"Electricity, gas, water and waste management",4733,18276640,0.0002589644486076215,11
+Business services,Real estate and housing services,2945,18276640,0.00016113465057034554,12
+Business services,Public administration,1719,18276640,9.40544870391932e-05,13
+Business services,"Unemployment from Agriculture, forestry and fishing",0,18276640,0.0,14
+Business services,Unemployment from Mining,0,18276640,0.0,15
+Business services,Unemployment from Manufacturing,0,18276640,0.0,16
+Business services,"Unemployment from Electricity, gas, water and waste management",0,18276640,0.0,17
+Business services,Unemployment from Construction,0,18276640,0.0,18
+Business services,"Unemployment from Wholesale and retail trade, accommodation and food services",0,18276640,0.0,19
+Business services,"Unemployment from Transport, communications and information services",0,18276640,0.0,20
+Business services,Unemployment from Financial intermediation,0,18276640,0.0,21
+Business services,Unemployment from Real estate and housing services,0,18276640,0.0,22
+Business services,Unemployment from Personal services,0,18276640,0.0,23
+Business services,Unemployment from Public administration,0,18276640,0.0,24
+Construction,Construction,13056396,14678972,0.8894625590947377,1
+Construction,Unemployment from Construction,1472904,14678972,0.10034108655565253,2
+Construction,Business services,53898,14678972,0.003671783010417896,3
+Construction,Manufacturing,24296,14678972,0.0016551567780087053,4
+Construction,"Wholesale and retail trade, accommodation and food services",16633,14678972,0.0011331174962388375,5
+Construction,"Transport, communications and information services",12506,14678972,0.0008519670178538388,6
+Construction,Personal services,11251,14678972,0.0007664705675574557,7
+Construction,"Agriculture, forestry and fishing",7856,14678972,0.0005351873414568813,8
+Construction,Financial intermediation,7843,14678972,0.0005343017208562016,9
+Construction,Mining,5875,14678972,0.00040023238684561835,10
+Construction,"Electricity, gas, water and waste management",4325,14678972,0.00029463916137996584,11
+Construction,Real estate and housing services,3907,14678972,0.00026616305283503505,12
+Construction,Public administration,1282,14678972,8.733581615933324e-05,13
+Construction,"Unemployment from Agriculture, forestry and fishing",0,14678972,0.0,14
+Construction,Unemployment from Mining,0,14678972,0.0,15
+Construction,Unemployment from Manufacturing,0,14678972,0.0,16
+Construction,"Unemployment from Electricity, gas, water and waste management",0,14678972,0.0,17
+Construction,"Unemployment from Wholesale and retail trade, accommodation and food services",0,14678972,0.0,18
+Construction,"Unemployment from Transport, communications and information services",0,14678972,0.0,19
+Construction,Unemployment from Financial intermediation,0,14678972,0.0,20
+Construction,Unemployment from Real estate and housing services,0,14678972,0.0,21
+Construction,Unemployment from Business services,0,14678972,0.0,22
+Construction,Unemployment from Personal services,0,14678972,0.0,23
+Construction,Unemployment from Public administration,0,14678972,0.0,24
+"Electricity, gas, water and waste management","Electricity, gas, water and waste management",1283476,1352318,0.9490933345559255,1
+"Electricity, gas, water and waste management","Unemployment from Electricity, gas, water and waste management",56116,1352318,0.04149615696899694,2
+"Electricity, gas, water and waste management",Construction,3540,1352318,0.002617727487173875,3
+"Electricity, gas, water and waste management",Business services,3061,1352318,0.0022635208582596697,4
+"Electricity, gas, water and waste management","Wholesale and retail trade, accommodation and food services",1155,1352318,0.0008540890530185948,5
+"Electricity, gas, water and waste management","Transport, communications and information services",1057,1352318,0.0007816208909442897,6
+"Electricity, gas, water and waste management",Personal services,983,1352318,0.0007269000338677737,7
+"Electricity, gas, water and waste management",Financial intermediation,981,1352318,0.0007254210917846246,8
+"Electricity, gas, water and waste management",Manufacturing,959,1352318,0.0007091527288699848,9
+"Electricity, gas, water and waste management",Mining,437,1352318,0.00032314884516807435,10
+"Electricity, gas, water and waste management","Agriculture, forestry and fishing",355,1352318,0.000262512219758962,11
+"Electricity, gas, water and waste management",Public administration,116,1352318,8.577864082264674e-05,12
+"Electricity, gas, water and waste management",Real estate and housing services,82,1352318,6.0636625409112356e-05,13
+"Electricity, gas, water and waste management","Unemployment from Agriculture, forestry and fishing",0,1352318,0.0,14
+"Electricity, gas, water and waste management",Unemployment from Mining,0,1352318,0.0,15
+"Electricity, gas, water and waste management",Unemployment from Manufacturing,0,1352318,0.0,16
+"Electricity, gas, water and waste management",Unemployment from Construction,0,1352318,0.0,17
+"Electricity, gas, water and waste management","Unemployment from Wholesale and retail trade, accommodation and food services",0,1352318,0.0,18
+"Electricity, gas, water and waste management","Unemployment from Transport, communications and information services",0,1352318,0.0,19
+"Electricity, gas, water and waste management",Unemployment from Financial intermediation,0,1352318,0.0,20
+"Electricity, gas, water and waste management",Unemployment from Real estate and housing services,0,1352318,0.0,21
+"Electricity, gas, water and waste management",Unemployment from Business services,0,1352318,0.0,22
+"Electricity, gas, water and waste management",Unemployment from Personal services,0,1352318,0.0,23
+"Electricity, gas, water and waste management",Unemployment from Public administration,0,1352318,0.0,24
+Financial intermediation,Financial intermediation,4711217,4995387,0.9431135165303509,1
+Financial intermediation,Unemployment from Financial intermediation,217075,4995387,0.043455091667572505,2
+Financial intermediation,Business services,14693,4995387,0.0029413136559790064,3
+Financial intermediation,"Wholesale and retail trade, accommodation and food services",12897,4995387,0.002581781952028942,4
+Financial intermediation,Personal services,11697,4995387,0.0023415603235545112,5
+Financial intermediation,"Transport, communications and information services",7847,4995387,0.0015708492655323802,6
+Financial intermediation,Construction,6982,4995387,0.0013976895083403949,7
+Financial intermediation,Manufacturing,6387,4995387,0.0012785796175551565,8
+Financial intermediation,"Agriculture, forestry and fishing",2570,4995387,0.000514474654316072,9
+Financial intermediation,Real estate and housing services,1449,4995387,0.00029006761638287483,10
+Financial intermediation,Mining,1420,4995387,0.00028426226036140943,11
+Financial intermediation,"Electricity, gas, water and waste management",754,4995387,0.0001509392565581005,12
+Financial intermediation,Public administration,399,4995387,7.987369146774814e-05,13
+Financial intermediation,"Unemployment from Agriculture, forestry and fishing",0,4995387,0.0,14
+Financial intermediation,Unemployment from Mining,0,4995387,0.0,15
+Financial intermediation,Unemployment from Manufacturing,0,4995387,0.0,16
+Financial intermediation,"Unemployment from Electricity, gas, water and waste management",0,4995387,0.0,17
+Financial intermediation,Unemployment from Construction,0,4995387,0.0,18
+Financial intermediation,"Unemployment from Wholesale and retail trade, accommodation and food services",0,4995387,0.0,19
+Financial intermediation,"Unemployment from Transport, communications and information services",0,4995387,0.0,20
+Financial intermediation,Unemployment from Real estate and housing services,0,4995387,0.0,21
+Financial intermediation,Unemployment from Business services,0,4995387,0.0,22
+Financial intermediation,Unemployment from Personal services,0,4995387,0.0,23
+Financial intermediation,Unemployment from Public administration,0,4995387,0.0,24
+Manufacturing,Manufacturing,12322835,13061949,0.9434147231779882,1
+Manufacturing,Unemployment from Manufacturing,628217,13061949,0.048095196206936655,2
+Manufacturing,"Wholesale and retail trade, accommodation and food services",25386,13061949,0.0019435078180139885,3
+Manufacturing,Construction,25246,13061949,0.0019327896625534215,4
+Manufacturing,Business services,24203,13061949,0.001852939404372196,5
+Manufacturing,"Agriculture, forestry and fishing",8946,13061949,0.0006848901339302427,6
+Manufacturing,Personal services,8100,13061949,0.0006201218516471011,7
+Manufacturing,"Transport, communications and information services",7512,13061949,0.000575105598712719,8
+Manufacturing,Financial intermediation,6659,13061949,0.0005098014086565489,9
+Manufacturing,Mining,2443,13061949,0.00018703181278689727,10
+Manufacturing,"Electricity, gas, water and waste management",1264,13061949,9.676963215826366e-05,11
+Manufacturing,Real estate and housing services,688,13061949,5.2672078263358705e-05,12
+Manufacturing,Public administration,450,13061949,3.4451213980394506e-05,13
+Manufacturing,"Unemployment from Agriculture, forestry and fishing",0,13061949,0.0,14
+Manufacturing,Unemployment from Mining,0,13061949,0.0,15
+Manufacturing,"Unemployment from Electricity, gas, water and waste management",0,13061949,0.0,16
+Manufacturing,Unemployment from Construction,0,13061949,0.0,17
+Manufacturing,"Unemployment from Wholesale and retail trade, accommodation and food services",0,13061949,0.0,18
+Manufacturing,"Unemployment from Transport, communications and information services",0,13061949,0.0,19
+Manufacturing,Unemployment from Financial intermediation,0,13061949,0.0,20
+Manufacturing,Unemployment from Real estate and housing services,0,13061949,0.0,21
+Manufacturing,Unemployment from Business services,0,13061949,0.0,22
+Manufacturing,Unemployment from Personal services,0,13061949,0.0,23
+Manufacturing,Unemployment from Public administration,0,13061949,0.0,24
+Mining,Mining,2027930,2199322,0.9220705290084853,1
+Mining,Unemployment from Mining,157361,2199322,0.07154977761328264,2
+Mining,Construction,3969,2199322,0.0018046470685056577,3
+Mining,Business services,3884,2199322,0.0017659987941738408,4
+Mining,Manufacturing,1297,2199322,0.000589727197745487,5
+Mining,Financial intermediation,1264,2199322,0.0005747225735931346,6
+Mining,"Transport, communications and information services",1214,2199322,0.0005519882945744189,7
+Mining,"Wholesale and retail trade, accommodation and food services",1163,2199322,0.0005287993299753288,8
+Mining,Personal services,578,2199322,0.0002628082654563543,9
+Mining,"Agriculture, forestry and fishing",278,2199322,0.00012640259134405967,10
+Mining,"Electricity, gas, water and waste management",262,2199322,0.00011912762205807062,11
+Mining,Real estate and housing services,73,2199322,3.319204736732502e-05,12
+Mining,Public administration,49,2199322,2.227959343834145e-05,13
+Mining,"Unemployment from Agriculture, forestry and fishing",0,2199322,0.0,14
+Mining,Unemployment from Manufacturing,0,2199322,0.0,15
+Mining,"Unemployment from Electricity, gas, water and waste management",0,2199322,0.0,16
+Mining,Unemployment from Construction,0,2199322,0.0,17
+Mining,"Unemployment from Wholesale and retail trade, accommodation and food services",0,2199322,0.0,18
+Mining,"Unemployment from Transport, communications and information services",0,2199322,0.0,19
+Mining,Unemployment from Financial intermediation,0,2199322,0.0,20
+Mining,Unemployment from Real estate and housing services,0,2199322,0.0,21
+Mining,Unemployment from Business services,0,2199322,0.0,22
+Mining,Unemployment from Personal services,0,2199322,0.0,23
+Mining,Unemployment from Public administration,0,2199322,0.0,24
+Personal services,Personal services,18982445,19883467,0.9546848645661242,1
+Personal services,Unemployment from Personal services,779724,19883467,0.03921469027509136,2
+Personal services,Business services,38500,19883467,0.0019362820377351697,3
+Personal services,"Wholesale and retail trade, accommodation and food services",22875,19883467,0.0011504532886543377,4
+Personal services,Financial intermediation,12722,19883467,0.0006398280541316059,5
+Personal services,Construction,12445,19883467,0.000625896882067901,6
+Personal services,"Transport, communications and information services",11221,19883467,0.0005643382011799049,7
+Personal services,Manufacturing,10571,19883467,0.0005316477252181423,8
+Personal services,Public administration,4206,19883467,0.00021153252599257464,9
+Personal services,"Agriculture, forestry and fishing",4162,19883467,0.000209319632235163,10
+Personal services,Real estate and housing services,2075,19883467,0.00010435805787793447,11
+Personal services,"Electricity, gas, water and waste management",1452,19883467,7.302549399458353e-05,12
+Personal services,Mining,1069,19883467,5.376325969711419e-05,13
+Personal services,"Unemployment from Agriculture, forestry and fishing",0,19883467,0.0,14
+Personal services,Unemployment from Mining,0,19883467,0.0,15
+Personal services,Unemployment from Manufacturing,0,19883467,0.0,16
+Personal services,"Unemployment from Electricity, gas, water and waste management",0,19883467,0.0,17
+Personal services,Unemployment from Construction,0,19883467,0.0,18
+Personal services,"Unemployment from Wholesale and retail trade, accommodation and food services",0,19883467,0.0,19
+Personal services,"Unemployment from Transport, communications and information services",0,19883467,0.0,20
+Personal services,Unemployment from Financial intermediation,0,19883467,0.0,21
+Personal services,Unemployment from Real estate and housing services,0,19883467,0.0,22
+Personal services,Unemployment from Business services,0,19883467,0.0,23
+Personal services,Unemployment from Public administration,0,19883467,0.0,24
+Public administration,Public administration,1982724,2068869,0.9583613075549975,1
+Public administration,Unemployment from Public administration,74573,2068869,0.036045298179826754,2
+Public administration,Personal services,5213,2068869,0.0025197342122676688,3
+Public administration,Business services,1546,2068869,0.0007472681933945552,4
+Public administration,Construction,1362,2068869,0.0006583307111276742,5
+Public administration,"Wholesale and retail trade, accommodation and food services",1256,2068869,0.0006070949876478404,6
+Public administration,"Transport, communications and information services",503,2068869,0.0002431280085882673,7
+Public administration,"Agriculture, forestry and fishing",488,2068869,0.00023587767035998896,8
+Public administration,Manufacturing,463,2068869,0.00022379377331285837,9
+Public administration,Financial intermediation,454,2068869,0.00021944357037589137,10
+Public administration,"Electricity, gas, water and waste management",153,2068869,7.395344992843917e-05,11
+Public administration,Mining,78,2068869,3.770175878704741e-05,12
+Public administration,Real estate and housing services,56,2068869,2.7067929385572503e-05,13
+Public administration,"Unemployment from Agriculture, forestry and fishing",0,2068869,0.0,14
+Public administration,Unemployment from Mining,0,2068869,0.0,15
+Public administration,Unemployment from Manufacturing,0,2068869,0.0,16
+Public administration,"Unemployment from Electricity, gas, water and waste management",0,2068869,0.0,17
+Public administration,Unemployment from Construction,0,2068869,0.0,18
+Public administration,"Unemployment from Wholesale and retail trade, accommodation and food services",0,2068869,0.0,19
+Public administration,"Unemployment from Transport, communications and information services",0,2068869,0.0,20
+Public administration,Unemployment from Financial intermediation,0,2068869,0.0,21
+Public administration,Unemployment from Real estate and housing services,0,2068869,0.0,22
+Public administration,Unemployment from Business services,0,2068869,0.0,23
+Public administration,Unemployment from Personal services,0,2068869,0.0,24
+Real estate and housing services,Real estate and housing services,993818,1058007,0.9393302690813955,1
+Real estate and housing services,Unemployment from Real estate and housing services,48839,1058007,0.046161320293722066,2
+Real estate and housing services,Construction,3541,1058007,0.00334685876369438,3
+Real estate and housing services,"Wholesale and retail trade, accommodation and food services",2757,1058007,0.0026058428724951726,4
+Real estate and housing services,Business services,2730,1058007,0.002580323192568669,5
+Real estate and housing services,Personal services,2516,1058007,0.0023780560998178653,6
+Real estate and housing services,Financial intermediation,1436,1058007,0.0013572689027577323,7
+Real estate and housing services,"Transport, communications and information services",836,1058007,0.0007901649043909918,8
+Real estate and housing services,Manufacturing,726,1058007,0.000686195838023756,9
+Real estate and housing services,"Agriculture, forestry and fishing",444,1058007,0.00041965695879138794,10
+Real estate and housing services,Mining,194,1058007,0.00018336362613857943,11
+Real estate and housing services,"Electricity, gas, water and waste management",102,1058007,9.640767972234589e-05,12
+Real estate and housing services,Public administration,68,1058007,6.427178648156392e-05,13
+Real estate and housing services,"Unemployment from Agriculture, forestry and fishing",0,1058007,0.0,14
+Real estate and housing services,Unemployment from Mining,0,1058007,0.0,15
+Real estate and housing services,Unemployment from Manufacturing,0,1058007,0.0,16
+Real estate and housing services,"Unemployment from Electricity, gas, water and waste management",0,1058007,0.0,17
+Real estate and housing services,Unemployment from Construction,0,1058007,0.0,18
+Real estate and housing services,"Unemployment from Wholesale and retail trade, accommodation and food services",0,1058007,0.0,19
+Real estate and housing services,"Unemployment from Transport, communications and information services",0,1058007,0.0,20
+Real estate and housing services,Unemployment from Financial intermediation,0,1058007,0.0,21
+Real estate and housing services,Unemployment from Business services,0,1058007,0.0,22
+Real estate and housing services,Unemployment from Personal services,0,1058007,0.0,23
+Real estate and housing services,Unemployment from Public administration,0,1058007,0.0,24
+"Transport, communications and information services","Transport, communications and information services",11614864,12263962,0.9470727322866787,1
+"Transport, communications and information services","Unemployment from Transport, communications and information services",555029,12263962,0.04525690800411808,2
+"Transport, communications and information services",Business services,26803,12263962,0.002185509054904117,3
+"Transport, communications and information services","Wholesale and retail trade, accommodation and food services",17209,12263962,0.001403217002792409,4
+"Transport, communications and information services",Construction,13741,12263962,0.0011204372616288277,5
+"Transport, communications and information services",Personal services,9846,12263962,0.0008028400609851857,6
+"Transport, communications and information services",Financial intermediation,9773,12263962,0.0007968876615892972,7
+"Transport, communications and information services",Manufacturing,7750,12263962,0.000631932812577208,8
+"Transport, communications and information services","Agriculture, forestry and fishing",4290,12263962,0.00034980538915564154,9
+"Transport, communications and information services",Mining,1890,12263962,0.00015411006655108683,10
+"Transport, communications and information services","Electricity, gas, water and waste management",1420,12263962,0.00011578639920769487,11
+"Transport, communications and information services",Real estate and housing services,858,12263962,6.99610778311283e-05,12
+"Transport, communications and information services",Public administration,489,12263962,3.987292198067802e-05,13
+"Transport, communications and information services","Unemployment from Agriculture, forestry and fishing",0,12263962,0.0,14
+"Transport, communications and information services",Unemployment from Mining,0,12263962,0.0,15
+"Transport, communications and information services",Unemployment from Manufacturing,0,12263962,0.0,16
+"Transport, communications and information services","Unemployment from Electricity, gas, water and waste management",0,12263962,0.0,17
+"Transport, communications and information services",Unemployment from Construction,0,12263962,0.0,18
+"Transport, communications and information services","Unemployment from Wholesale and retail trade, accommodation and food services",0,12263962,0.0,19
+"Transport, communications and information services",Unemployment from Financial intermediation,0,12263962,0.0,20
+"Transport, communications and information services",Unemployment from Real estate and housing services,0,12263962,0.0,21
+"Transport, communications and information services",Unemployment from Business services,0,12263962,0.0,22
+"Transport, communications and information services",Unemployment from Personal services,0,12263962,0.0,23
+"Transport, communications and information services",Unemployment from Public administration,0,12263962,0.0,24
+"Unemployment from Agriculture, forestry and fishing","Unemployment from Agriculture, forestry and fishing",6314682,6995193,0.9027173374630264,1
+"Unemployment from Agriculture, forestry and fishing","Agriculture, forestry and fishing",514193,6995193,0.07350662090381209,2
+"Unemployment from Agriculture, forestry and fishing","Wholesale and retail trade, accommodation and food services",39279,6995193,0.005615141712315872,3
+"Unemployment from Agriculture, forestry and fishing",Construction,38919,6995193,0.005563677799883434,4
+"Unemployment from Agriculture, forestry and fishing",Business services,27264,6995193,0.003897533634883269,5
+"Unemployment from Agriculture, forestry and fishing",Manufacturing,26949,6995193,0.003852502711504886,6
+"Unemployment from Agriculture, forestry and fishing","Transport, communications and information services",13128,6995193,0.001876717340036222,7
+"Unemployment from Agriculture, forestry and fishing",Personal services,12018,6995193,0.0017180369433695396,8
+"Unemployment from Agriculture, forestry and fishing",Financial intermediation,2360,6995193,0.0003373745370570905,9
+"Unemployment from Agriculture, forestry and fishing",Public administration,2345,6995193,0.0003352302073724056,10
+"Unemployment from Agriculture, forestry and fishing","Electricity, gas, water and waste management",1579,6995193,0.0002257264381411635,11
+"Unemployment from Agriculture, forestry and fishing",Mining,1335,6995193,0.00019084534193695586,12
+"Unemployment from Agriculture, forestry and fishing",Real estate and housing services,1142,6995193,0.00016325496666067684,13
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Mining,0,6995193,0.0,14
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Manufacturing,0,6995193,0.0,15
+"Unemployment from Agriculture, forestry and fishing","Unemployment from Electricity, gas, water and waste management",0,6995193,0.0,16
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Construction,0,6995193,0.0,17
+"Unemployment from Agriculture, forestry and fishing","Unemployment from Wholesale and retail trade, accommodation and food services",0,6995193,0.0,18
+"Unemployment from Agriculture, forestry and fishing","Unemployment from Transport, communications and information services",0,6995193,0.0,19
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Financial intermediation,0,6995193,0.0,20
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Real estate and housing services,0,6995193,0.0,21
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Business services,0,6995193,0.0,22
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Personal services,0,6995193,0.0,23
+"Unemployment from Agriculture, forestry and fishing",Unemployment from Public administration,0,6995193,0.0,24
+Unemployment from Business services,Unemployment from Business services,10569376,11587877,0.9121063331963223,1
+Unemployment from Business services,Business services,594429,11587877,0.0512974896091838,2
+Unemployment from Business services,Construction,102399,11587877,0.008836735150019284,3
+Unemployment from Business services,"Wholesale and retail trade, accommodation and food services",96787,11587877,0.008352435912117465,4
+Unemployment from Business services,Personal services,70207,11587877,0.006058659407586048,5
+Unemployment from Business services,"Transport, communications and information services",48103,11587877,0.004151148653027643,6
+Unemployment from Business services,Manufacturing,46788,11587877,0.004037667986983293,7
+Unemployment from Business services,"Agriculture, forestry and fishing",23902,11587877,0.0020626729123893878,8
+Unemployment from Business services,Financial intermediation,16234,11587877,0.0014009468688699405,9
+Unemployment from Business services,Mining,5876,11587877,0.0005070816681951319,10
+Unemployment from Business services,"Electricity, gas, water and waste management",5196,11587877,0.0004483996507729587,11
+Unemployment from Business services,Real estate and housing services,4466,11587877,0.00038540277912856686,12
+Unemployment from Business services,Public administration,4114,11587877,0.0003550262054041478,13
+Unemployment from Business services,"Unemployment from Agriculture, forestry and fishing",0,11587877,0.0,14
+Unemployment from Business services,Unemployment from Mining,0,11587877,0.0,15
+Unemployment from Business services,Unemployment from Manufacturing,0,11587877,0.0,16
+Unemployment from Business services,"Unemployment from Electricity, gas, water and waste management",0,11587877,0.0,17
+Unemployment from Business services,Unemployment from Construction,0,11587877,0.0,18
+Unemployment from Business services,"Unemployment from Wholesale and retail trade, accommodation and food services",0,11587877,0.0,19
+Unemployment from Business services,"Unemployment from Transport, communications and information services",0,11587877,0.0,20
+Unemployment from Business services,Unemployment from Financial intermediation,0,11587877,0.0,21
+Unemployment from Business services,Unemployment from Real estate and housing services,0,11587877,0.0,22
+Unemployment from Business services,Unemployment from Personal services,0,11587877,0.0,23
+Unemployment from Business services,Unemployment from Public administration,0,11587877,0.0,24
+Unemployment from Construction,Unemployment from Construction,11097755,12467383,0.890143103809356,1
+Unemployment from Construction,Construction,1017593,12467383,0.08162041705143734,2
+Unemployment from Construction,Business services,107401,12467383,0.008614558484326663,3
+Unemployment from Construction,Manufacturing,58310,12467383,0.004677003987123842,4
+Unemployment from Construction,"Wholesale and retail trade, accommodation and food services",55012,12467383,0.004412473732458528,5
+Unemployment from Construction,"Agriculture, forestry and fishing",36123,12467383,0.0028974003606049483,6
+Unemployment from Construction,"Transport, communications and information services",34927,12467383,0.0028014700438736824,7
+Unemployment from Construction,Personal services,30032,12467383,0.002408845545211854,8
+Unemployment from Construction,"Electricity, gas, water and waste management",7746,12467383,0.0006213011984953057,9
+Unemployment from Construction,Mining,7539,12467383,0.0006046978744456635,10
+Unemployment from Construction,Real estate and housing services,5395,12467383,0.000432729146124732,11
+Unemployment from Construction,Financial intermediation,5251,12467383,0.00042117900765541573,12
+Unemployment from Construction,Public administration,4299,12467383,0.0003448197588860469,13
+Unemployment from Construction,"Unemployment from Agriculture, forestry and fishing",0,12467383,0.0,14
+Unemployment from Construction,Unemployment from Mining,0,12467383,0.0,15
+Unemployment from Construction,Unemployment from Manufacturing,0,12467383,0.0,16
+Unemployment from Construction,"Unemployment from Electricity, gas, water and waste management",0,12467383,0.0,17
+Unemployment from Construction,"Unemployment from Wholesale and retail trade, accommodation and food services",0,12467383,0.0,18
+Unemployment from Construction,"Unemployment from Transport, communications and information services",0,12467383,0.0,19
+Unemployment from Construction,Unemployment from Financial intermediation,0,12467383,0.0,20
+Unemployment from Construction,Unemployment from Real estate and housing services,0,12467383,0.0,21
+Unemployment from Construction,Unemployment from Business services,0,12467383,0.0,22
+Unemployment from Construction,Unemployment from Personal services,0,12467383,0.0,23
+Unemployment from Construction,Unemployment from Public administration,0,12467383,0.0,24
+"Unemployment from Electricity, gas, water and waste management","Unemployment from Electricity, gas, water and waste management",465889,516912,0.9012926765097348,1
+"Unemployment from Electricity, gas, water and waste management","Electricity, gas, water and waste management",27776,516912,0.05373448478657876,2
+"Unemployment from Electricity, gas, water and waste management",Construction,7236,516912,0.01399851425387687,3
+"Unemployment from Electricity, gas, water and waste management",Business services,5077,516912,0.009821787847834834,4
+"Unemployment from Electricity, gas, water and waste management","Wholesale and retail trade, accommodation and food services",2742,516912,0.005304577955241898,5
+"Unemployment from Electricity, gas, water and waste management","Transport, communications and information services",2321,516912,0.004490125978890024,6
+"Unemployment from Electricity, gas, water and waste management",Manufacturing,1878,516912,0.003633113566719287,7
+"Unemployment from Electricity, gas, water and waste management",Personal services,1560,516912,0.00301792181261027,8
+"Unemployment from Electricity, gas, water and waste management","Agriculture, forestry and fishing",1313,516912,0.0025400841922803108,9
+"Unemployment from Electricity, gas, water and waste management",Financial intermediation,448,516912,0.0008666852384932058,10
+"Unemployment from Electricity, gas, water and waste management",Mining,357,516912,0.0006906397994242734,11
+"Unemployment from Electricity, gas, water and waste management",Public administration,185,516912,0.0003578945739313462,12
+"Unemployment from Electricity, gas, water and waste management",Real estate and housing services,130,516912,0.0002514934843841892,13
+"Unemployment from Electricity, gas, water and waste management","Unemployment from Agriculture, forestry and fishing",0,516912,0.0,14
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Mining,0,516912,0.0,15
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Manufacturing,0,516912,0.0,16
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Construction,0,516912,0.0,17
+"Unemployment from Electricity, gas, water and waste management","Unemployment from Wholesale and retail trade, accommodation and food services",0,516912,0.0,18
+"Unemployment from Electricity, gas, water and waste management","Unemployment from Transport, communications and information services",0,516912,0.0,19
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Financial intermediation,0,516912,0.0,20
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Real estate and housing services,0,516912,0.0,21
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Business services,0,516912,0.0,22
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Personal services,0,516912,0.0,23
+"Unemployment from Electricity, gas, water and waste management",Unemployment from Public administration,0,516912,0.0,24
+Unemployment from Financial intermediation,Unemployment from Financial intermediation,2219282,2418418,0.9176585685352987,1
+Unemployment from Financial intermediation,Financial intermediation,134629,2418418,0.05566820954855612,2
+Unemployment from Financial intermediation,Business services,18160,2418418,0.007509041034262894,3
+Unemployment from Financial intermediation,"Wholesale and retail trade, accommodation and food services",13239,2418418,0.0054742397716192985,4
+Unemployment from Financial intermediation,Personal services,9961,2418418,0.004118808245720963,5
+Unemployment from Financial intermediation,"Transport, communications and information services",6793,2418418,0.0028088609992151896,6
+Unemployment from Financial intermediation,Construction,6351,2418418,0.0026260968947468964,7
+Unemployment from Financial intermediation,Manufacturing,4185,2418418,0.0017304700841624565,8
+Unemployment from Financial intermediation,"Agriculture, forestry and fishing",2801,2418418,0.0011581951507142272,9
+Unemployment from Financial intermediation,Real estate and housing services,1484,2418418,0.0006136242783505581,10
+Unemployment from Financial intermediation,Public administration,630,2418418,0.0002605008728846709,11
+Unemployment from Financial intermediation,Mining,475,2418418,0.00019640938828606138,12
+Unemployment from Financial intermediation,"Electricity, gas, water and waste management",428,2418418,0.0001769751961819669,13
+Unemployment from Financial intermediation,"Unemployment from Agriculture, forestry and fishing",0,2418418,0.0,14
+Unemployment from Financial intermediation,Unemployment from Mining,0,2418418,0.0,15
+Unemployment from Financial intermediation,Unemployment from Manufacturing,0,2418418,0.0,16
+Unemployment from Financial intermediation,"Unemployment from Electricity, gas, water and waste management",0,2418418,0.0,17
+Unemployment from Financial intermediation,Unemployment from Construction,0,2418418,0.0,18
+Unemployment from Financial intermediation,"Unemployment from Wholesale and retail trade, accommodation and food services",0,2418418,0.0,19
+Unemployment from Financial intermediation,"Unemployment from Transport, communications and information services",0,2418418,0.0,20
+Unemployment from Financial intermediation,Unemployment from Real estate and housing services,0,2418418,0.0,21
+Unemployment from Financial intermediation,Unemployment from Business services,0,2418418,0.0,22
+Unemployment from Financial intermediation,Unemployment from Personal services,0,2418418,0.0,23
+Unemployment from Financial intermediation,Unemployment from Public administration,0,2418418,0.0,24
+Unemployment from Manufacturing,Unemployment from Manufacturing,5929021,6501792,0.9119056715440912,1
+Unemployment from Manufacturing,Manufacturing,319670,6501792,0.049166445189264746,2
+Unemployment from Manufacturing,Construction,61839,6501792,0.00951107017880609,3
+Unemployment from Manufacturing,"Wholesale and retail trade, accommodation and food services",59721,6501792,0.009185313833478525,4
+Unemployment from Manufacturing,Business services,53492,6501792,0.008227270266412706,5
+Unemployment from Manufacturing,"Agriculture, forestry and fishing",27141,6501792,0.0041743876149836845,6
+Unemployment from Manufacturing,Personal services,20106,6501792,0.003092378224341843,7
+Unemployment from Manufacturing,"Transport, communications and information services",19314,6501792,0.00297056565328451,8
+Unemployment from Manufacturing,Financial intermediation,3908,6501792,0.0006010650602172447,9
+Unemployment from Manufacturing,"Electricity, gas, water and waste management",2216,6501792,0.0003408291129583967,10
+Unemployment from Manufacturing,Mining,2090,6501792,0.0003214498402901846,11
+Unemployment from Manufacturing,Public administration,1671,6501792,0.00025700606848081265,12
+Unemployment from Manufacturing,Real estate and housing services,1603,6501792,0.0002465474133900315,13
+Unemployment from Manufacturing,"Unemployment from Agriculture, forestry and fishing",0,6501792,0.0,14
+Unemployment from Manufacturing,Unemployment from Mining,0,6501792,0.0,15
+Unemployment from Manufacturing,"Unemployment from Electricity, gas, water and waste management",0,6501792,0.0,16
+Unemployment from Manufacturing,Unemployment from Construction,0,6501792,0.0,17
+Unemployment from Manufacturing,"Unemployment from Wholesale and retail trade, accommodation and food services",0,6501792,0.0,18
+Unemployment from Manufacturing,"Unemployment from Transport, communications and information services",0,6501792,0.0,19
+Unemployment from Manufacturing,Unemployment from Financial intermediation,0,6501792,0.0,20
+Unemployment from Manufacturing,Unemployment from Real estate and housing services,0,6501792,0.0,21
+Unemployment from Manufacturing,Unemployment from Business services,0,6501792,0.0,22
+Unemployment from Manufacturing,Unemployment from Personal services,0,6501792,0.0,23
+Unemployment from Manufacturing,Unemployment from Public administration,0,6501792,0.0,24
+Unemployment from Mining,Unemployment from Mining,786242,937994,0.8382164491457301,1
+Unemployment from Mining,Mining,124433,937994,0.1326586310786636,2
+Unemployment from Mining,Construction,8379,937994,0.008932892960935784,3
+Unemployment from Mining,Business services,7060,937994,0.007526700597231965,4
+Unemployment from Mining,"Wholesale and retail trade, accommodation and food services",2954,937994,0.0031492738759522983,5
+Unemployment from Mining,"Transport, communications and information services",2611,937994,0.0027835998950952777,6
+Unemployment from Mining,Manufacturing,2373,937994,0.0025298669287863247,7
+Unemployment from Mining,"Agriculture, forestry and fishing",1301,937994,0.001387002475495579,8
+Unemployment from Mining,Personal services,1297,937994,0.0013827380558937476,9
+Unemployment from Mining,Financial intermediation,565,937994,0.0006023492687586488,10
+Unemployment from Mining,"Electricity, gas, water and waste management",474,937994,0.0005053337228169904,11
+Unemployment from Mining,Public administration,170,937994,0.00018123783307782352,12
+Unemployment from Mining,Real estate and housing services,135,937994,0.00014392416156180105,13
+Unemployment from Mining,"Unemployment from Agriculture, forestry and fishing",0,937994,0.0,14
+Unemployment from Mining,Unemployment from Manufacturing,0,937994,0.0,15
+Unemployment from Mining,"Unemployment from Electricity, gas, water and waste management",0,937994,0.0,16
+Unemployment from Mining,Unemployment from Construction,0,937994,0.0,17
+Unemployment from Mining,"Unemployment from Wholesale and retail trade, accommodation and food services",0,937994,0.0,18
+Unemployment from Mining,"Unemployment from Transport, communications and information services",0,937994,0.0,19
+Unemployment from Mining,Unemployment from Financial intermediation,0,937994,0.0,20
+Unemployment from Mining,Unemployment from Real estate and housing services,0,937994,0.0,21
+Unemployment from Mining,Unemployment from Business services,0,937994,0.0,22
+Unemployment from Mining,Unemployment from Personal services,0,937994,0.0,23
+Unemployment from Mining,Unemployment from Public administration,0,937994,0.0,24
+Unemployment from Personal services,Unemployment from Personal services,10119499,10794267,0.9374882981864354,1
+Unemployment from Personal services,Personal services,462084,10794267,0.04280827961731908,2
+Unemployment from Personal services,Business services,68995,10794267,0.006391818916467417,3
+Unemployment from Personal services,"Wholesale and retail trade, accommodation and food services",47630,10794267,0.004412527501867426,4
+Unemployment from Personal services,Construction,30289,10794267,0.002806026569474333,5
+Unemployment from Personal services,"Transport, communications and information services",18292,10794267,0.0016946032555985506,6
+Unemployment from Personal services,Manufacturing,16855,10794267,0.0015614770322060776,7
+Unemployment from Personal services,"Agriculture, forestry and fishing",10745,10794267,0.0009954358179207537,8
+Unemployment from Personal services,Financial intermediation,7725,10794267,0.0007156576727257164,9
+Unemployment from Personal services,Public administration,6658,10794267,0.0006168089042081319,10
+Unemployment from Personal services,Real estate and housing services,2775,10794267,0.0002570809115616651,11
+Unemployment from Personal services,"Electricity, gas, water and waste management",1619,10794267,0.000149987025520121,12
+Unemployment from Personal services,Mining,1101,10794267,0.00010199858869527685,13
+Unemployment from Personal services,"Unemployment from Agriculture, forestry and fishing",0,10794267,0.0,14
+Unemployment from Personal services,Unemployment from Mining,0,10794267,0.0,15
+Unemployment from Personal services,Unemployment from Manufacturing,0,10794267,0.0,16
+Unemployment from Personal services,"Unemployment from Electricity, gas, water and waste management",0,10794267,0.0,17
+Unemployment from Personal services,Unemployment from Construction,0,10794267,0.0,18
+Unemployment from Personal services,"Unemployment from Wholesale and retail trade, accommodation and food services",0,10794267,0.0,19
+Unemployment from Personal services,"Unemployment from Transport, communications and information services",0,10794267,0.0,20
+Unemployment from Personal services,Unemployment from Financial intermediation,0,10794267,0.0,21
+Unemployment from Personal services,Unemployment from Real estate and housing services,0,10794267,0.0,22
+Unemployment from Personal services,Unemployment from Business services,0,10794267,0.0,23
+Unemployment from Personal services,Unemployment from Public administration,0,10794267,0.0,24
+Unemployment from Public administration,Unemployment from Public administration,1067900,1130724,0.9444391381097421,1
+Unemployment from Public administration,Public administration,41914,1130724,0.03706828545250654,2
+Unemployment from Public administration,Personal services,6011,1130724,0.005316062982655361,3
+Unemployment from Public administration,Construction,3787,1130724,0.0033491815863110714,4
+Unemployment from Public administration,Business services,3416,1130724,0.003021073223881336,5
+Unemployment from Public administration,"Wholesale and retail trade, accommodation and food services",2986,1130724,0.0026407859035449855,6
+Unemployment from Public administration,"Agriculture, forestry and fishing",1660,1130724,0.0014680859343217266,7
+Unemployment from Public administration,Manufacturing,1123,1130724,0.0009931689784598186,8
+Unemployment from Public administration,"Transport, communications and information services",1082,1130724,0.0009569090246603062,9
+Unemployment from Public administration,Financial intermediation,421,1130724,0.00037232781828279936,10
+Unemployment from Public administration,"Electricity, gas, water and waste management",165,1130724,0.00014592420431511137,11
+Unemployment from Public administration,Real estate and housing services,148,1130724,0.0001308895893250696,12
+Unemployment from Public administration,Mining,111,1130724,9.81671919938022e-05,13
+Unemployment from Public administration,"Unemployment from Agriculture, forestry and fishing",0,1130724,0.0,14
+Unemployment from Public administration,Unemployment from Mining,0,1130724,0.0,15
+Unemployment from Public administration,Unemployment from Manufacturing,0,1130724,0.0,16
+Unemployment from Public administration,"Unemployment from Electricity, gas, water and waste management",0,1130724,0.0,17
+Unemployment from Public administration,Unemployment from Construction,0,1130724,0.0,18
+Unemployment from Public administration,"Unemployment from Wholesale and retail trade, accommodation and food services",0,1130724,0.0,19
+Unemployment from Public administration,"Unemployment from Transport, communications and information services",0,1130724,0.0,20
+Unemployment from Public administration,Unemployment from Financial intermediation,0,1130724,0.0,21
+Unemployment from Public administration,Unemployment from Real estate and housing services,0,1130724,0.0,22
+Unemployment from Public administration,Unemployment from Business services,0,1130724,0.0,23
+Unemployment from Public administration,Unemployment from Personal services,0,1130724,0.0,24
+Unemployment from Real estate and housing services,Unemployment from Real estate and housing services,591056,633947,0.9323429245662492,1
+Unemployment from Real estate and housing services,Real estate and housing services,19553,633947,0.030843272387123845,2
+Unemployment from Real estate and housing services,Construction,5343,633947,0.008428149356334205,3
+Unemployment from Real estate and housing services,Business services,4783,633947,0.007544794754135598,4
+Unemployment from Real estate and housing services,"Wholesale and retail trade, accommodation and food services",4715,633947,0.007437530266725768,5
+Unemployment from Real estate and housing services,Personal services,2942,633947,0.0046407664994076794,6
+Unemployment from Real estate and housing services,Manufacturing,1483,633947,0.0023393122768938096,7
+Unemployment from Real estate and housing services,"Transport, communications and information services",1424,633947,0.0022462445598764565,8
+Unemployment from Real estate and housing services,Financial intermediation,1184,633947,0.0018676640160770538,9
+Unemployment from Real estate and housing services,"Agriculture, forestry and fishing",1024,633947,0.0016152769868774518,10
+Unemployment from Real estate and housing services,Public administration,188,633947,0.00029655475930953217,11
+Unemployment from Real estate and housing services,"Electricity, gas, water and waste management",131,633947,0.00020664188015717403,12
+Unemployment from Real estate and housing services,Mining,121,633947,0.0001908676908321989,13
+Unemployment from Real estate and housing services,"Unemployment from Agriculture, forestry and fishing",0,633947,0.0,14
+Unemployment from Real estate and housing services,Unemployment from Mining,0,633947,0.0,15
+Unemployment from Real estate and housing services,Unemployment from Manufacturing,0,633947,0.0,16
+Unemployment from Real estate and housing services,"Unemployment from Electricity, gas, water and waste management",0,633947,0.0,17
+Unemployment from Real estate and housing services,Unemployment from Construction,0,633947,0.0,18
+Unemployment from Real estate and housing services,"Unemployment from Wholesale and retail trade, accommodation and food services",0,633947,0.0,19
+Unemployment from Real estate and housing services,"Unemployment from Transport, communications and information services",0,633947,0.0,20
+Unemployment from Real estate and housing services,Unemployment from Financial intermediation,0,633947,0.0,21
+Unemployment from Real estate and housing services,Unemployment from Business services,0,633947,0.0,22
+Unemployment from Real estate and housing services,Unemployment from Personal services,0,633947,0.0,23
+Unemployment from Real estate and housing services,Unemployment from Public administration,0,633947,0.0,24
+"Unemployment from Transport, communications and information services","Unemployment from Transport, communications and information services",5576174,6075256,0.9178500461544337,1
+"Unemployment from Transport, communications and information services","Transport, communications and information services",317071,6075256,0.05219055789583188,2
+"Unemployment from Transport, communications and information services",Business services,49364,6075256,0.00812541891238822,3
+"Unemployment from Transport, communications and information services","Wholesale and retail trade, accommodation and food services",38688,6075256,0.006368126709392987,4
+"Unemployment from Transport, communications and information services",Construction,32748,6075256,0.005390390133354051,5
+"Unemployment from Transport, communications and information services",Personal services,18950,6075256,0.0031192101205282543,6
+"Unemployment from Transport, communications and information services",Manufacturing,16743,6075256,0.002755933247915808,7
+"Unemployment from Transport, communications and information services","Agriculture, forestry and fishing",12008,6075256,0.00197654222307669,8
+"Unemployment from Transport, communications and information services",Financial intermediation,6134,6075256,0.0010096693867715203,9
+"Unemployment from Transport, communications and information services","Electricity, gas, water and waste management",2382,6075256,0.0003920822431186439,10
+"Unemployment from Transport, communications and information services",Mining,2067,6075256,0.00034023257620748824,11
+"Unemployment from Transport, communications and information services",Real estate and housing services,1490,6075256,0.0002452571545956253,12
+"Unemployment from Transport, communications and information services",Public administration,1437,6075256,0.00023653324238517685,13
+"Unemployment from Transport, communications and information services","Unemployment from Agriculture, forestry and fishing",0,6075256,0.0,14
+"Unemployment from Transport, communications and information services",Unemployment from Mining,0,6075256,0.0,15
+"Unemployment from Transport, communications and information services",Unemployment from Manufacturing,0,6075256,0.0,16
+"Unemployment from Transport, communications and information services","Unemployment from Electricity, gas, water and waste management",0,6075256,0.0,17
+"Unemployment from Transport, communications and information services",Unemployment from Construction,0,6075256,0.0,18
+"Unemployment from Transport, communications and information services","Unemployment from Wholesale and retail trade, accommodation and food services",0,6075256,0.0,19
+"Unemployment from Transport, communications and information services",Unemployment from Financial intermediation,0,6075256,0.0,20
+"Unemployment from Transport, communications and information services",Unemployment from Real estate and housing services,0,6075256,0.0,21
+"Unemployment from Transport, communications and information services",Unemployment from Business services,0,6075256,0.0,22
+"Unemployment from Transport, communications and information services",Unemployment from Personal services,0,6075256,0.0,23
+"Unemployment from Transport, communications and information services",Unemployment from Public administration,0,6075256,0.0,24
+"Unemployment from Wholesale and retail trade, accommodation and food services","Unemployment from Wholesale and retail trade, accommodation and food services",14741276,15932243,0.9252480018036381,1
+"Unemployment from Wholesale and retail trade, accommodation and food services","Wholesale and retail trade, accommodation and food services",797798,15932243,0.0500744308255906,2
+"Unemployment from Wholesale and retail trade, accommodation and food services",Business services,110425,15932243,0.006930913619632841,3
+"Unemployment from Wholesale and retail trade, accommodation and food services",Construction,59496,15932243,0.0037343141201147886,4
+"Unemployment from Wholesale and retail trade, accommodation and food services",Personal services,57903,15932243,0.0036343281984840426,5
+"Unemployment from Wholesale and retail trade, accommodation and food services",Manufacturing,57582,15932243,0.0036141803762345325,6
+"Unemployment from Wholesale and retail trade, accommodation and food services","Transport, communications and information services",42642,15932243,0.002676459303313413,7
+"Unemployment from Wholesale and retail trade, accommodation and food services","Agriculture, forestry and fishing",36941,15932243,0.002318631469530059,8
+"Unemployment from Wholesale and retail trade, accommodation and food services",Financial intermediation,12966,15932243,0.0008138213809568433,9
+"Unemployment from Wholesale and retail trade, accommodation and food services",Real estate and housing services,4722,15932243,0.0002963801142124182,10
+"Unemployment from Wholesale and retail trade, accommodation and food services",Public administration,4437,15932243,0.0002784918608133205,11
+"Unemployment from Wholesale and retail trade, accommodation and food services","Electricity, gas, water and waste management",3357,15932243,0.0002107047953009504,12
+"Unemployment from Wholesale and retail trade, accommodation and food services",Mining,2698,15932243,0.00016934213217812457,13
+"Unemployment from Wholesale and retail trade, accommodation and food services","Unemployment from Agriculture, forestry and fishing",0,15932243,0.0,14
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Mining,0,15932243,0.0,15
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Manufacturing,0,15932243,0.0,16
+"Unemployment from Wholesale and retail trade, accommodation and food services","Unemployment from Electricity, gas, water and waste management",0,15932243,0.0,17
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Construction,0,15932243,0.0,18
+"Unemployment from Wholesale and retail trade, accommodation and food services","Unemployment from Transport, communications and information services",0,15932243,0.0,19
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Financial intermediation,0,15932243,0.0,20
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Real estate and housing services,0,15932243,0.0,21
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Business services,0,15932243,0.0,22
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Personal services,0,15932243,0.0,23
+"Unemployment from Wholesale and retail trade, accommodation and food services",Unemployment from Public administration,0,15932243,0.0,24
+"Wholesale and retail trade, accommodation and food services","Wholesale and retail trade, accommodation and food services",24077484,25576916,0.94137557475655,1
+"Wholesale and retail trade, accommodation and food services","Unemployment from Wholesale and retail trade, accommodation and food services",1337178,25576916,0.05228065807464825,2
+"Wholesale and retail trade, accommodation and food services",Business services,44587,25576916,0.0017432516101628516,3
+"Wholesale and retail trade, accommodation and food services",Manufacturing,25418,25576916,0.0009937867411379856,4
+"Wholesale and retail trade, accommodation and food services",Personal services,21739,25576916,0.0008499460998347103,5
+"Wholesale and retail trade, accommodation and food services",Construction,19713,25576916,0.0007707340478422027,6
+"Wholesale and retail trade, accommodation and food services","Transport, communications and information services",18055,25576916,0.0007059099697555405,7
+"Wholesale and retail trade, accommodation and food services",Financial intermediation,14574,25576916,0.000569810683977693,8
+"Wholesale and retail trade, accommodation and food services","Agriculture, forestry and fishing",10210,25576916,0.00039918808037685234,9
+"Wholesale and retail trade, accommodation and food services",Real estate and housing services,2611,25576916,0.00010208423877218035,10
+"Wholesale and retail trade, accommodation and food services",Mining,2492,25576916,9.743160590588795e-05,11
+"Wholesale and retail trade, accommodation and food services","Electricity, gas, water and waste management",1476,25576916,5.770828664409736e-05,12
+"Wholesale and retail trade, accommodation and food services",Public administration,1379,25576916,5.391580439174137e-05,13
+"Wholesale and retail trade, accommodation and food services","Unemployment from Agriculture, forestry and fishing",0,25576916,0.0,14
+"Wholesale and retail trade, accommodation and food services",Unemployment from Mining,0,25576916,0.0,15
+"Wholesale and retail trade, accommodation and food services",Unemployment from Manufacturing,0,25576916,0.0,16
+"Wholesale and retail trade, accommodation and food services","Unemployment from Electricity, gas, water and waste management",0,25576916,0.0,17
+"Wholesale and retail trade, accommodation and food services",Unemployment from Construction,0,25576916,0.0,18
+"Wholesale and retail trade, accommodation and food services","Unemployment from Transport, communications and information services",0,25576916,0.0,19
+"Wholesale and retail trade, accommodation and food services",Unemployment from Financial intermediation,0,25576916,0.0,20
+"Wholesale and retail trade, accommodation and food services",Unemployment from Real estate and housing services,0,25576916,0.0,21
+"Wholesale and retail trade, accommodation and food services",Unemployment from Business services,0,25576916,0.0,22
+"Wholesale and retail trade, accommodation and food services",Unemployment from Personal services,0,25576916,0.0,23
+"Wholesale and retail trade, accommodation and food services",Unemployment from Public administration,0,25576916,0.0,24

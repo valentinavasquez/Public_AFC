@@ -1,0 +1,170 @@
+State_From,State_To,Count,Total_From,Share,Rank
+"Agriculture, forestry and fishing","Agriculture, forestry and fishing",6407892,7190397,0.8911736027927248,1
+"Agriculture, forestry and fishing",Unemployment,732179,7190397,0.10182733999249277,2
+"Agriculture, forestry and fishing","Wholesale and retail trade, accommodation and food services",10487,7190397,0.0014584730161630853,3
+"Agriculture, forestry and fishing",Construction,8965,7190397,0.0012468018108040488,4
+"Agriculture, forestry and fishing",Manufacturing,8912,7190397,0.001239430868698905,5
+"Agriculture, forestry and fishing",Business services,8710,7190397,0.0012113378440717529,6
+"Agriculture, forestry and fishing","Transport, communications and information services",4476,7190397,0.0006224969219362992,7
+"Agriculture, forestry and fishing",Personal services,4014,7190397,0.0005582445586801396,8
+"Agriculture, forestry and fishing",Financial intermediation,2721,7190397,0.00037842138619049824,9
+"Agriculture, forestry and fishing",Real estate and housing services,598,7190397,8.316647884671736e-05,10
+"Agriculture, forestry and fishing",Mining,503,7190397,6.995441280919537e-05,11
+"Agriculture, forestry and fishing",Public administration,497,7190397,6.911996653314135e-05,12
+"Agriculture, forestry and fishing","Electricity, gas, water and waste management",443,7190397,6.160995004865517e-05,13
+Business services,Business services,16896579,18276640,0.9244904424445631,1
+Business services,Unemployment,1125459,18276640,0.06157909768972853,2
+Business services,Construction,53058,18276640,0.0029030500135692337,3
+Business services,"Wholesale and retail trade, accommodation and food services",50334,18276640,0.0027540073011231825,4
+Business services,Personal services,40743,18276640,0.0022292390723896733,5
+Business services,"Transport, communications and information services",33227,18276640,0.001818003746859379,6
+Business services,Manufacturing,31556,18276640,0.0017265755631232,7
+Business services,Financial intermediation,19916,18276640,0.0010896970121422756,8
+Business services,"Agriculture, forestry and fishing",9164,18276640,0.0005014050722671126,9
+Business services,Mining,7207,18276640,0.00039432849801714103,10
+Business services,"Electricity, gas, water and waste management",4733,18276640,0.0002589644486076215,11
+Business services,Real estate and housing services,2945,18276640,0.00016113465057034554,12
+Business services,Public administration,1719,18276640,9.40544870391932e-05,13
+Construction,Construction,13056396,14678972,0.8894625590947377,1
+Construction,Unemployment,1472904,14678972,0.10034108655565253,2
+Construction,Business services,53898,14678972,0.003671783010417896,3
+Construction,Manufacturing,24296,14678972,0.0016551567780087053,4
+Construction,"Wholesale and retail trade, accommodation and food services",16633,14678972,0.0011331174962388375,5
+Construction,"Transport, communications and information services",12506,14678972,0.0008519670178538388,6
+Construction,Personal services,11251,14678972,0.0007664705675574557,7
+Construction,"Agriculture, forestry and fishing",7856,14678972,0.0005351873414568813,8
+Construction,Financial intermediation,7843,14678972,0.0005343017208562016,9
+Construction,Mining,5875,14678972,0.00040023238684561835,10
+Construction,"Electricity, gas, water and waste management",4325,14678972,0.00029463916137996584,11
+Construction,Real estate and housing services,3907,14678972,0.00026616305283503505,12
+Construction,Public administration,1282,14678972,8.733581615933324e-05,13
+"Electricity, gas, water and waste management","Electricity, gas, water and waste management",1283476,1352318,0.9490933345559255,1
+"Electricity, gas, water and waste management",Unemployment,56116,1352318,0.04149615696899694,2
+"Electricity, gas, water and waste management",Construction,3540,1352318,0.002617727487173875,3
+"Electricity, gas, water and waste management",Business services,3061,1352318,0.0022635208582596697,4
+"Electricity, gas, water and waste management","Wholesale and retail trade, accommodation and food services",1155,1352318,0.0008540890530185948,5
+"Electricity, gas, water and waste management","Transport, communications and information services",1057,1352318,0.0007816208909442897,6
+"Electricity, gas, water and waste management",Personal services,983,1352318,0.0007269000338677737,7
+"Electricity, gas, water and waste management",Financial intermediation,981,1352318,0.0007254210917846246,8
+"Electricity, gas, water and waste management",Manufacturing,959,1352318,0.0007091527288699848,9
+"Electricity, gas, water and waste management",Mining,437,1352318,0.00032314884516807435,10
+"Electricity, gas, water and waste management","Agriculture, forestry and fishing",355,1352318,0.000262512219758962,11
+"Electricity, gas, water and waste management",Public administration,116,1352318,8.577864082264674e-05,12
+"Electricity, gas, water and waste management",Real estate and housing services,82,1352318,6.0636625409112356e-05,13
+Financial intermediation,Financial intermediation,4711217,4995387,0.9431135165303509,1
+Financial intermediation,Unemployment,217075,4995387,0.043455091667572505,2
+Financial intermediation,Business services,14693,4995387,0.0029413136559790064,3
+Financial intermediation,"Wholesale and retail trade, accommodation and food services",12897,4995387,0.002581781952028942,4
+Financial intermediation,Personal services,11697,4995387,0.0023415603235545112,5
+Financial intermediation,"Transport, communications and information services",7847,4995387,0.0015708492655323802,6
+Financial intermediation,Construction,6982,4995387,0.0013976895083403949,7
+Financial intermediation,Manufacturing,6387,4995387,0.0012785796175551565,8
+Financial intermediation,"Agriculture, forestry and fishing",2570,4995387,0.000514474654316072,9
+Financial intermediation,Real estate and housing services,1449,4995387,0.00029006761638287483,10
+Financial intermediation,Mining,1420,4995387,0.00028426226036140943,11
+Financial intermediation,"Electricity, gas, water and waste management",754,4995387,0.0001509392565581005,12
+Financial intermediation,Public administration,399,4995387,7.987369146774814e-05,13
+Manufacturing,Manufacturing,12322835,13061949,0.9434147231779882,1
+Manufacturing,Unemployment,628217,13061949,0.048095196206936655,2
+Manufacturing,"Wholesale and retail trade, accommodation and food services",25386,13061949,0.0019435078180139885,3
+Manufacturing,Construction,25246,13061949,0.0019327896625534215,4
+Manufacturing,Business services,24203,13061949,0.001852939404372196,5
+Manufacturing,"Agriculture, forestry and fishing",8946,13061949,0.0006848901339302427,6
+Manufacturing,Personal services,8100,13061949,0.0006201218516471011,7
+Manufacturing,"Transport, communications and information services",7512,13061949,0.000575105598712719,8
+Manufacturing,Financial intermediation,6659,13061949,0.0005098014086565489,9
+Manufacturing,Mining,2443,13061949,0.00018703181278689727,10
+Manufacturing,"Electricity, gas, water and waste management",1264,13061949,9.676963215826366e-05,11
+Manufacturing,Real estate and housing services,688,13061949,5.2672078263358705e-05,12
+Manufacturing,Public administration,450,13061949,3.4451213980394506e-05,13
+Mining,Mining,2027930,2199322,0.9220705290084853,1
+Mining,Unemployment,157361,2199322,0.07154977761328264,2
+Mining,Construction,3969,2199322,0.0018046470685056577,3
+Mining,Business services,3884,2199322,0.0017659987941738408,4
+Mining,Manufacturing,1297,2199322,0.000589727197745487,5
+Mining,Financial intermediation,1264,2199322,0.0005747225735931346,6
+Mining,"Transport, communications and information services",1214,2199322,0.0005519882945744189,7
+Mining,"Wholesale and retail trade, accommodation and food services",1163,2199322,0.0005287993299753288,8
+Mining,Personal services,578,2199322,0.0002628082654563543,9
+Mining,"Agriculture, forestry and fishing",278,2199322,0.00012640259134405967,10
+Mining,"Electricity, gas, water and waste management",262,2199322,0.00011912762205807062,11
+Mining,Real estate and housing services,73,2199322,3.319204736732502e-05,12
+Mining,Public administration,49,2199322,2.227959343834145e-05,13
+Personal services,Personal services,18982445,19883467,0.9546848645661242,1
+Personal services,Unemployment,779724,19883467,0.03921469027509136,2
+Personal services,Business services,38500,19883467,0.0019362820377351697,3
+Personal services,"Wholesale and retail trade, accommodation and food services",22875,19883467,0.0011504532886543377,4
+Personal services,Financial intermediation,12722,19883467,0.0006398280541316059,5
+Personal services,Construction,12445,19883467,0.000625896882067901,6
+Personal services,"Transport, communications and information services",11221,19883467,0.0005643382011799049,7
+Personal services,Manufacturing,10571,19883467,0.0005316477252181423,8
+Personal services,Public administration,4206,19883467,0.00021153252599257464,9
+Personal services,"Agriculture, forestry and fishing",4162,19883467,0.000209319632235163,10
+Personal services,Real estate and housing services,2075,19883467,0.00010435805787793447,11
+Personal services,"Electricity, gas, water and waste management",1452,19883467,7.302549399458353e-05,12
+Personal services,Mining,1069,19883467,5.376325969711419e-05,13
+Public administration,Public administration,1982724,2068869,0.9583613075549975,1
+Public administration,Unemployment,74573,2068869,0.036045298179826754,2
+Public administration,Personal services,5213,2068869,0.0025197342122676688,3
+Public administration,Business services,1546,2068869,0.0007472681933945552,4
+Public administration,Construction,1362,2068869,0.0006583307111276742,5
+Public administration,"Wholesale and retail trade, accommodation and food services",1256,2068869,0.0006070949876478404,6
+Public administration,"Transport, communications and information services",503,2068869,0.0002431280085882673,7
+Public administration,"Agriculture, forestry and fishing",488,2068869,0.00023587767035998896,8
+Public administration,Manufacturing,463,2068869,0.00022379377331285837,9
+Public administration,Financial intermediation,454,2068869,0.00021944357037589137,10
+Public administration,"Electricity, gas, water and waste management",153,2068869,7.395344992843917e-05,11
+Public administration,Mining,78,2068869,3.770175878704741e-05,12
+Public administration,Real estate and housing services,56,2068869,2.7067929385572503e-05,13
+Real estate and housing services,Real estate and housing services,993818,1058007,0.9393302690813955,1
+Real estate and housing services,Unemployment,48839,1058007,0.046161320293722066,2
+Real estate and housing services,Construction,3541,1058007,0.00334685876369438,3
+Real estate and housing services,"Wholesale and retail trade, accommodation and food services",2757,1058007,0.0026058428724951726,4
+Real estate and housing services,Business services,2730,1058007,0.002580323192568669,5
+Real estate and housing services,Personal services,2516,1058007,0.0023780560998178653,6
+Real estate and housing services,Financial intermediation,1436,1058007,0.0013572689027577323,7
+Real estate and housing services,"Transport, communications and information services",836,1058007,0.0007901649043909918,8
+Real estate and housing services,Manufacturing,726,1058007,0.000686195838023756,9
+Real estate and housing services,"Agriculture, forestry and fishing",444,1058007,0.00041965695879138794,10
+Real estate and housing services,Mining,194,1058007,0.00018336362613857943,11
+Real estate and housing services,"Electricity, gas, water and waste management",102,1058007,9.640767972234589e-05,12
+Real estate and housing services,Public administration,68,1058007,6.427178648156392e-05,13
+"Transport, communications and information services","Transport, communications and information services",11614864,12263962,0.9470727322866787,1
+"Transport, communications and information services",Unemployment,555029,12263962,0.04525690800411808,2
+"Transport, communications and information services",Business services,26803,12263962,0.002185509054904117,3
+"Transport, communications and information services","Wholesale and retail trade, accommodation and food services",17209,12263962,0.001403217002792409,4
+"Transport, communications and information services",Construction,13741,12263962,0.0011204372616288277,5
+"Transport, communications and information services",Personal services,9846,12263962,0.0008028400609851857,6
+"Transport, communications and information services",Financial intermediation,9773,12263962,0.0007968876615892972,7
+"Transport, communications and information services",Manufacturing,7750,12263962,0.000631932812577208,8
+"Transport, communications and information services","Agriculture, forestry and fishing",4290,12263962,0.00034980538915564154,9
+"Transport, communications and information services",Mining,1890,12263962,0.00015411006655108683,10
+"Transport, communications and information services","Electricity, gas, water and waste management",1420,12263962,0.00011578639920769487,11
+"Transport, communications and information services",Real estate and housing services,858,12263962,6.99610778311283e-05,12
+"Transport, communications and information services",Public administration,489,12263962,3.987292198067802e-05,13
+Unemployment,Unemployment,69478152,75992006,0.9142823785965066,1
+Unemployment,Construction,1374379,75992006,0.018085836554966057,2
+Unemployment,"Wholesale and retail trade, accommodation and food services",1161551,75992006,0.015285173548386129,3
+Unemployment,Business services,1049866,75992006,0.01381547948609226,4
+Unemployment,Personal services,693071,75992006,0.009120314576246348,5
+Unemployment,"Agriculture, forestry and fishing",669152,75992006,0.008805557784591184,6
+Unemployment,Manufacturing,553939,75992006,0.007289437786390321,7
+Unemployment,"Transport, communications and information services",507708,75992006,0.0066810711642485135,8
+Unemployment,Financial intermediation,191825,75992006,0.0025242786721540156,9
+Unemployment,Mining,148203,75992006,0.0019502446086237018,10
+Unemployment,Public administration,68048,75992006,0.0008954626095802761,11
+Unemployment,"Electricity, gas, water and waste management",53069,75992006,0.0006983497711588242,12
+Unemployment,Real estate and housing services,43043,75992006,0.0005664148410557816,13
+"Wholesale and retail trade, accommodation and food services","Wholesale and retail trade, accommodation and food services",24077484,25576916,0.94137557475655,1
+"Wholesale and retail trade, accommodation and food services",Unemployment,1337178,25576916,0.05228065807464825,2
+"Wholesale and retail trade, accommodation and food services",Business services,44587,25576916,0.0017432516101628516,3
+"Wholesale and retail trade, accommodation and food services",Manufacturing,25418,25576916,0.0009937867411379856,4
+"Wholesale and retail trade, accommodation and food services",Personal services,21739,25576916,0.0008499460998347103,5
+"Wholesale and retail trade, accommodation and food services",Construction,19713,25576916,0.0007707340478422027,6
+"Wholesale and retail trade, accommodation and food services","Transport, communications and information services",18055,25576916,0.0007059099697555405,7
+"Wholesale and retail trade, accommodation and food services",Financial intermediation,14574,25576916,0.000569810683977693,8
+"Wholesale and retail trade, accommodation and food services","Agriculture, forestry and fishing",10210,25576916,0.00039918808037685234,9
+"Wholesale and retail trade, accommodation and food services",Real estate and housing services,2611,25576916,0.00010208423877218035,10
+"Wholesale and retail trade, accommodation and food services",Mining,2492,25576916,9.743160590588795e-05,11
+"Wholesale and retail trade, accommodation and food services","Electricity, gas, water and waste management",1476,25576916,5.770828664409736e-05,12
+"Wholesale and retail trade, accommodation and food services",Public administration,1379,25576916,5.391580439174137e-05,13

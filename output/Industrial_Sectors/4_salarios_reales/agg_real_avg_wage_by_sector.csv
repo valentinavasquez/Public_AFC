@@ -1,0 +1,13 @@
+MIP_sector_id,MIP_sector_name,Real_Avg_Wage
+1,"Agriculture, forestry and fishing",806938.37
+2,Mining,2201901.63
+3,Manufacturing,1105271.02
+4,"Electricity, gas, water and waste management",1391602.69
+5,Construction,1014215.52
+6,"Wholesale and retail trade, accommodation and food services",962600.23
+7,"Transport, communications and information services",1161625.08
+8,Financial intermediation,1715536.87
+9,Real estate and housing services,1155094.93
+10,Business services,1074344.31
+11,Personal services,1047855.63
+12,Public administration,847041.42

@@ -1,0 +1,15 @@
+State_From,"Agriculture, forestry and fishing",Mining,Manufacturing,"Electricity, gas, water and waste management",Construction,"Wholesale and retail trade, accommodation and food services","Transport, communications and information services",Financial intermediation,Real estate and housing services,Business services,Personal services,Public administration,Unemployment
+"Agriculture, forestry and fishing",0,499,8685,436,8746,10180,4391,2662,586,8531,3906,480,707605
+Mining,273,0,1284,260,3918,1156,1197,1238,70,3834,570,47,156180
+Manufacturing,8778,2410,0,1250,24839,25007,7394,6511,676,23837,7952,437,613318
+"Electricity, gas, water and waste management",349,435,945,0,3504,1139,1040,975,80,3034,972,114,55357
+Construction,7680,5789,23938,4266,0,16333,12315,7696,3865,53285,11034,1249,1444027
+"Wholesale and retail trade, accommodation and food services",10018,2449,24952,1453,19319,0,17717,14316,2558,43749,21240,1341,1297190
+"Transport, communications and information services",4217,1871,7613,1412,13538,16913,0,9605,838,26474,9663,476,544430
+Financial intermediation,2508,1365,6264,741,6869,12647,7726,0,1426,14407,11524,393,212940
+Real estate and housing services,431,192,712,101,3514,2721,825,1412,0,2690,2466,67,47696
+Business services,8987,7126,31077,4685,52336,49325,32725,19572,2901,0,39961,1687,1094840
+Personal services,4066,1042,10341,1429,12142,22438,11028,12533,2028,37923,0,4147,756634
+Public administration,476,75,448,149,1325,1224,494,447,56,1515,5136,0,72260
+Unemployment,669152,148203,553939,53069,1374379,1161551,507708,191825,43043,1049866,693071,68048,0
+Entry,84166,15666,131380,9733,154157,301017,113893,42077,11464,201052,208073,19376,182177

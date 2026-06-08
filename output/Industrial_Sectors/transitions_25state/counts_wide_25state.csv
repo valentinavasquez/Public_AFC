@@ -1,0 +1,26 @@
+State_From,"Agriculture, forestry and fishing",Mining,Manufacturing,"Electricity, gas, water and waste management",Construction,"Wholesale and retail trade, accommodation and food services","Transport, communications and information services",Financial intermediation,Real estate and housing services,Business services,Personal services,Public administration,"Unemployment from Agriculture, forestry and fishing",Unemployment from Mining,Unemployment from Manufacturing,"Unemployment from Electricity, gas, water and waste management",Unemployment from Construction,"Unemployment from Wholesale and retail trade, accommodation and food services","Unemployment from Transport, communications and information services",Unemployment from Financial intermediation,Unemployment from Real estate and housing services,Unemployment from Business services,Unemployment from Personal services,Unemployment from Public administration
+"Agriculture, forestry and fishing",6324706,499,8685,436,8746,10180,4391,2662,586,8531,3906,480,707605,0,0,0,0,0,0,0,0,0,0,0
+Mining,273,2012619,1284,260,3918,1156,1197,1238,70,3834,570,47,0,156180,0,0,0,0,0,0,0,0,0,0
+Manufacturing,8778,2410,12193531,1250,24839,25007,7394,6511,676,23837,7952,437,0,0,613318,0,0,0,0,0,0,0,0,0
+"Electricity, gas, water and waste management",349,435,945,1273945,3504,1139,1040,975,80,3034,972,114,0,0,0,55357,0,0,0,0,0,0,0,0
+Construction,7680,5789,23938,4266,12904751,16333,12315,7696,3865,53285,11034,1249,0,0,0,0,1444027,0,0,0,0,0,0,0
+"Wholesale and retail trade, accommodation and food services",10018,2449,24952,1453,19319,23779536,17717,14316,2558,43749,21240,1341,0,0,0,0,0,1297190,0,0,0,0,0,0
+"Transport, communications and information services",4217,1871,7613,1412,13538,16913,11502573,9605,838,26474,9663,476,0,0,0,0,0,0,544430,0,0,0,0,0
+Financial intermediation,2508,1365,6264,741,6869,12647,7726,4670516,1426,14407,11524,393,0,0,0,0,0,0,0,212940,0,0,0,0
+Real estate and housing services,431,192,712,101,3514,2721,825,1412,982612,2690,2466,67,0,0,0,0,0,0,0,0,47696,0,0,0
+Business services,8987,7126,31077,4685,52336,49325,32725,19572,2901,16698863,39961,1687,0,0,0,0,0,0,0,0,0,1094840,0,0
+Personal services,4066,1042,10341,1429,12142,22438,11028,12533,2028,37923,18776628,4147,0,0,0,0,0,0,0,0,0,0,756634,0
+Public administration,476,75,448,149,1325,1224,494,447,56,1515,5136,1963564,0,0,0,0,0,0,0,0,0,0,0,72260
+"Unemployment from Agriculture, forestry and fishing",514193,1335,26949,1579,38919,39279,13128,2360,1142,27264,12018,2345,6314682,0,0,0,0,0,0,0,0,0,0,0
+Unemployment from Mining,1301,124433,2373,474,8379,2954,2611,565,135,7060,1297,170,0,786242,0,0,0,0,0,0,0,0,0,0
+Unemployment from Manufacturing,27141,2090,319670,2216,61839,59721,19314,3908,1603,53492,20106,1671,0,0,5929021,0,0,0,0,0,0,0,0,0
+"Unemployment from Electricity, gas, water and waste management",1313,357,1878,27776,7236,2742,2321,448,130,5077,1560,185,0,0,0,465889,0,0,0,0,0,0,0,0
+Unemployment from Construction,36123,7539,58310,7746,1017593,55012,34927,5251,5395,107401,30032,4299,0,0,0,0,11097755,0,0,0,0,0,0,0
+"Unemployment from Wholesale and retail trade, accommodation and food services",36941,2698,57582,3357,59496,797798,42642,12966,4722,110425,57903,4437,0,0,0,0,0,14741276,0,0,0,0,0,0
+"Unemployment from Transport, communications and information services",12008,2067,16743,2382,32748,38688,317071,6134,1490,49364,18950,1437,0,0,0,0,0,0,5576174,0,0,0,0,0
+Unemployment from Financial intermediation,2801,475,4185,428,6351,13239,6793,134629,1484,18160,9961,630,0,0,0,0,0,0,0,2219282,0,0,0,0
+Unemployment from Real estate and housing services,1024,121,1483,131,5343,4715,1424,1184,19553,4783,2942,188,0,0,0,0,0,0,0,0,591056,0,0,0
+Unemployment from Business services,23902,5876,46788,5196,102399,96787,48103,16234,4466,594429,70207,4114,0,0,0,0,0,0,0,0,0,10569376,0,0
+Unemployment from Personal services,10745,1101,16855,1619,30289,47630,18292,7725,2775,68995,462084,6658,0,0,0,0,0,0,0,0,0,0,10119499,0
+Unemployment from Public administration,1660,111,1123,165,3787,2986,1082,421,148,3416,6011,41914,0,0,0,0,0,0,0,0,0,0,0,1067900
+Entry,84166,15666,131380,9733,154157,301017,113893,42077,11464,201052,208073,19376,24574,1181,14899,759,28877,39988,10599,4135,1143,30619,23090,2313

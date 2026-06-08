@@ -1,0 +1,13 @@
+MIP_sector_name,n_obs,correlation
+Real estate and housing services,207,0.9615763252569576
+Public administration,207,0.9598525047539997
+Financial intermediation,207,0.9312131575798857
+"Transport, communications and information services",207,0.9282168514492259
+"Electricity, gas, water and waste management",207,0.8921134098785225
+Business services,207,0.8296771778386519
+"Wholesale and retail trade, accommodation and food services",207,0.8162201436864859
+Manufacturing,207,0.759708825151106
+Personal services,207,0.6032781594427508
+Construction,207,0.5752284511780811
+"Agriculture, forestry and fishing",207,0.22711260224635207
+Mining,207,-0.18665887178282528

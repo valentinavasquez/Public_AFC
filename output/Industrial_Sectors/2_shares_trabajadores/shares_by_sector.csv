@@ -1,0 +1,2485 @@
+Wage_Date,MIP_sector_id,MIP_sector_name,Count_Workers,Total_Workers,Share
+2008-01-01,1,"Agriculture, forestry and fishing",29051,340166,8.54
+2008-01-01,2,Mining,5042,340166,1.48
+2008-01-01,3,Manufacturing,40191,340166,11.82
+2008-01-01,4,"Electricity, gas, water and waste management",2567,340166,0.75
+2008-01-01,5,Construction,50733,340166,14.91
+2008-01-01,6,"Wholesale and retail trade, accommodation and food services",64640,340166,19.0
+2008-01-01,7,"Transport, communications and information services",33772,340166,9.93
+2008-01-01,8,Financial intermediation,15610,340166,4.59
+2008-01-01,9,Real estate and housing services,3544,340166,1.04
+2008-01-01,10,Business services,47842,340166,14.06
+2008-01-01,11,Personal services,46323,340166,13.62
+2008-01-01,12,Public administration,3386,340166,1.0
+2008-02-01,1,"Agriculture, forestry and fishing",29321,354984,8.26
+2008-02-01,2,Mining,6407,354984,1.8
+2008-02-01,3,Manufacturing,42186,354984,11.88
+2008-02-01,4,"Electricity, gas, water and waste management",2863,354984,0.81
+2008-02-01,5,Construction,52180,354984,14.7
+2008-02-01,6,"Wholesale and retail trade, accommodation and food services",67123,354984,18.91
+2008-02-01,7,"Transport, communications and information services",35399,354984,9.97
+2008-02-01,8,Financial intermediation,17487,354984,4.93
+2008-02-01,9,Real estate and housing services,3702,354984,1.04
+2008-02-01,10,Business services,50306,354984,14.17
+2008-02-01,11,Personal services,47144,354984,13.28
+2008-02-01,12,Public administration,3441,354984,0.97
+2008-03-01,1,"Agriculture, forestry and fishing",29806,367404,8.11
+2008-03-01,2,Mining,6566,367404,1.79
+2008-03-01,3,Manufacturing,44463,367404,12.1
+2008-03-01,4,"Electricity, gas, water and waste management",2922,367404,0.8
+2008-03-01,5,Construction,53291,367404,14.5
+2008-03-01,6,"Wholesale and retail trade, accommodation and food services",70290,367404,19.13
+2008-03-01,7,"Transport, communications and information services",36174,367404,9.85
+2008-03-01,8,Financial intermediation,17856,367404,4.86
+2008-03-01,9,Real estate and housing services,3747,367404,1.02
+2008-03-01,10,Business services,51615,367404,14.05
+2008-03-01,11,Personal services,50191,367404,13.66
+2008-03-01,12,Public administration,3450,367404,0.94
+2008-04-01,1,"Agriculture, forestry and fishing",27000,366631,7.36
+2008-04-01,2,Mining,6671,366631,1.82
+2008-04-01,3,Manufacturing,44338,366631,12.09
+2008-04-01,4,"Electricity, gas, water and waste management",2988,366631,0.81
+2008-04-01,5,Construction,53776,366631,14.67
+2008-04-01,6,"Wholesale and retail trade, accommodation and food services",70698,366631,19.28
+2008-04-01,7,"Transport, communications and information services",36265,366631,9.89
+2008-04-01,8,Financial intermediation,17989,366631,4.91
+2008-04-01,9,Real estate and housing services,3853,366631,1.05
+2008-04-01,10,Business services,51337,366631,14.0
+2008-04-01,11,Personal services,51324,366631,14.0
+2008-04-01,12,Public administration,3621,366631,0.99
+2008-05-01,1,"Agriculture, forestry and fishing",23608,366165,6.45
+2008-05-01,2,Mining,6889,366165,1.88
+2008-05-01,3,Manufacturing,43982,366165,12.01
+2008-05-01,4,"Electricity, gas, water and waste management",3035,366165,0.83
+2008-05-01,5,Construction,54110,366165,14.78
+2008-05-01,6,"Wholesale and retail trade, accommodation and food services",71137,366165,19.43
+2008-05-01,7,"Transport, communications and information services",36613,366165,10.0
+2008-05-01,8,Financial intermediation,18063,366165,4.93
+2008-05-01,9,Real estate and housing services,3837,366165,1.05
+2008-05-01,10,Business services,51964,366165,14.19
+2008-05-01,11,Personal services,52014,366165,14.21
+2008-05-01,12,Public administration,3760,366165,1.03
+2008-06-01,1,"Agriculture, forestry and fishing",23850,369359,6.46
+2008-06-01,2,Mining,7008,369359,1.9
+2008-06-01,3,Manufacturing,44464,369359,12.04
+2008-06-01,4,"Electricity, gas, water and waste management",3078,369359,0.83
+2008-06-01,5,Construction,54616,369359,14.79
+2008-06-01,6,"Wholesale and retail trade, accommodation and food services",71462,369359,19.35
+2008-06-01,7,"Transport, communications and information services",36792,369359,9.96
+2008-06-01,8,Financial intermediation,18284,369359,4.95
+2008-06-01,9,Real estate and housing services,3877,369359,1.05
+2008-06-01,10,Business services,52398,369359,14.19
+2008-06-01,11,Personal services,52791,369359,14.29
+2008-06-01,12,Public administration,3782,369359,1.02
+2008-07-01,1,"Agriculture, forestry and fishing",29101,397086,7.33
+2008-07-01,2,Mining,7366,397086,1.86
+2008-07-01,3,Manufacturing,46862,397086,11.8
+2008-07-01,4,"Electricity, gas, water and waste management",3295,397086,0.83
+2008-07-01,5,Construction,56817,397086,14.31
+2008-07-01,6,"Wholesale and retail trade, accommodation and food services",76945,397086,19.38
+2008-07-01,7,"Transport, communications and information services",40409,397086,10.18
+2008-07-01,8,Financial intermediation,18662,397086,4.7
+2008-07-01,9,Real estate and housing services,3977,397086,1.0
+2008-07-01,10,Business services,55267,397086,13.92
+2008-07-01,11,Personal services,56762,397086,14.29
+2008-07-01,12,Public administration,4555,397086,1.15
+2008-08-01,1,"Agriculture, forestry and fishing",28550,390930,7.3
+2008-08-01,2,Mining,6016,390930,1.54
+2008-08-01,3,Manufacturing,46077,390930,11.79
+2008-08-01,4,"Electricity, gas, water and waste management",3142,390930,0.8
+2008-08-01,5,Construction,56983,390930,14.58
+2008-08-01,6,"Wholesale and retail trade, accommodation and food services",76030,390930,19.45
+2008-08-01,7,"Transport, communications and information services",40030,390930,10.24
+2008-08-01,8,Financial intermediation,17148,390930,4.39
+2008-08-01,9,Real estate and housing services,3771,390930,0.96
+2008-08-01,10,Business services,54554,390930,13.95
+2008-08-01,11,Personal services,56725,390930,14.51
+2008-08-01,12,Public administration,4643,390930,1.19
+2008-09-01,1,"Agriculture, forestry and fishing",27653,394180,7.02
+2008-09-01,2,Mining,6278,394180,1.59
+2008-09-01,3,Manufacturing,46095,394180,11.69
+2008-09-01,4,"Electricity, gas, water and waste management",3193,394180,0.81
+2008-09-01,5,Construction,57415,394180,14.57
+2008-09-01,6,"Wholesale and retail trade, accommodation and food services",77489,394180,19.66
+2008-09-01,7,"Transport, communications and information services",40309,394180,10.23
+2008-09-01,8,Financial intermediation,17051,394180,4.33
+2008-09-01,9,Real estate and housing services,3809,394180,0.97
+2008-09-01,10,Business services,55196,394180,14.0
+2008-09-01,11,Personal services,57653,394180,14.63
+2008-09-01,12,Public administration,4684,394180,1.19
+2008-10-01,1,"Agriculture, forestry and fishing",30992,408345,7.59
+2008-10-01,2,Mining,7383,408345,1.81
+2008-10-01,3,Manufacturing,47550,408345,11.64
+2008-10-01,4,"Electricity, gas, water and waste management",3390,408345,0.83
+2008-10-01,5,Construction,58316,408345,14.28
+2008-10-01,6,"Wholesale and retail trade, accommodation and food services",79283,408345,19.42
+2008-10-01,7,"Transport, communications and information services",41559,408345,10.18
+2008-10-01,8,Financial intermediation,18755,408345,4.59
+2008-10-01,9,Real estate and housing services,3938,408345,0.96
+2008-10-01,10,Business services,56617,408345,13.86
+2008-10-01,11,Personal services,58600,408345,14.35
+2008-10-01,12,Public administration,4858,408345,1.19
+2008-11-01,1,"Agriculture, forestry and fishing",33774,406801,8.3
+2008-11-01,2,Mining,6526,406801,1.6
+2008-11-01,3,Manufacturing,47117,406801,11.58
+2008-11-01,4,"Electricity, gas, water and waste management",3304,406801,0.81
+2008-11-01,5,Construction,57763,406801,14.2
+2008-11-01,6,"Wholesale and retail trade, accommodation and food services",79335,406801,19.5
+2008-11-01,7,"Transport, communications and information services",41364,406801,10.17
+2008-11-01,8,Financial intermediation,17054,406801,4.19
+2008-11-01,9,Real estate and housing services,3835,406801,0.94
+2008-11-01,10,Business services,55995,406801,13.76
+2008-11-01,11,Personal services,58672,406801,14.42
+2008-11-01,12,Public administration,4916,406801,1.21
+2008-12-01,1,"Agriculture, forestry and fishing",35550,406194,8.75
+2008-12-01,2,Mining,6017,406194,1.48
+2008-12-01,3,Manufacturing,45982,406194,11.32
+2008-12-01,4,"Electricity, gas, water and waste management",3309,406194,0.81
+2008-12-01,5,Construction,56389,406194,13.88
+2008-12-01,6,"Wholesale and retail trade, accommodation and food services",78857,406194,19.41
+2008-12-01,7,"Transport, communications and information services",41689,406194,10.26
+2008-12-01,8,Financial intermediation,16573,406194,4.08
+2008-12-01,9,Real estate and housing services,3831,406194,0.94
+2008-12-01,10,Business services,56669,406194,13.95
+2008-12-01,11,Personal services,59241,406194,14.58
+2008-12-01,12,Public administration,4962,406194,1.22
+2009-01-01,1,"Agriculture, forestry and fishing",34355,401547,8.56
+2009-01-01,2,Mining,5842,401547,1.45
+2009-01-01,3,Manufacturing,46305,401547,11.53
+2009-01-01,4,"Electricity, gas, water and waste management",3328,401547,0.83
+2009-01-01,5,Construction,53750,401547,13.39
+2009-01-01,6,"Wholesale and retail trade, accommodation and food services",79154,401547,19.71
+2009-01-01,7,"Transport, communications and information services",41791,401547,10.41
+2009-01-01,8,Financial intermediation,16976,401547,4.23
+2009-01-01,9,Real estate and housing services,3962,401547,0.99
+2009-01-01,10,Business services,55924,401547,13.93
+2009-01-01,11,Personal services,57957,401547,14.43
+2009-01-01,12,Public administration,4960,401547,1.24
+2009-02-01,1,"Agriculture, forestry and fishing",34320,404940,8.48
+2009-02-01,2,Mining,6015,404940,1.49
+2009-02-01,3,Manufacturing,46942,404940,11.59
+2009-02-01,4,"Electricity, gas, water and waste management",3454,404940,0.85
+2009-02-01,5,Construction,53784,404940,13.28
+2009-02-01,6,"Wholesale and retail trade, accommodation and food services",80374,404940,19.85
+2009-02-01,7,"Transport, communications and information services",42459,404940,10.49
+2009-02-01,8,Financial intermediation,16793,404940,4.15
+2009-02-01,9,Real estate and housing services,4053,404940,1.0
+2009-02-01,10,Business services,56514,404940,13.96
+2009-02-01,11,Personal services,57782,404940,14.27
+2009-02-01,12,Public administration,5012,404940,1.24
+2009-03-01,1,"Agriculture, forestry and fishing",33542,407459,8.23
+2009-03-01,2,Mining,5805,407459,1.42
+2009-03-01,3,Manufacturing,47437,407459,11.64
+2009-03-01,4,"Electricity, gas, water and waste management",3404,407459,0.84
+2009-03-01,5,Construction,53644,407459,13.17
+2009-03-01,6,"Wholesale and retail trade, accommodation and food services",81135,407459,19.91
+2009-03-01,7,"Transport, communications and information services",42421,407459,10.41
+2009-03-01,8,Financial intermediation,17391,407459,4.27
+2009-03-01,9,Real estate and housing services,4141,407459,1.02
+2009-03-01,10,Business services,56525,407459,13.87
+2009-03-01,11,Personal services,59972,407459,14.72
+2009-03-01,12,Public administration,5022,407459,1.23
+2009-04-01,1,"Agriculture, forestry and fishing",29614,404502,7.32
+2009-04-01,2,Mining,5984,404502,1.48
+2009-04-01,3,Manufacturing,47203,404502,11.67
+2009-04-01,4,"Electricity, gas, water and waste management",3476,404502,0.86
+2009-04-01,5,Construction,52860,404502,13.07
+2009-04-01,6,"Wholesale and retail trade, accommodation and food services",81629,404502,20.18
+2009-04-01,7,"Transport, communications and information services",42213,404502,10.44
+2009-04-01,8,Financial intermediation,17495,404502,4.33
+2009-04-01,9,Real estate and housing services,4206,404502,1.04
+2009-04-01,10,Business services,56425,404502,13.95
+2009-04-01,11,Personal services,61131,404502,15.11
+2009-04-01,12,Public administration,5366,404502,1.33
+2009-05-01,1,"Agriculture, forestry and fishing",26605,402497,6.61
+2009-05-01,2,Mining,6015,402497,1.49
+2009-05-01,3,Manufacturing,46899,402497,11.65
+2009-05-01,4,"Electricity, gas, water and waste management",3473,402497,0.86
+2009-05-01,5,Construction,52967,402497,13.16
+2009-05-01,6,"Wholesale and retail trade, accommodation and food services",81646,402497,20.28
+2009-05-01,7,"Transport, communications and information services",42303,402497,10.51
+2009-05-01,8,Financial intermediation,17185,402497,4.27
+2009-05-01,9,Real estate and housing services,4180,402497,1.04
+2009-05-01,10,Business services,56384,402497,14.01
+2009-05-01,11,Personal services,61823,402497,15.36
+2009-05-01,12,Public administration,5656,402497,1.41
+2009-06-01,1,"Agriculture, forestry and fishing",27123,403559,6.72
+2009-06-01,2,Mining,6074,403559,1.51
+2009-06-01,3,Manufacturing,46703,403559,11.57
+2009-06-01,4,"Electricity, gas, water and waste management",3582,403559,0.89
+2009-06-01,5,Construction,52407,403559,12.99
+2009-06-01,6,"Wholesale and retail trade, accommodation and food services",81920,403559,20.3
+2009-06-01,7,"Transport, communications and information services",42271,403559,10.47
+2009-06-01,8,Financial intermediation,17737,403559,4.4
+2009-06-01,9,Real estate and housing services,4209,403559,1.04
+2009-06-01,10,Business services,56271,403559,13.94
+2009-06-01,11,Personal services,62434,403559,15.47
+2009-06-01,12,Public administration,5932,403559,1.47
+2009-07-01,1,"Agriculture, forestry and fishing",28685,406264,7.06
+2009-07-01,2,Mining,5958,406264,1.47
+2009-07-01,3,Manufacturing,47011,406264,11.57
+2009-07-01,4,"Electricity, gas, water and waste management",3601,406264,0.89
+2009-07-01,5,Construction,52478,406264,12.92
+2009-07-01,6,"Wholesale and retail trade, accommodation and food services",81182,406264,19.98
+2009-07-01,7,"Transport, communications and information services",42492,406264,10.46
+2009-07-01,8,Financial intermediation,18111,406264,4.46
+2009-07-01,9,Real estate and housing services,4210,406264,1.04
+2009-07-01,10,Business services,57417,406264,14.13
+2009-07-01,11,Personal services,62661,406264,15.42
+2009-07-01,12,Public administration,5911,406264,1.45
+2009-08-01,1,"Agriculture, forestry and fishing",28169,409760,6.87
+2009-08-01,2,Mining,6083,409760,1.48
+2009-08-01,3,Manufacturing,47234,409760,11.53
+2009-08-01,4,"Electricity, gas, water and waste management",3674,409760,0.9
+2009-08-01,5,Construction,52744,409760,12.87
+2009-08-01,6,"Wholesale and retail trade, accommodation and food services",82122,409760,20.04
+2009-08-01,7,"Transport, communications and information services",42813,409760,10.45
+2009-08-01,8,Financial intermediation,17906,409760,4.37
+2009-08-01,9,Real estate and housing services,4226,409760,1.03
+2009-08-01,10,Business services,58031,409760,14.16
+2009-08-01,11,Personal services,64037,409760,15.63
+2009-08-01,12,Public administration,6289,409760,1.53
+2009-09-01,1,"Agriculture, forestry and fishing",27659,412608,6.7
+2009-09-01,2,Mining,5910,412608,1.43
+2009-09-01,3,Manufacturing,46984,412608,11.39
+2009-09-01,4,"Electricity, gas, water and waste management",3703,412608,0.9
+2009-09-01,5,Construction,53410,412608,12.94
+2009-09-01,6,"Wholesale and retail trade, accommodation and food services",83265,412608,20.18
+2009-09-01,7,"Transport, communications and information services",43199,412608,10.47
+2009-09-01,8,Financial intermediation,17386,412608,4.21
+2009-09-01,9,Real estate and housing services,4260,412608,1.03
+2009-09-01,10,Business services,58854,412608,14.26
+2009-09-01,11,Personal services,64484,412608,15.63
+2009-09-01,12,Public administration,6335,412608,1.54
+2009-10-01,1,"Agriculture, forestry and fishing",29505,419148,7.04
+2009-10-01,2,Mining,6156,419148,1.47
+2009-10-01,3,Manufacturing,48030,419148,11.46
+2009-10-01,4,"Electricity, gas, water and waste management",3733,419148,0.89
+2009-10-01,5,Construction,54883,419148,13.09
+2009-10-01,6,"Wholesale and retail trade, accommodation and food services",83321,419148,19.88
+2009-10-01,7,"Transport, communications and information services",43510,419148,10.38
+2009-10-01,8,Financial intermediation,17440,419148,4.16
+2009-10-01,9,Real estate and housing services,4301,419148,1.03
+2009-10-01,10,Business services,59706,419148,14.24
+2009-10-01,11,Personal services,65006,419148,15.51
+2009-10-01,12,Public administration,6430,419148,1.53
+2009-11-01,1,"Agriculture, forestry and fishing",32687,427057,7.65
+2009-11-01,2,Mining,6057,427057,1.42
+2009-11-01,3,Manufacturing,48921,427057,11.46
+2009-11-01,4,"Electricity, gas, water and waste management",3805,427057,0.89
+2009-11-01,5,Construction,56069,427057,13.13
+2009-11-01,6,"Wholesale and retail trade, accommodation and food services",84340,427057,19.75
+2009-11-01,7,"Transport, communications and information services",43765,427057,10.25
+2009-11-01,8,Financial intermediation,17475,427057,4.09
+2009-11-01,9,Real estate and housing services,4367,427057,1.02
+2009-11-01,10,Business services,60551,427057,14.18
+2009-11-01,11,Personal services,65475,427057,15.33
+2009-11-01,12,Public administration,6404,427057,1.5
+2009-12-01,1,"Agriculture, forestry and fishing",35307,430243,8.21
+2009-12-01,2,Mining,5935,430243,1.38
+2009-12-01,3,Manufacturing,48232,430243,11.21
+2009-12-01,4,"Electricity, gas, water and waste management",3800,430243,0.88
+2009-12-01,5,Construction,55433,430243,12.88
+2009-12-01,6,"Wholesale and retail trade, accommodation and food services",84939,430243,19.74
+2009-12-01,7,"Transport, communications and information services",44147,430243,10.26
+2009-12-01,8,Financial intermediation,17149,430243,3.99
+2009-12-01,9,Real estate and housing services,4417,430243,1.03
+2009-12-01,10,Business services,61323,430243,14.25
+2009-12-01,11,Personal services,65905,430243,15.32
+2009-12-01,12,Public administration,6441,430243,1.5
+2010-01-01,1,"Agriculture, forestry and fishing",33928,431866,7.86
+2010-01-01,2,Mining,6561,431866,1.52
+2010-01-01,3,Manufacturing,49100,431866,11.37
+2010-01-01,4,"Electricity, gas, water and waste management",3913,431866,0.91
+2010-01-01,5,Construction,54132,431866,12.53
+2010-01-01,6,"Wholesale and retail trade, accommodation and food services",86546,431866,20.04
+2010-01-01,7,"Transport, communications and information services",44849,431866,10.38
+2010-01-01,8,Financial intermediation,17527,431866,4.06
+2010-01-01,9,Real estate and housing services,4458,431866,1.03
+2010-01-01,10,Business services,62307,431866,14.43
+2010-01-01,11,Personal services,65681,431866,15.21
+2010-01-01,12,Public administration,6040,431866,1.4
+2010-02-01,1,"Agriculture, forestry and fishing",33128,434962,7.62
+2010-02-01,2,Mining,6809,434962,1.57
+2010-02-01,3,Manufacturing,49833,434962,11.46
+2010-02-01,4,"Electricity, gas, water and waste management",3917,434962,0.9
+2010-02-01,5,Construction,55242,434962,12.7
+2010-02-01,6,"Wholesale and retail trade, accommodation and food services",87328,434962,20.08
+2010-02-01,7,"Transport, communications and information services",45149,434962,10.38
+2010-02-01,8,Financial intermediation,17312,434962,3.98
+2010-02-01,9,Real estate and housing services,4492,434962,1.03
+2010-02-01,10,Business services,63315,434962,14.56
+2010-02-01,11,Personal services,65343,434962,15.02
+2010-02-01,12,Public administration,6054,434962,1.39
+2010-03-01,1,"Agriculture, forestry and fishing",33618,437062,7.69
+2010-03-01,2,Mining,6477,437062,1.48
+2010-03-01,3,Manufacturing,50217,437062,11.49
+2010-03-01,4,"Electricity, gas, water and waste management",3965,437062,0.91
+2010-03-01,5,Construction,55288,437062,12.65
+2010-03-01,6,"Wholesale and retail trade, accommodation and food services",86277,437062,19.74
+2010-03-01,7,"Transport, communications and information services",45237,437062,10.35
+2010-03-01,8,Financial intermediation,18071,437062,4.13
+2010-03-01,9,Real estate and housing services,4482,437062,1.03
+2010-03-01,10,Business services,63335,437062,14.49
+2010-03-01,11,Personal services,67453,437062,15.43
+2010-03-01,12,Public administration,6093,437062,1.39
+2010-04-01,1,"Agriculture, forestry and fishing",31525,443594,7.11
+2010-04-01,2,Mining,7039,443594,1.59
+2010-04-01,3,Manufacturing,51509,443594,11.61
+2010-04-01,4,"Electricity, gas, water and waste management",3981,443594,0.9
+2010-04-01,5,Construction,56858,443594,12.82
+2010-04-01,6,"Wholesale and retail trade, accommodation and food services",88599,443594,19.97
+2010-04-01,7,"Transport, communications and information services",45640,443594,10.29
+2010-04-01,8,Financial intermediation,18206,443594,4.1
+2010-04-01,9,Real estate and housing services,4579,443594,1.03
+2010-04-01,10,Business services,63959,443594,14.42
+2010-04-01,11,Personal services,69129,443594,15.58
+2010-04-01,12,Public administration,6340,443594,1.43
+2010-05-01,1,"Agriculture, forestry and fishing",28496,443160,6.43
+2010-05-01,2,Mining,7191,443160,1.62
+2010-05-01,3,Manufacturing,51467,443160,11.61
+2010-05-01,4,"Electricity, gas, water and waste management",4018,443160,0.91
+2010-05-01,5,Construction,57579,443160,12.99
+2010-05-01,6,"Wholesale and retail trade, accommodation and food services",88952,443160,20.07
+2010-05-01,7,"Transport, communications and information services",45970,443160,10.37
+2010-05-01,8,Financial intermediation,17405,443160,3.93
+2010-05-01,9,Real estate and housing services,4641,443160,1.05
+2010-05-01,10,Business services,64428,443160,14.54
+2010-05-01,11,Personal services,69941,443160,15.78
+2010-05-01,12,Public administration,6496,443160,1.47
+2010-06-01,1,"Agriculture, forestry and fishing",27872,446871,6.24
+2010-06-01,2,Mining,7316,446871,1.64
+2010-06-01,3,Manufacturing,51497,446871,11.52
+2010-06-01,4,"Electricity, gas, water and waste management",4035,446871,0.9
+2010-06-01,5,Construction,58981,446871,13.2
+2010-06-01,6,"Wholesale and retail trade, accommodation and food services",89641,446871,20.06
+2010-06-01,7,"Transport, communications and information services",46089,446871,10.31
+2010-06-01,8,Financial intermediation,18439,446871,4.13
+2010-06-01,9,Real estate and housing services,4674,446871,1.05
+2010-06-01,10,Business services,64613,446871,14.46
+2010-06-01,11,Personal services,70786,446871,15.84
+2010-06-01,12,Public administration,6569,446871,1.47
+2010-07-01,1,"Agriculture, forestry and fishing",29798,449224,6.63
+2010-07-01,2,Mining,7364,449224,1.64
+2010-07-01,3,Manufacturing,51712,449224,11.51
+2010-07-01,4,"Electricity, gas, water and waste management",3996,449224,0.89
+2010-07-01,5,Construction,58943,449224,13.12
+2010-07-01,6,"Wholesale and retail trade, accommodation and food services",90106,449224,20.06
+2010-07-01,7,"Transport, communications and information services",46123,449224,10.27
+2010-07-01,8,Financial intermediation,18370,449224,4.09
+2010-07-01,9,Real estate and housing services,4643,449224,1.03
+2010-07-01,10,Business services,64437,449224,14.34
+2010-07-01,11,Personal services,70353,449224,15.66
+2010-07-01,12,Public administration,6539,449224,1.46
+2010-08-01,1,"Agriculture, forestry and fishing",30044,454615,6.61
+2010-08-01,2,Mining,7710,454615,1.7
+2010-08-01,3,Manufacturing,52433,454615,11.53
+2010-08-01,4,"Electricity, gas, water and waste management",4001,454615,0.88
+2010-08-01,5,Construction,60303,454615,13.26
+2010-08-01,6,"Wholesale and retail trade, accommodation and food services",90852,454615,19.98
+2010-08-01,7,"Transport, communications and information services",46324,454615,10.19
+2010-08-01,8,Financial intermediation,18723,454615,4.12
+2010-08-01,9,Real estate and housing services,4634,454615,1.02
+2010-08-01,10,Business services,65128,454615,14.33
+2010-08-01,11,Personal services,71215,454615,15.66
+2010-08-01,12,Public administration,6662,454615,1.47
+2010-09-01,1,"Agriculture, forestry and fishing",29252,455859,6.42
+2010-09-01,2,Mining,7185,455859,1.58
+2010-09-01,3,Manufacturing,52395,455859,11.49
+2010-09-01,4,"Electricity, gas, water and waste management",3958,455859,0.87
+2010-09-01,5,Construction,60334,455859,13.24
+2010-09-01,6,"Wholesale and retail trade, accommodation and food services",92101,455859,20.2
+2010-09-01,7,"Transport, communications and information services",46588,455859,10.22
+2010-09-01,8,Financial intermediation,18545,455859,4.07
+2010-09-01,9,Real estate and housing services,4689,455859,1.03
+2010-09-01,10,Business services,65678,455859,14.41
+2010-09-01,11,Personal services,71787,455859,15.75
+2010-09-01,12,Public administration,6721,455859,1.47
+2010-10-01,1,"Agriculture, forestry and fishing",31402,462256,6.79
+2010-10-01,2,Mining,7557,462256,1.63
+2010-10-01,3,Manufacturing,53453,462256,11.56
+2010-10-01,4,"Electricity, gas, water and waste management",3984,462256,0.86
+2010-10-01,5,Construction,60454,462256,13.08
+2010-10-01,6,"Wholesale and retail trade, accommodation and food services",92636,462256,20.04
+2010-10-01,7,"Transport, communications and information services",47196,462256,10.21
+2010-10-01,8,Financial intermediation,18724,462256,4.05
+2010-10-01,9,Real estate and housing services,4755,462256,1.03
+2010-10-01,10,Business services,66725,462256,14.43
+2010-10-01,11,Personal services,72024,462256,15.58
+2010-10-01,12,Public administration,6847,462256,1.48
+2010-11-01,1,"Agriculture, forestry and fishing",34482,470556,7.33
+2010-11-01,2,Mining,7885,470556,1.68
+2010-11-01,3,Manufacturing,54368,470556,11.55
+2010-11-01,4,"Electricity, gas, water and waste management",3986,470556,0.85
+2010-11-01,5,Construction,60941,470556,12.95
+2010-11-01,6,"Wholesale and retail trade, accommodation and food services",94203,470556,20.02
+2010-11-01,7,"Transport, communications and information services",47806,470556,10.16
+2010-11-01,8,Financial intermediation,18823,470556,4.0
+2010-11-01,9,Real estate and housing services,4726,470556,1.0
+2010-11-01,10,Business services,67514,470556,14.35
+2010-11-01,11,Personal services,72487,470556,15.4
+2010-11-01,12,Public administration,6847,470556,1.46
+2010-12-01,1,"Agriculture, forestry and fishing",37656,493861,7.62
+2010-12-01,2,Mining,9960,493861,2.02
+2010-12-01,3,Manufacturing,55951,493861,11.33
+2010-12-01,4,"Electricity, gas, water and waste management",4357,493861,0.88
+2010-12-01,5,Construction,62063,493861,12.57
+2010-12-01,6,"Wholesale and retail trade, accommodation and food services",97769,493861,19.8
+2010-12-01,7,"Transport, communications and information services",50249,493861,10.17
+2010-12-01,8,Financial intermediation,21416,493861,4.34
+2010-12-01,9,Real estate and housing services,5016,493861,1.02
+2010-12-01,10,Business services,71454,493861,14.47
+2010-12-01,11,Personal services,74750,493861,15.14
+2010-12-01,12,Public administration,7303,493861,1.48
+2011-01-01,1,"Agriculture, forestry and fishing",36119,488682,7.39
+2011-01-01,2,Mining,9977,488682,2.04
+2011-01-01,3,Manufacturing,55857,488682,11.43
+2011-01-01,4,"Electricity, gas, water and waste management",4376,488682,0.9
+2011-01-01,5,Construction,60241,488682,12.33
+2011-01-01,6,"Wholesale and retail trade, accommodation and food services",99021,488682,20.26
+2011-01-01,7,"Transport, communications and information services",50245,488682,10.28
+2011-01-01,8,Financial intermediation,21185,488682,4.34
+2011-01-01,9,Real estate and housing services,5002,488682,1.02
+2011-01-01,10,Business services,71030,488682,14.54
+2011-01-01,11,Personal services,72265,488682,14.79
+2011-01-01,12,Public administration,6914,488682,1.41
+2011-02-01,1,"Agriculture, forestry and fishing",35962,492689,7.3
+2011-02-01,2,Mining,10189,492689,2.07
+2011-02-01,3,Manufacturing,56555,492689,11.48
+2011-02-01,4,"Electricity, gas, water and waste management",4425,492689,0.9
+2011-02-01,5,Construction,61531,492689,12.49
+2011-02-01,6,"Wholesale and retail trade, accommodation and food services",99757,492689,20.25
+2011-02-01,7,"Transport, communications and information services",50476,492689,10.25
+2011-02-01,8,Financial intermediation,21380,492689,4.34
+2011-02-01,9,Real estate and housing services,4992,492689,1.01
+2011-02-01,10,Business services,71984,492689,14.61
+2011-02-01,11,Personal services,71954,492689,14.6
+2011-02-01,12,Public administration,6884,492689,1.4
+2011-03-01,1,"Agriculture, forestry and fishing",36393,500640,7.27
+2011-03-01,2,Mining,10480,500640,2.09
+2011-03-01,3,Manufacturing,57728,500640,11.53
+2011-03-01,4,"Electricity, gas, water and waste management",4507,500640,0.9
+2011-03-01,5,Construction,62897,500640,12.56
+2011-03-01,6,"Wholesale and retail trade, accommodation and food services",100603,500640,20.09
+2011-03-01,7,"Transport, communications and information services",51105,500640,10.21
+2011-03-01,8,Financial intermediation,21781,500640,4.35
+2011-03-01,9,Real estate and housing services,5029,500640,1.0
+2011-03-01,10,Business services,72631,500640,14.51
+2011-03-01,11,Personal services,74826,500640,14.95
+2011-03-01,12,Public administration,6758,500640,1.35
+2011-04-01,1,"Agriculture, forestry and fishing",34048,503622,6.76
+2011-04-01,2,Mining,10604,503622,2.11
+2011-04-01,3,Manufacturing,58381,503622,11.59
+2011-04-01,4,"Electricity, gas, water and waste management",4556,503622,0.9
+2011-04-01,5,Construction,63611,503622,12.63
+2011-04-01,6,"Wholesale and retail trade, accommodation and food services",102125,503622,20.28
+2011-04-01,7,"Transport, communications and information services",51426,503622,10.21
+2011-04-01,8,Financial intermediation,21643,503622,4.3
+2011-04-01,9,Real estate and housing services,5030,503622,1.0
+2011-04-01,10,Business services,73087,503622,14.51
+2011-04-01,11,Personal services,76321,503622,15.15
+2011-04-01,12,Public administration,6877,503622,1.37
+2011-05-01,1,"Agriculture, forestry and fishing",30844,503681,6.12
+2011-05-01,2,Mining,10778,503681,2.14
+2011-05-01,3,Manufacturing,58567,503681,11.63
+2011-05-01,4,"Electricity, gas, water and waste management",4631,503681,0.92
+2011-05-01,5,Construction,64309,503681,12.77
+2011-05-01,6,"Wholesale and retail trade, accommodation and food services",102384,503681,20.33
+2011-05-01,7,"Transport, communications and information services",51437,503681,10.21
+2011-05-01,8,Financial intermediation,22039,503681,4.38
+2011-05-01,9,Real estate and housing services,5063,503681,1.01
+2011-05-01,10,Business services,73873,503681,14.67
+2011-05-01,11,Personal services,76699,503681,15.23
+2011-05-01,12,Public administration,6971,503681,1.38
+2011-06-01,1,"Agriculture, forestry and fishing",30902,505539,6.11
+2011-06-01,2,Mining,11003,505539,2.18
+2011-06-01,3,Manufacturing,58457,505539,11.56
+2011-06-01,4,"Electricity, gas, water and waste management",4667,505539,0.92
+2011-06-01,5,Construction,64672,505539,12.79
+2011-06-01,6,"Wholesale and retail trade, accommodation and food services",102429,505539,20.26
+2011-06-01,7,"Transport, communications and information services",51700,505539,10.23
+2011-06-01,8,Financial intermediation,22393,505539,4.43
+2011-06-01,9,Real estate and housing services,5052,505539,1.0
+2011-06-01,10,Business services,73971,505539,14.63
+2011-06-01,11,Personal services,77052,505539,15.24
+2011-06-01,12,Public administration,7064,505539,1.4
+2011-07-01,1,"Agriculture, forestry and fishing",32071,507472,6.32
+2011-07-01,2,Mining,11131,507472,2.19
+2011-07-01,3,Manufacturing,58801,507472,11.59
+2011-07-01,4,"Electricity, gas, water and waste management",4783,507472,0.94
+2011-07-01,5,Construction,64517,507472,12.71
+2011-07-01,6,"Wholesale and retail trade, accommodation and food services",102554,507472,20.21
+2011-07-01,7,"Transport, communications and information services",51390,507472,10.13
+2011-07-01,8,Financial intermediation,22239,507472,4.38
+2011-07-01,9,Real estate and housing services,5092,507472,1.0
+2011-07-01,10,Business services,74397,507472,14.66
+2011-07-01,11,Personal services,77338,507472,15.24
+2011-07-01,12,Public administration,6964,507472,1.37
+2011-08-01,1,"Agriculture, forestry and fishing",32029,513150,6.24
+2011-08-01,2,Mining,11330,513150,2.21
+2011-08-01,3,Manufacturing,59218,513150,11.54
+2011-08-01,4,"Electricity, gas, water and waste management",4812,513150,0.94
+2011-08-01,5,Construction,65824,513150,12.83
+2011-08-01,6,"Wholesale and retail trade, accommodation and food services",103652,513150,20.2
+2011-08-01,7,"Transport, communications and information services",51646,513150,10.06
+2011-08-01,8,Financial intermediation,22871,513150,4.46
+2011-08-01,9,Real estate and housing services,5096,513150,0.99
+2011-08-01,10,Business services,75320,513150,14.68
+2011-08-01,11,Personal services,78420,513150,15.28
+2011-08-01,12,Public administration,6954,513150,1.36
+2011-09-01,1,"Agriculture, forestry and fishing",31285,516237,6.06
+2011-09-01,2,Mining,11520,516237,2.23
+2011-09-01,3,Manufacturing,59148,516237,11.46
+2011-09-01,4,"Electricity, gas, water and waste management",4872,516237,0.94
+2011-09-01,5,Construction,66490,516237,12.88
+2011-09-01,6,"Wholesale and retail trade, accommodation and food services",104757,516237,20.29
+2011-09-01,7,"Transport, communications and information services",52077,516237,10.09
+2011-09-01,8,Financial intermediation,22918,516237,4.44
+2011-09-01,9,Real estate and housing services,5190,516237,1.01
+2011-09-01,10,Business services,75875,516237,14.7
+2011-09-01,11,Personal services,79044,516237,15.31
+2011-09-01,12,Public administration,7017,516237,1.36
+2011-10-01,1,"Agriculture, forestry and fishing",33728,522358,6.46
+2011-10-01,2,Mining,11753,522358,2.25
+2011-10-01,3,Manufacturing,59835,522358,11.45
+2011-10-01,4,"Electricity, gas, water and waste management",4950,522358,0.95
+2011-10-01,5,Construction,67093,522358,12.84
+2011-10-01,6,"Wholesale and retail trade, accommodation and food services",105372,522358,20.17
+2011-10-01,7,"Transport, communications and information services",52402,522358,10.03
+2011-10-01,8,Financial intermediation,22919,522358,4.39
+2011-10-01,9,Real estate and housing services,4732,522358,0.91
+2011-10-01,10,Business services,77280,522358,14.79
+2011-10-01,11,Personal services,79072,522358,15.14
+2011-10-01,12,Public administration,7165,522358,1.37
+2011-11-01,1,"Agriculture, forestry and fishing",36578,532261,6.87
+2011-11-01,2,Mining,11947,532261,2.24
+2011-11-01,3,Manufacturing,60784,532261,11.42
+2011-11-01,4,"Electricity, gas, water and waste management",5070,532261,0.95
+2011-11-01,5,Construction,68978,532261,12.96
+2011-11-01,6,"Wholesale and retail trade, accommodation and food services",106636,532261,20.03
+2011-11-01,7,"Transport, communications and information services",52665,532261,9.89
+2011-11-01,8,Financial intermediation,23167,532261,4.35
+2011-11-01,9,Real estate and housing services,4815,532261,0.9
+2011-11-01,10,Business services,78850,532261,14.81
+2011-11-01,11,Personal services,79685,532261,14.97
+2011-11-01,12,Public administration,7221,532261,1.36
+2011-12-01,1,"Agriculture, forestry and fishing",39238,540232,7.26
+2011-12-01,2,Mining,12179,540232,2.25
+2011-12-01,3,Manufacturing,60440,540232,11.19
+2011-12-01,4,"Electricity, gas, water and waste management",5120,540232,0.95
+2011-12-01,5,Construction,69774,540232,12.92
+2011-12-01,6,"Wholesale and retail trade, accommodation and food services",107991,540232,19.99
+2011-12-01,7,"Transport, communications and information services",53375,540232,9.88
+2011-12-01,8,Financial intermediation,23966,540232,4.44
+2011-12-01,9,Real estate and housing services,4931,540232,0.91
+2011-12-01,10,Business services,79841,540232,14.78
+2011-12-01,11,Personal services,80378,540232,14.88
+2011-12-01,12,Public administration,7454,540232,1.38
+2012-01-01,1,"Agriculture, forestry and fishing",37277,516355,7.22
+2012-01-01,2,Mining,9490,516355,1.84
+2012-01-01,3,Manufacturing,59151,516355,11.46
+2012-01-01,4,"Electricity, gas, water and waste management",4700,516355,0.91
+2012-01-01,5,Construction,66988,516355,12.97
+2012-01-01,6,"Wholesale and retail trade, accommodation and food services",105131,516355,20.36
+2012-01-01,7,"Transport, communications and information services",51702,516355,10.01
+2012-01-01,8,Financial intermediation,21404,516355,4.15
+2012-01-01,9,Real estate and housing services,4631,516355,0.9
+2012-01-01,10,Business services,76178,516355,14.75
+2012-01-01,11,Personal services,76813,516355,14.88
+2012-01-01,12,Public administration,7175,516355,1.39
+2012-02-01,1,"Agriculture, forestry and fishing",37101,520021,7.13
+2012-02-01,2,Mining,10118,520021,1.95
+2012-02-01,3,Manufacturing,59612,520021,11.46
+2012-02-01,4,"Electricity, gas, water and waste management",4735,520021,0.91
+2012-02-01,5,Construction,68067,520021,13.09
+2012-02-01,6,"Wholesale and retail trade, accommodation and food services",105601,520021,20.31
+2012-02-01,7,"Transport, communications and information services",52261,520021,10.05
+2012-02-01,8,Financial intermediation,21067,520021,4.05
+2012-02-01,9,Real estate and housing services,4574,520021,0.88
+2012-02-01,10,Business services,76936,520021,14.79
+2012-02-01,11,Personal services,76882,520021,14.78
+2012-02-01,12,Public administration,7152,520021,1.38
+2012-03-01,1,"Agriculture, forestry and fishing",37048,527293,7.03
+2012-03-01,2,Mining,9885,527293,1.87
+2012-03-01,3,Manufacturing,60111,527293,11.4
+2012-03-01,4,"Electricity, gas, water and waste management",4706,527293,0.89
+2012-03-01,5,Construction,69890,527293,13.25
+2012-03-01,6,"Wholesale and retail trade, accommodation and food services",107242,527293,20.34
+2012-03-01,7,"Transport, communications and information services",53002,527293,10.05
+2012-03-01,8,Financial intermediation,21684,527293,4.11
+2012-03-01,9,Real estate and housing services,4634,527293,0.88
+2012-03-01,10,Business services,77134,527293,14.63
+2012-03-01,11,Personal services,79799,527293,15.13
+2012-03-01,12,Public administration,7206,527293,1.37
+2012-04-01,1,"Agriculture, forestry and fishing",34426,529661,6.5
+2012-04-01,2,Mining,10044,529661,1.9
+2012-04-01,3,Manufacturing,60581,529661,11.44
+2012-04-01,4,"Electricity, gas, water and waste management",4802,529661,0.91
+2012-04-01,5,Construction,70672,529661,13.34
+2012-04-01,6,"Wholesale and retail trade, accommodation and food services",108703,529661,20.52
+2012-04-01,7,"Transport, communications and information services",53048,529661,10.02
+2012-04-01,8,Financial intermediation,21593,529661,4.08
+2012-04-01,9,Real estate and housing services,4683,529661,0.88
+2012-04-01,10,Business services,77131,529661,14.56
+2012-04-01,11,Personal services,81200,529661,15.33
+2012-04-01,12,Public administration,7579,529661,1.43
+2012-05-01,1,"Agriculture, forestry and fishing",31702,530107,5.98
+2012-05-01,2,Mining,10198,530107,1.92
+2012-05-01,3,Manufacturing,60535,530107,11.42
+2012-05-01,4,"Electricity, gas, water and waste management",4712,530107,0.89
+2012-05-01,5,Construction,71519,530107,13.49
+2012-05-01,6,"Wholesale and retail trade, accommodation and food services",109265,530107,20.61
+2012-05-01,7,"Transport, communications and information services",53327,530107,10.06
+2012-05-01,8,Financial intermediation,22052,530107,4.16
+2012-05-01,9,Real estate and housing services,4629,530107,0.87
+2012-05-01,10,Business services,77037,530107,14.53
+2012-05-01,11,Personal services,81967,530107,15.46
+2012-05-01,12,Public administration,7674,530107,1.45
+2012-06-01,1,"Agriculture, forestry and fishing",31648,532166,5.95
+2012-06-01,2,Mining,10791,532166,2.03
+2012-06-01,3,Manufacturing,60598,532166,11.39
+2012-06-01,4,"Electricity, gas, water and waste management",4850,532166,0.91
+2012-06-01,5,Construction,71669,532166,13.47
+2012-06-01,6,"Wholesale and retail trade, accommodation and food services",109545,532166,20.58
+2012-06-01,7,"Transport, communications and information services",53610,532166,10.07
+2012-06-01,8,Financial intermediation,22128,532166,4.16
+2012-06-01,9,Real estate and housing services,4552,532166,0.86
+2012-06-01,10,Business services,76988,532166,14.47
+2012-06-01,11,Personal services,82477,532166,15.5
+2012-06-01,12,Public administration,7705,532166,1.45
+2012-07-01,1,"Agriculture, forestry and fishing",29791,524262,5.68
+2012-07-01,2,Mining,13160,524262,2.51
+2012-07-01,3,Manufacturing,60303,524262,11.5
+2012-07-01,4,"Electricity, gas, water and waste management",5222,524262,1.0
+2012-07-01,5,Construction,70873,524262,13.52
+2012-07-01,6,"Wholesale and retail trade, accommodation and food services",104929,524262,20.01
+2012-07-01,7,"Transport, communications and information services",51763,524262,9.87
+2012-07-01,8,Financial intermediation,24587,524262,4.69
+2012-07-01,9,Real estate and housing services,4664,524262,0.89
+2012-07-01,10,Business services,77208,524262,14.73
+2012-07-01,11,Personal services,79218,524262,15.11
+2012-07-01,12,Public administration,6826,524262,1.3
+2012-08-01,1,"Agriculture, forestry and fishing",29744,532472,5.59
+2012-08-01,2,Mining,13322,532472,2.5
+2012-08-01,3,Manufacturing,61215,532472,11.5
+2012-08-01,4,"Electricity, gas, water and waste management",5321,532472,1.0
+2012-08-01,5,Construction,72508,532472,13.62
+2012-08-01,6,"Wholesale and retail trade, accommodation and food services",108027,532472,20.29
+2012-08-01,7,"Transport, communications and information services",52098,532472,9.78
+2012-08-01,8,Financial intermediation,24955,532472,4.69
+2012-08-01,9,Real estate and housing services,4718,532472,0.89
+2012-08-01,10,Business services,77925,532472,14.63
+2012-08-01,11,Personal services,80112,532472,15.05
+2012-08-01,12,Public administration,6953,532472,1.31
+2012-09-01,1,"Agriculture, forestry and fishing",28115,531200,5.29
+2012-09-01,2,Mining,13377,531200,2.52
+2012-09-01,3,Manufacturing,60178,531200,11.33
+2012-09-01,4,"Electricity, gas, water and waste management",5365,531200,1.01
+2012-09-01,5,Construction,72749,531200,13.7
+2012-09-01,6,"Wholesale and retail trade, accommodation and food services",106487,531200,20.05
+2012-09-01,7,"Transport, communications and information services",52576,531200,9.9
+2012-09-01,8,Financial intermediation,24613,531200,4.63
+2012-09-01,9,Real estate and housing services,4818,531200,0.91
+2012-09-01,10,Business services,78450,531200,14.77
+2012-09-01,11,Personal services,81152,531200,15.28
+2012-09-01,12,Public administration,7096,531200,1.34
+2012-10-01,1,"Agriculture, forestry and fishing",30518,536345,5.69
+2012-10-01,2,Mining,13412,536345,2.5
+2012-10-01,3,Manufacturing,60776,536345,11.33
+2012-10-01,4,"Electricity, gas, water and waste management",5340,536345,1.0
+2012-10-01,5,Construction,73707,536345,13.74
+2012-10-01,6,"Wholesale and retail trade, accommodation and food services",107001,536345,19.95
+2012-10-01,7,"Transport, communications and information services",52944,536345,9.87
+2012-10-01,8,Financial intermediation,25193,536345,4.7
+2012-10-01,9,Real estate and housing services,4838,536345,0.9
+2012-10-01,10,Business services,78855,536345,14.7
+2012-10-01,11,Personal services,80989,536345,15.1
+2012-10-01,12,Public administration,7129,536345,1.33
+2012-11-01,1,"Agriculture, forestry and fishing",31977,525028,6.09
+2012-11-01,2,Mining,10592,525028,2.02
+2012-11-01,3,Manufacturing,59864,525028,11.4
+2012-11-01,4,"Electricity, gas, water and waste management",4981,525028,0.95
+2012-11-01,5,Construction,73105,525028,13.92
+2012-11-01,6,"Wholesale and retail trade, accommodation and food services",107575,525028,20.49
+2012-11-01,7,"Transport, communications and information services",51353,525028,9.78
+2012-11-01,8,Financial intermediation,22287,525028,4.24
+2012-11-01,9,Real estate and housing services,4643,525028,0.88
+2012-11-01,10,Business services,75769,525028,14.43
+2012-11-01,11,Personal services,79874,525028,15.21
+2012-11-01,12,Public administration,7072,525028,1.35
+2012-12-01,1,"Agriculture, forestry and fishing",34346,526340,6.53
+2012-12-01,2,Mining,9777,526340,1.86
+2012-12-01,3,Manufacturing,59200,526340,11.25
+2012-12-01,4,"Electricity, gas, water and waste management",4973,526340,0.94
+2012-12-01,5,Construction,72532,526340,13.78
+2012-12-01,6,"Wholesale and retail trade, accommodation and food services",107637,526340,20.45
+2012-12-01,7,"Transport, communications and information services",51703,526340,9.82
+2012-12-01,8,Financial intermediation,20265,526340,3.85
+2012-12-01,9,Real estate and housing services,4653,526340,0.88
+2012-12-01,10,Business services,76652,526340,14.56
+2012-12-01,11,Personal services,79947,526340,15.19
+2012-12-01,12,Public administration,7151,526340,1.36
+2013-01-01,1,"Agriculture, forestry and fishing",34566,543339,6.36
+2013-01-01,2,Mining,13416,543339,2.47
+2013-01-01,3,Manufacturing,61232,543339,11.27
+2013-01-01,4,"Electricity, gas, water and waste management",5461,543339,1.01
+2013-01-01,5,Construction,72720,543339,13.38
+2013-01-01,6,"Wholesale and retail trade, accommodation and food services",109110,543339,20.08
+2013-01-01,7,"Transport, communications and information services",53861,543339,9.91
+2013-01-01,8,Financial intermediation,23945,543339,4.41
+2013-01-01,9,Real estate and housing services,4965,543339,0.91
+2013-01-01,10,Business services,79935,543339,14.71
+2013-01-01,11,Personal services,79451,543339,14.62
+2013-01-01,12,Public administration,7079,543339,1.3
+2013-02-01,1,"Agriculture, forestry and fishing",33700,542489,6.21
+2013-02-01,2,Mining,13395,542489,2.47
+2013-02-01,3,Manufacturing,61571,542489,11.35
+2013-02-01,4,"Electricity, gas, water and waste management",5496,542489,1.01
+2013-02-01,5,Construction,73343,542489,13.52
+2013-02-01,6,"Wholesale and retail trade, accommodation and food services",108614,542489,20.02
+2013-02-01,7,"Transport, communications and information services",54180,542489,9.99
+2013-02-01,8,Financial intermediation,23907,542489,4.41
+2013-02-01,9,Real estate and housing services,4924,542489,0.91
+2013-02-01,10,Business services,80260,542489,14.79
+2013-02-01,11,Personal services,78438,542489,14.46
+2013-02-01,12,Public administration,7075,542489,1.3
+2013-03-01,1,"Agriculture, forestry and fishing",34059,555539,6.13
+2013-03-01,2,Mining,13484,555539,2.43
+2013-03-01,3,Manufacturing,63404,555539,11.41
+2013-03-01,4,"Electricity, gas, water and waste management",5561,555539,1.0
+2013-03-01,5,Construction,74830,555539,13.47
+2013-03-01,6,"Wholesale and retail trade, accommodation and food services",113364,555539,20.41
+2013-03-01,7,"Transport, communications and information services",54801,555539,9.86
+2013-03-01,8,Financial intermediation,24083,555539,4.34
+2013-03-01,9,Real estate and housing services,4999,555539,0.9
+2013-03-01,10,Business services,81003,555539,14.58
+2013-03-01,11,Personal services,81720,555539,14.71
+2013-03-01,12,Public administration,7067,555539,1.27
+2013-04-01,1,"Agriculture, forestry and fishing",32320,556079,5.81
+2013-04-01,2,Mining,13445,556079,2.42
+2013-04-01,3,Manufacturing,63410,556079,11.4
+2013-04-01,4,"Electricity, gas, water and waste management",5524,556079,0.99
+2013-04-01,5,Construction,75785,556079,13.63
+2013-04-01,6,"Wholesale and retail trade, accommodation and food services",112620,556079,20.25
+2013-04-01,7,"Transport, communications and information services",55087,556079,9.91
+2013-04-01,8,Financial intermediation,24079,556079,4.33
+2013-04-01,9,Real estate and housing services,5061,556079,0.91
+2013-04-01,10,Business services,81561,556079,14.67
+2013-04-01,11,Personal services,82839,556079,14.9
+2013-04-01,12,Public administration,7409,556079,1.33
+2013-05-01,1,"Agriculture, forestry and fishing",29201,553126,5.28
+2013-05-01,2,Mining,13334,553126,2.41
+2013-05-01,3,Manufacturing,62711,553126,11.34
+2013-05-01,4,"Electricity, gas, water and waste management",5578,553126,1.01
+2013-05-01,5,Construction,76032,553126,13.75
+2013-05-01,6,"Wholesale and retail trade, accommodation and food services",112095,553126,20.27
+2013-05-01,7,"Transport, communications and information services",55115,553126,9.96
+2013-05-01,8,Financial intermediation,24115,553126,4.36
+2013-05-01,9,Real estate and housing services,5040,553126,0.91
+2013-05-01,10,Business services,81126,553126,14.67
+2013-05-01,11,Personal services,83746,553126,15.14
+2013-05-01,12,Public administration,7610,553126,1.38
+2013-06-01,1,"Agriculture, forestry and fishing",28896,553668,5.22
+2013-06-01,2,Mining,13235,553668,2.39
+2013-06-01,3,Manufacturing,62655,553668,11.32
+2013-06-01,4,"Electricity, gas, water and waste management",5633,553668,1.02
+2013-06-01,5,Construction,75829,553668,13.7
+2013-06-01,6,"Wholesale and retail trade, accommodation and food services",112197,553668,20.26
+2013-06-01,7,"Transport, communications and information services",55099,553668,9.95
+2013-06-01,8,Financial intermediation,25221,553668,4.56
+2013-06-01,9,Real estate and housing services,5059,553668,0.91
+2013-06-01,10,Business services,80823,553668,14.6
+2013-06-01,11,Personal services,84378,553668,15.24
+2013-06-01,12,Public administration,7906,553668,1.43
+2013-07-01,1,"Agriculture, forestry and fishing",29338,547032,5.36
+2013-07-01,2,Mining,13085,547032,2.39
+2013-07-01,3,Manufacturing,62190,547032,11.37
+2013-07-01,4,"Electricity, gas, water and waste management",5612,547032,1.03
+2013-07-01,5,Construction,75328,547032,13.77
+2013-07-01,6,"Wholesale and retail trade, accommodation and food services",110092,547032,20.13
+2013-07-01,7,"Transport, communications and information services",54432,547032,9.95
+2013-07-01,8,Financial intermediation,24738,547032,4.52
+2013-07-01,9,Real estate and housing services,4961,547032,0.91
+2013-07-01,10,Business services,79437,547032,14.52
+2013-07-01,11,Personal services,82502,547032,15.08
+2013-07-01,12,Public administration,7635,547032,1.4
+2013-08-01,1,"Agriculture, forestry and fishing",30120,559277,5.39
+2013-08-01,2,Mining,13013,559277,2.33
+2013-08-01,3,Manufacturing,63446,559277,11.34
+2013-08-01,4,"Electricity, gas, water and waste management",5761,559277,1.03
+2013-08-01,5,Construction,76844,559277,13.74
+2013-08-01,6,"Wholesale and retail trade, accommodation and food services",114782,559277,20.52
+2013-08-01,7,"Transport, communications and information services",55130,559277,9.86
+2013-08-01,8,Financial intermediation,24928,559277,4.46
+2013-08-01,9,Real estate and housing services,5060,559277,0.9
+2013-08-01,10,Business services,80443,559277,14.38
+2013-08-01,11,Personal services,84344,559277,15.08
+2013-08-01,12,Public administration,7818,559277,1.4
+2013-09-01,1,"Agriculture, forestry and fishing",27998,534057,5.24
+2013-09-01,2,Mining,9438,534057,1.77
+2013-09-01,3,Manufacturing,60388,534057,11.31
+2013-09-01,4,"Electricity, gas, water and waste management",5283,534057,0.99
+2013-09-01,5,Construction,74310,534057,13.91
+2013-09-01,6,"Wholesale and retail trade, accommodation and food services",110028,534057,20.6
+2013-09-01,7,"Transport, communications and information services",53485,534057,10.01
+2013-09-01,8,Financial intermediation,21954,534057,4.11
+2013-09-01,9,Real estate and housing services,4822,534057,0.9
+2013-09-01,10,Business services,76962,534057,14.41
+2013-09-01,11,Personal services,83860,534057,15.7
+2013-09-01,12,Public administration,7830,534057,1.47
+2013-10-01,1,"Agriculture, forestry and fishing",29325,538445,5.45
+2013-10-01,2,Mining,10061,538445,1.87
+2013-10-01,3,Manufacturing,61078,538445,11.34
+2013-10-01,4,"Electricity, gas, water and waste management",5306,538445,0.99
+2013-10-01,5,Construction,75015,538445,13.93
+2013-10-01,6,"Wholesale and retail trade, accommodation and food services",109912,538445,20.41
+2013-10-01,7,"Transport, communications and information services",53726,538445,9.98
+2013-10-01,8,Financial intermediation,22246,538445,4.13
+2013-10-01,9,Real estate and housing services,4800,538445,0.89
+2013-10-01,10,Business services,77651,538445,14.42
+2013-10-01,11,Personal services,83881,538445,15.58
+2013-10-01,12,Public administration,7892,538445,1.47
+2013-11-01,1,"Agriculture, forestry and fishing",31234,545813,5.72
+2013-11-01,2,Mining,10126,545813,1.86
+2013-11-01,3,Manufacturing,62233,545813,11.4
+2013-11-01,4,"Electricity, gas, water and waste management",5212,545813,0.95
+2013-11-01,5,Construction,74741,545813,13.69
+2013-11-01,6,"Wholesale and retail trade, accommodation and food services",113446,545813,20.78
+2013-11-01,7,"Transport, communications and information services",54015,545813,9.9
+2013-11-01,8,Financial intermediation,22192,545813,4.07
+2013-11-01,9,Real estate and housing services,4811,545813,0.88
+2013-11-01,10,Business services,77993,545813,14.29
+2013-11-01,11,Personal services,84343,545813,15.45
+2013-11-01,12,Public administration,7884,545813,1.44
+2013-12-01,1,"Agriculture, forestry and fishing",34381,546337,6.29
+2013-12-01,2,Mining,9496,546337,1.74
+2013-12-01,3,Manufacturing,61383,546337,11.24
+2013-12-01,4,"Electricity, gas, water and waste management",5326,546337,0.97
+2013-12-01,5,Construction,73902,546337,13.53
+2013-12-01,6,"Wholesale and retail trade, accommodation and food services",112447,546337,20.58
+2013-12-01,7,"Transport, communications and information services",54041,546337,9.89
+2013-12-01,8,Financial intermediation,21687,546337,3.97
+2013-12-01,9,Real estate and housing services,4847,546337,0.89
+2013-12-01,10,Business services,78291,546337,14.33
+2013-12-01,11,Personal services,84953,546337,15.55
+2013-12-01,12,Public administration,8144,546337,1.49
+2014-01-01,1,"Agriculture, forestry and fishing",33523,539937,6.21
+2014-01-01,2,Mining,9578,539937,1.77
+2014-01-01,3,Manufacturing,61258,539937,11.35
+2014-01-01,4,"Electricity, gas, water and waste management",5447,539937,1.01
+2014-01-01,5,Construction,71252,539937,13.2
+2014-01-01,6,"Wholesale and retail trade, accommodation and food services",111144,539937,20.58
+2014-01-01,7,"Transport, communications and information services",54157,539937,10.03
+2014-01-01,8,Financial intermediation,22418,539937,4.15
+2014-01-01,9,Real estate and housing services,4796,539937,0.89
+2014-01-01,10,Business services,77585,539937,14.37
+2014-01-01,11,Personal services,83212,539937,15.41
+2014-01-01,12,Public administration,8002,539937,1.48
+2014-02-01,1,"Agriculture, forestry and fishing",32930,539844,6.1
+2014-02-01,2,Mining,10361,539844,1.92
+2014-02-01,3,Manufacturing,61537,539844,11.4
+2014-02-01,4,"Electricity, gas, water and waste management",5472,539844,1.01
+2014-02-01,5,Construction,71615,539844,13.27
+2014-02-01,6,"Wholesale and retail trade, accommodation and food services",110968,539844,20.56
+2014-02-01,7,"Transport, communications and information services",54361,539844,10.07
+2014-02-01,8,Financial intermediation,21955,539844,4.07
+2014-02-01,9,Real estate and housing services,4760,539844,0.88
+2014-02-01,10,Business services,77688,539844,14.39
+2014-02-01,11,Personal services,82599,539844,15.3
+2014-02-01,12,Public administration,7975,539844,1.48
+2014-03-01,1,"Agriculture, forestry and fishing",33384,549379,6.08
+2014-03-01,2,Mining,9928,549379,1.81
+2014-03-01,3,Manufacturing,63323,549379,11.53
+2014-03-01,4,"Electricity, gas, water and waste management",5524,549379,1.01
+2014-03-01,5,Construction,72164,549379,13.14
+2014-03-01,6,"Wholesale and retail trade, accommodation and food services",114672,549379,20.87
+2014-03-01,7,"Transport, communications and information services",54614,549379,9.94
+2014-03-01,8,Financial intermediation,21726,549379,3.95
+2014-03-01,9,Real estate and housing services,4706,549379,0.86
+2014-03-01,10,Business services,78639,549379,14.31
+2014-03-01,11,Personal services,85538,549379,15.57
+2014-03-01,12,Public administration,7980,549379,1.45
+2014-04-01,1,"Agriculture, forestry and fishing",31483,549922,5.72
+2014-04-01,2,Mining,9941,549922,1.81
+2014-04-01,3,Manufacturing,63074,549922,11.47
+2014-04-01,4,"Electricity, gas, water and waste management",5555,549922,1.01
+2014-04-01,5,Construction,72271,549922,13.14
+2014-04-01,6,"Wholesale and retail trade, accommodation and food services",113605,549922,20.66
+2014-04-01,7,"Transport, communications and information services",55022,549922,10.01
+2014-04-01,8,Financial intermediation,22311,549922,4.06
+2014-04-01,9,Real estate and housing services,4766,549922,0.87
+2014-04-01,10,Business services,78728,549922,14.32
+2014-04-01,11,Personal services,87546,549922,15.92
+2014-04-01,12,Public administration,8405,549922,1.53
+2014-05-01,1,"Agriculture, forestry and fishing",28896,548946,5.26
+2014-05-01,2,Mining,10252,548946,1.87
+2014-05-01,3,Manufacturing,62927,548946,11.46
+2014-05-01,4,"Electricity, gas, water and waste management",5604,548946,1.02
+2014-05-01,5,Construction,71689,548946,13.06
+2014-05-01,6,"Wholesale and retail trade, accommodation and food services",114011,548946,20.77
+2014-05-01,7,"Transport, communications and information services",55022,548946,10.02
+2014-05-01,8,Financial intermediation,22352,548946,4.07
+2014-05-01,9,Real estate and housing services,4741,548946,0.86
+2014-05-01,10,Business services,79125,548946,14.41
+2014-05-01,11,Personal services,88328,548946,16.09
+2014-05-01,12,Public administration,8606,548946,1.57
+2014-06-01,1,"Agriculture, forestry and fishing",29058,547702,5.31
+2014-06-01,2,Mining,10172,547702,1.86
+2014-06-01,3,Manufacturing,62605,547702,11.43
+2014-06-01,4,"Electricity, gas, water and waste management",5662,547702,1.03
+2014-06-01,5,Construction,70614,547702,12.89
+2014-06-01,6,"Wholesale and retail trade, accommodation and food services",113383,547702,20.7
+2014-06-01,7,"Transport, communications and information services",54844,547702,10.01
+2014-06-01,8,Financial intermediation,22414,547702,4.09
+2014-06-01,9,Real estate and housing services,4711,547702,0.86
+2014-06-01,10,Business services,79199,547702,14.46
+2014-06-01,11,Personal services,88798,547702,16.21
+2014-06-01,12,Public administration,8721,547702,1.59
+2014-07-01,1,"Agriculture, forestry and fishing",34533,576032,5.99
+2014-07-01,2,Mining,10148,576032,1.76
+2014-07-01,3,Manufacturing,64864,576032,11.26
+2014-07-01,4,"Electricity, gas, water and waste management",5754,576032,1.0
+2014-07-01,5,Construction,72647,576032,12.61
+2014-07-01,6,"Wholesale and retail trade, accommodation and food services",120727,576032,20.96
+2014-07-01,7,"Transport, communications and information services",58646,576032,10.18
+2014-07-01,8,Financial intermediation,22695,576032,3.94
+2014-07-01,9,Real estate and housing services,4882,576032,0.85
+2014-07-01,10,Business services,82092,576032,14.25
+2014-07-01,11,Personal services,92129,576032,15.99
+2014-07-01,12,Public administration,9512,576032,1.65
+2014-08-01,1,"Agriculture, forestry and fishing",34479,578184,5.96
+2014-08-01,2,Mining,10207,578184,1.77
+2014-08-01,3,Manufacturing,64927,578184,11.23
+2014-08-01,4,"Electricity, gas, water and waste management",5692,578184,0.98
+2014-08-01,5,Construction,72580,578184,12.55
+2014-08-01,6,"Wholesale and retail trade, accommodation and food services",120831,578184,20.9
+2014-08-01,7,"Transport, communications and information services",58713,578184,10.15
+2014-08-01,8,Financial intermediation,22404,578184,3.87
+2014-08-01,9,Real estate and housing services,4975,578184,0.86
+2014-08-01,10,Business services,83660,578184,14.47
+2014-08-01,11,Personal services,92649,578184,16.02
+2014-08-01,12,Public administration,9674,578184,1.67
+2014-09-01,1,"Agriculture, forestry and fishing",32736,577407,5.67
+2014-09-01,2,Mining,9940,577407,1.72
+2014-09-01,3,Manufacturing,64319,577407,11.14
+2014-09-01,4,"Electricity, gas, water and waste management",5581,577407,0.97
+2014-09-01,5,Construction,71608,577407,12.4
+2014-09-01,6,"Wholesale and retail trade, accommodation and food services",120983,577407,20.95
+2014-09-01,7,"Transport, communications and information services",58737,577407,10.17
+2014-09-01,8,Financial intermediation,22817,577407,3.95
+2014-09-01,9,Real estate and housing services,4979,577407,0.86
+2014-09-01,10,Business services,85527,577407,14.81
+2014-09-01,11,Personal services,92732,577407,16.06
+2014-09-01,12,Public administration,9981,577407,1.73
+2014-10-01,1,"Agriculture, forestry and fishing",35465,584487,6.07
+2014-10-01,2,Mining,10547,584487,1.8
+2014-10-01,3,Manufacturing,65068,584487,11.13
+2014-10-01,4,"Electricity, gas, water and waste management",5645,584487,0.97
+2014-10-01,5,Construction,72757,584487,12.45
+2014-10-01,6,"Wholesale and retail trade, accommodation and food services",121187,584487,20.73
+2014-10-01,7,"Transport, communications and information services",59058,584487,10.1
+2014-10-01,8,Financial intermediation,23211,584487,3.97
+2014-10-01,9,Real estate and housing services,5000,584487,0.86
+2014-10-01,10,Business services,85989,584487,14.71
+2014-10-01,11,Personal services,93152,584487,15.94
+2014-10-01,12,Public administration,10074,584487,1.72
+2014-11-01,1,"Agriculture, forestry and fishing",38243,590704,6.47
+2014-11-01,2,Mining,10264,590704,1.74
+2014-11-01,3,Manufacturing,65332,590704,11.06
+2014-11-01,4,"Electricity, gas, water and waste management",5691,590704,0.96
+2014-11-01,5,Construction,73566,590704,12.45
+2014-11-01,6,"Wholesale and retail trade, accommodation and food services",122587,590704,20.75
+2014-11-01,7,"Transport, communications and information services",59298,590704,10.04
+2014-11-01,8,Financial intermediation,23140,590704,3.92
+2014-11-01,9,Real estate and housing services,5049,590704,0.85
+2014-11-01,10,Business services,86531,590704,14.65
+2014-11-01,11,Personal services,93661,590704,15.86
+2014-11-01,12,Public administration,10170,590704,1.72
+2014-12-01,1,"Agriculture, forestry and fishing",40686,592934,6.86
+2014-12-01,2,Mining,9656,592934,1.63
+2014-12-01,3,Manufacturing,65252,592934,11.0
+2014-12-01,4,"Electricity, gas, water and waste management",5681,592934,0.96
+2014-12-01,5,Construction,72601,592934,12.24
+2014-12-01,6,"Wholesale and retail trade, accommodation and food services",124228,592934,20.95
+2014-12-01,7,"Transport, communications and information services",59614,592934,10.05
+2014-12-01,8,Financial intermediation,21790,592934,3.67
+2014-12-01,9,Real estate and housing services,5045,592934,0.85
+2014-12-01,10,Business services,87310,592934,14.73
+2014-12-01,11,Personal services,93554,592934,15.78
+2014-12-01,12,Public administration,10448,592934,1.76
+2015-01-01,1,"Agriculture, forestry and fishing",39555,587367,6.73
+2015-01-01,2,Mining,9577,587367,1.63
+2015-01-01,3,Manufacturing,64819,587367,11.04
+2015-01-01,4,"Electricity, gas, water and waste management",5746,587367,0.98
+2015-01-01,5,Construction,70835,587367,12.06
+2015-01-01,6,"Wholesale and retail trade, accommodation and food services",123044,587367,20.95
+2015-01-01,7,"Transport, communications and information services",59807,587367,10.18
+2015-01-01,8,Financial intermediation,23105,587367,3.93
+2015-01-01,9,Real estate and housing services,5186,587367,0.88
+2015-01-01,10,Business services,86923,587367,14.8
+2015-01-01,11,Personal services,91479,587367,15.57
+2015-01-01,12,Public administration,10207,587367,1.74
+2015-02-01,1,"Agriculture, forestry and fishing",39007,590318,6.61
+2015-02-01,2,Mining,10060,590318,1.7
+2015-02-01,3,Manufacturing,65317,590318,11.06
+2015-02-01,4,"Electricity, gas, water and waste management",5820,590318,0.99
+2015-02-01,5,Construction,72056,590318,12.21
+2015-02-01,6,"Wholesale and retail trade, accommodation and food services",123358,590318,20.9
+2015-02-01,7,"Transport, communications and information services",60092,590318,10.18
+2015-02-01,8,Financial intermediation,23094,590318,3.91
+2015-02-01,9,Real estate and housing services,5203,590318,0.88
+2015-02-01,10,Business services,87673,590318,14.85
+2015-02-01,11,Personal services,91137,590318,15.44
+2015-02-01,12,Public administration,10280,590318,1.74
+2015-03-01,1,"Agriculture, forestry and fishing",38451,595041,6.46
+2015-03-01,2,Mining,10081,595041,1.69
+2015-03-01,3,Manufacturing,66077,595041,11.1
+2015-03-01,4,"Electricity, gas, water and waste management",5779,595041,0.97
+2015-03-01,5,Construction,73371,595041,12.33
+2015-03-01,6,"Wholesale and retail trade, accommodation and food services",123974,595041,20.83
+2015-03-01,7,"Transport, communications and information services",60211,595041,10.12
+2015-03-01,8,Financial intermediation,23331,595041,3.92
+2015-03-01,9,Real estate and housing services,5195,595041,0.87
+2015-03-01,10,Business services,87843,595041,14.76
+2015-03-01,11,Personal services,93526,595041,15.72
+2015-03-01,12,Public administration,10366,595041,1.74
+2015-04-01,1,"Agriculture, forestry and fishing",36764,596825,6.16
+2015-04-01,2,Mining,10001,596825,1.68
+2015-04-01,3,Manufacturing,66308,596825,11.11
+2015-04-01,4,"Electricity, gas, water and waste management",5968,596825,1.0
+2015-04-01,5,Construction,73528,596825,12.32
+2015-04-01,6,"Wholesale and retail trade, accommodation and food services",124735,596825,20.9
+2015-04-01,7,"Transport, communications and information services",60352,596825,10.11
+2015-04-01,8,Financial intermediation,23172,596825,3.88
+2015-04-01,9,Real estate and housing services,5275,596825,0.88
+2015-04-01,10,Business services,88184,596825,14.78
+2015-04-01,11,Personal services,94924,596825,15.9
+2015-04-01,12,Public administration,10776,596825,1.81
+2015-05-01,1,"Agriculture, forestry and fishing",33809,596477,5.67
+2015-05-01,2,Mining,10244,596477,1.72
+2015-05-01,3,Manufacturing,66091,596477,11.08
+2015-05-01,4,"Electricity, gas, water and waste management",5941,596477,1.0
+2015-05-01,5,Construction,73776,596477,12.37
+2015-05-01,6,"Wholesale and retail trade, accommodation and food services",125407,596477,21.02
+2015-05-01,7,"Transport, communications and information services",60161,596477,10.09
+2015-05-01,8,Financial intermediation,23583,596477,3.95
+2015-05-01,9,Real estate and housing services,5304,596477,0.89
+2015-05-01,10,Business services,88192,596477,14.79
+2015-05-01,11,Personal services,95996,596477,16.09
+2015-05-01,12,Public administration,11015,596477,1.85
+2015-06-01,1,"Agriculture, forestry and fishing",34371,597865,5.75
+2015-06-01,2,Mining,10458,597865,1.75
+2015-06-01,3,Manufacturing,65896,597865,11.02
+2015-06-01,4,"Electricity, gas, water and waste management",6177,597865,1.03
+2015-06-01,5,Construction,73513,597865,12.3
+2015-06-01,6,"Wholesale and retail trade, accommodation and food services",125603,597865,21.01
+2015-06-01,7,"Transport, communications and information services",60229,597865,10.07
+2015-06-01,8,Financial intermediation,23792,597865,3.98
+2015-06-01,9,Real estate and housing services,5228,597865,0.87
+2015-06-01,10,Business services,88321,597865,14.77
+2015-06-01,11,Personal services,96295,597865,16.11
+2015-06-01,12,Public administration,11027,597865,1.84
+2015-07-01,1,"Agriculture, forestry and fishing",31626,568704,5.56
+2015-07-01,2,Mining,10143,568704,1.78
+2015-07-01,3,Manufacturing,64001,568704,11.25
+2015-07-01,4,"Electricity, gas, water and waste management",6111,568704,1.07
+2015-07-01,5,Construction,70369,568704,12.37
+2015-07-01,6,"Wholesale and retail trade, accommodation and food services",117920,568704,20.73
+2015-07-01,7,"Transport, communications and information services",56238,568704,9.89
+2015-07-01,8,Financial intermediation,23540,568704,4.14
+2015-07-01,9,Real estate and housing services,5018,568704,0.88
+2015-07-01,10,Business services,84930,568704,14.93
+2015-07-01,11,Personal services,91848,568704,16.15
+2015-07-01,12,Public administration,9586,568704,1.69
+2015-08-01,1,"Agriculture, forestry and fishing",31351,571579,5.48
+2015-08-01,2,Mining,9712,571579,1.7
+2015-08-01,3,Manufacturing,64380,571579,11.26
+2015-08-01,4,"Electricity, gas, water and waste management",6203,571579,1.09
+2015-08-01,5,Construction,70071,571579,12.26
+2015-08-01,6,"Wholesale and retail trade, accommodation and food services",120227,571579,21.03
+2015-08-01,7,"Transport, communications and information services",55896,571579,9.78
+2015-08-01,8,Financial intermediation,23733,571579,4.15
+2015-08-01,9,Real estate and housing services,5058,571579,0.88
+2015-08-01,10,Business services,85257,571579,14.92
+2015-08-01,11,Personal services,92958,571579,16.26
+2015-08-01,12,Public administration,9530,571579,1.67
+2015-09-01,1,"Agriculture, forestry and fishing",30211,570576,5.29
+2015-09-01,2,Mining,9773,570576,1.71
+2015-09-01,3,Manufacturing,63488,570576,11.13
+2015-09-01,4,"Electricity, gas, water and waste management",6139,570576,1.08
+2015-09-01,5,Construction,70492,570576,12.35
+2015-09-01,6,"Wholesale and retail trade, accommodation and food services",119186,570576,20.89
+2015-09-01,7,"Transport, communications and information services",56329,570576,9.87
+2015-09-01,8,Financial intermediation,23408,570576,4.1
+2015-09-01,9,Real estate and housing services,5057,570576,0.89
+2015-09-01,10,Business services,85701,570576,15.02
+2015-09-01,11,Personal services,93799,570576,16.44
+2015-09-01,12,Public administration,9725,570576,1.7
+2015-10-01,1,"Agriculture, forestry and fishing",31297,574326,5.45
+2015-10-01,2,Mining,9770,574326,1.7
+2015-10-01,3,Manufacturing,64130,574326,11.17
+2015-10-01,4,"Electricity, gas, water and waste management",6167,574326,1.07
+2015-10-01,5,Construction,71534,574326,12.46
+2015-10-01,6,"Wholesale and retail trade, accommodation and food services",119344,574326,20.78
+2015-10-01,7,"Transport, communications and information services",56436,574326,9.83
+2015-10-01,8,Financial intermediation,23895,574326,4.16
+2015-10-01,9,Real estate and housing services,5052,574326,0.88
+2015-10-01,10,Business services,85705,574326,14.92
+2015-10-01,11,Personal services,93891,574326,16.35
+2015-10-01,12,Public administration,9819,574326,1.71
+2015-11-01,1,"Agriculture, forestry and fishing",33439,580749,5.76
+2015-11-01,2,Mining,10213,580749,1.76
+2015-11-01,3,Manufacturing,64733,580749,11.15
+2015-11-01,4,"Electricity, gas, water and waste management",6232,580749,1.07
+2015-11-01,5,Construction,72699,580749,12.52
+2015-11-01,6,"Wholesale and retail trade, accommodation and food services",120926,580749,20.82
+2015-11-01,7,"Transport, communications and information services",56855,580749,9.79
+2015-11-01,8,Financial intermediation,23159,580749,3.99
+2015-11-01,9,Real estate and housing services,5122,580749,0.88
+2015-11-01,10,Business services,86311,580749,14.86
+2015-11-01,11,Personal services,94062,580749,16.2
+2015-11-01,12,Public administration,9855,580749,1.7
+2015-12-01,1,"Agriculture, forestry and fishing",36752,585119,6.28
+2015-12-01,2,Mining,9315,585119,1.59
+2015-12-01,3,Manufacturing,63971,585119,10.93
+2015-12-01,4,"Electricity, gas, water and waste management",6234,585119,1.07
+2015-12-01,5,Construction,72135,585119,12.33
+2015-12-01,6,"Wholesale and retail trade, accommodation and food services",121579,585119,20.78
+2015-12-01,7,"Transport, communications and information services",57063,585119,9.75
+2015-12-01,8,Financial intermediation,23768,585119,4.06
+2015-12-01,9,Real estate and housing services,5284,585119,0.9
+2015-12-01,10,Business services,87134,585119,14.89
+2015-12-01,11,Personal services,94665,585119,16.18
+2015-12-01,12,Public administration,10142,585119,1.73
+2016-01-01,1,"Agriculture, forestry and fishing",40804,608040,6.71
+2016-01-01,2,Mining,9300,608040,1.53
+2016-01-01,3,Manufacturing,66061,608040,10.86
+2016-01-01,4,"Electricity, gas, water and waste management",6150,608040,1.01
+2016-01-01,5,Construction,73034,608040,12.01
+2016-01-01,6,"Wholesale and retail trade, accommodation and food services",127618,608040,20.99
+2016-01-01,7,"Transport, communications and information services",61255,608040,10.07
+2016-01-01,8,Financial intermediation,24295,608040,4.0
+2016-01-01,9,Real estate and housing services,5259,608040,0.86
+2016-01-01,10,Business services,89611,608040,14.74
+2016-01-01,11,Personal services,96669,608040,15.9
+2016-01-01,12,Public administration,11181,608040,1.84
+2016-02-01,1,"Agriculture, forestry and fishing",40534,610739,6.64
+2016-02-01,2,Mining,9826,610739,1.61
+2016-02-01,3,Manufacturing,66464,610739,10.88
+2016-02-01,4,"Electricity, gas, water and waste management",6187,610739,1.01
+2016-02-01,5,Construction,73963,610739,12.11
+2016-02-01,6,"Wholesale and retail trade, accommodation and food services",127808,610739,20.93
+2016-02-01,7,"Transport, communications and information services",61696,610739,10.1
+2016-02-01,8,Financial intermediation,23968,610739,3.92
+2016-02-01,9,Real estate and housing services,5320,610739,0.87
+2016-02-01,10,Business services,90440,610739,14.81
+2016-02-01,11,Personal services,96396,610739,15.78
+2016-02-01,12,Public administration,11141,610739,1.82
+2016-03-01,1,"Agriculture, forestry and fishing",40163,615225,6.53
+2016-03-01,2,Mining,9577,615225,1.56
+2016-03-01,3,Manufacturing,67455,615225,10.96
+2016-03-01,4,"Electricity, gas, water and waste management",6230,615225,1.01
+2016-03-01,5,Construction,75446,615225,12.26
+2016-03-01,6,"Wholesale and retail trade, accommodation and food services",128059,615225,20.81
+2016-03-01,7,"Transport, communications and information services",61595,615225,10.01
+2016-03-01,8,Financial intermediation,24191,615225,3.93
+2016-03-01,9,Real estate and housing services,5350,615225,0.87
+2016-03-01,10,Business services,90246,615225,14.67
+2016-03-01,11,Personal services,98911,615225,16.08
+2016-03-01,12,Public administration,11220,615225,1.82
+2016-04-01,1,"Agriculture, forestry and fishing",37897,616764,6.14
+2016-04-01,2,Mining,9961,616764,1.62
+2016-04-01,3,Manufacturing,67973,616764,11.02
+2016-04-01,4,"Electricity, gas, water and waste management",6331,616764,1.03
+2016-04-01,5,Construction,76170,616764,12.35
+2016-04-01,6,"Wholesale and retail trade, accommodation and food services",128644,616764,20.86
+2016-04-01,7,"Transport, communications and information services",61717,616764,10.01
+2016-04-01,8,Financial intermediation,24094,616764,3.91
+2016-04-01,9,Real estate and housing services,5380,616764,0.87
+2016-04-01,10,Business services,90363,616764,14.65
+2016-04-01,11,Personal services,100272,616764,16.26
+2016-04-01,12,Public administration,11483,616764,1.86
+2016-05-01,1,"Agriculture, forestry and fishing",34918,614831,5.68
+2016-05-01,2,Mining,10018,614831,1.63
+2016-05-01,3,Manufacturing,67267,614831,10.94
+2016-05-01,4,"Electricity, gas, water and waste management",6423,614831,1.04
+2016-05-01,5,Construction,76022,614831,12.36
+2016-05-01,6,"Wholesale and retail trade, accommodation and food services",128515,614831,20.9
+2016-05-01,7,"Transport, communications and information services",61640,614831,10.03
+2016-05-01,8,Financial intermediation,24484,614831,3.98
+2016-05-01,9,Real estate and housing services,5413,614831,0.88
+2016-05-01,10,Business services,90314,614831,14.69
+2016-05-01,11,Personal services,101172,614831,16.46
+2016-05-01,12,Public administration,11742,614831,1.91
+2016-06-01,1,"Agriculture, forestry and fishing",35481,615786,5.76
+2016-06-01,2,Mining,10246,615786,1.66
+2016-06-01,3,Manufacturing,67087,615786,10.89
+2016-06-01,4,"Electricity, gas, water and waste management",6451,615786,1.05
+2016-06-01,5,Construction,75922,615786,12.33
+2016-06-01,6,"Wholesale and retail trade, accommodation and food services",128626,615786,20.89
+2016-06-01,7,"Transport, communications and information services",61517,615786,9.99
+2016-06-01,8,Financial intermediation,24593,615786,3.99
+2016-06-01,9,Real estate and housing services,5480,615786,0.89
+2016-06-01,10,Business services,89922,615786,14.6
+2016-06-01,11,Personal services,101574,615786,16.5
+2016-06-01,12,Public administration,11883,615786,1.93
+2016-07-01,1,"Agriculture, forestry and fishing",31757,585414,5.42
+2016-07-01,2,Mining,10205,585414,1.74
+2016-07-01,3,Manufacturing,64906,585414,11.09
+2016-07-01,4,"Electricity, gas, water and waste management",6285,585414,1.07
+2016-07-01,5,Construction,72369,585414,12.36
+2016-07-01,6,"Wholesale and retail trade, accommodation and food services",122161,585414,20.87
+2016-07-01,7,"Transport, communications and information services",57049,585414,9.75
+2016-07-01,8,Financial intermediation,24414,585414,4.17
+2016-07-01,9,Real estate and housing services,5211,585414,0.89
+2016-07-01,10,Business services,86749,585414,14.82
+2016-07-01,11,Personal services,96421,585414,16.47
+2016-07-01,12,Public administration,10556,585414,1.8
+2016-08-01,1,"Agriculture, forestry and fishing",32192,588226,5.47
+2016-08-01,2,Mining,9409,588226,1.6
+2016-08-01,3,Manufacturing,65036,588226,11.06
+2016-08-01,4,"Electricity, gas, water and waste management",6310,588226,1.07
+2016-08-01,5,Construction,72967,588226,12.4
+2016-08-01,6,"Wholesale and retail trade, accommodation and food services",123109,588226,20.93
+2016-08-01,7,"Transport, communications and information services",57370,588226,9.75
+2016-08-01,8,Financial intermediation,24320,588226,4.13
+2016-08-01,9,Real estate and housing services,5251,588226,0.89
+2016-08-01,10,Business services,87091,588226,14.81
+2016-08-01,11,Personal services,97295,588226,16.54
+2016-08-01,12,Public administration,10585,588226,1.8
+2016-09-01,1,"Agriculture, forestry and fishing",30943,586142,5.28
+2016-09-01,2,Mining,9413,586142,1.61
+2016-09-01,3,Manufacturing,64271,586142,10.97
+2016-09-01,4,"Electricity, gas, water and waste management",6284,586142,1.07
+2016-09-01,5,Construction,72217,586142,12.32
+2016-09-01,6,"Wholesale and retail trade, accommodation and food services",122977,586142,20.98
+2016-09-01,7,"Transport, communications and information services",57277,586142,9.77
+2016-09-01,8,Financial intermediation,24307,586142,4.15
+2016-09-01,9,Real estate and housing services,5172,586142,0.88
+2016-09-01,10,Business services,87275,586142,14.89
+2016-09-01,11,Personal services,98030,586142,16.72
+2016-09-01,12,Public administration,10778,586142,1.84
+2016-10-01,1,"Agriculture, forestry and fishing",32791,591289,5.55
+2016-10-01,2,Mining,9857,591289,1.67
+2016-10-01,3,Manufacturing,65366,591289,11.05
+2016-10-01,4,"Electricity, gas, water and waste management",6485,591289,1.1
+2016-10-01,5,Construction,72616,591289,12.28
+2016-10-01,6,"Wholesale and retail trade, accommodation and food services",123387,591289,20.87
+2016-10-01,7,"Transport, communications and information services",57558,591289,9.73
+2016-10-01,8,Financial intermediation,24350,591289,4.12
+2016-10-01,9,Real estate and housing services,5223,591289,0.88
+2016-10-01,10,Business services,88046,591289,14.89
+2016-10-01,11,Personal services,97698,591289,16.52
+2016-10-01,12,Public administration,10813,591289,1.83
+2016-11-01,1,"Agriculture, forestry and fishing",35520,597288,5.95
+2016-11-01,2,Mining,9906,597288,1.66
+2016-11-01,3,Manufacturing,65448,597288,10.96
+2016-11-01,4,"Electricity, gas, water and waste management",6402,597288,1.07
+2016-11-01,5,Construction,72742,597288,12.18
+2016-11-01,6,"Wholesale and retail trade, accommodation and food services",124798,597288,20.89
+2016-11-01,7,"Transport, communications and information services",57899,597288,9.69
+2016-11-01,8,Financial intermediation,24492,597288,4.1
+2016-11-01,9,Real estate and housing services,5165,597288,0.86
+2016-11-01,10,Business services,88955,597288,14.89
+2016-11-01,11,Personal services,98009,597288,16.41
+2016-11-01,12,Public administration,10809,597288,1.81
+2016-12-01,1,"Agriculture, forestry and fishing",37951,599683,6.33
+2016-12-01,2,Mining,9072,599683,1.51
+2016-12-01,3,Manufacturing,65088,599683,10.85
+2016-12-01,4,"Electricity, gas, water and waste management",6339,599683,1.06
+2016-12-01,5,Construction,71613,599683,11.94
+2016-12-01,6,"Wholesale and retail trade, accommodation and food services",126791,599683,21.14
+2016-12-01,7,"Transport, communications and information services",57977,599683,9.67
+2016-12-01,8,Financial intermediation,23994,599683,4.0
+2016-12-01,9,Real estate and housing services,5229,599683,0.87
+2016-12-01,10,Business services,89442,599683,14.91
+2016-12-01,11,Personal services,98554,599683,16.43
+2016-12-01,12,Public administration,10947,599683,1.83
+2017-01-01,1,"Agriculture, forestry and fishing",41173,620474,6.64
+2017-01-01,2,Mining,8434,620474,1.36
+2017-01-01,3,Manufacturing,66836,620474,10.77
+2017-01-01,4,"Electricity, gas, water and waste management",6489,620474,1.05
+2017-01-01,5,Construction,72050,620474,11.61
+2017-01-01,6,"Wholesale and retail trade, accommodation and food services",132070,620474,21.29
+2017-01-01,7,"Transport, communications and information services",62366,620474,10.05
+2017-01-01,8,Financial intermediation,24876,620474,4.01
+2017-01-01,9,Real estate and housing services,5396,620474,0.87
+2017-01-01,10,Business services,91669,620474,14.77
+2017-01-01,11,Personal services,100590,620474,16.21
+2017-01-01,12,Public administration,11731,620474,1.89
+2017-02-01,1,"Agriculture, forestry and fishing",40656,623174,6.52
+2017-02-01,2,Mining,10350,623174,1.66
+2017-02-01,3,Manufacturing,67294,623174,10.8
+2017-02-01,4,"Electricity, gas, water and waste management",6554,623174,1.05
+2017-02-01,5,Construction,72930,623174,11.7
+2017-02-01,6,"Wholesale and retail trade, accommodation and food services",132286,623174,21.23
+2017-02-01,7,"Transport, communications and information services",62716,623174,10.06
+2017-02-01,8,Financial intermediation,24482,623174,3.93
+2017-02-01,9,Real estate and housing services,5415,623174,0.87
+2017-02-01,10,Business services,91674,623174,14.71
+2017-02-01,11,Personal services,100268,623174,16.09
+2017-02-01,12,Public administration,11691,623174,1.88
+2017-03-01,1,"Agriculture, forestry and fishing",39766,626761,6.34
+2017-03-01,2,Mining,9969,626761,1.59
+2017-03-01,3,Manufacturing,67912,626761,10.84
+2017-03-01,4,"Electricity, gas, water and waste management",6567,626761,1.05
+2017-03-01,5,Construction,74147,626761,11.83
+2017-03-01,6,"Wholesale and retail trade, accommodation and food services",132850,626761,21.2
+2017-03-01,7,"Transport, communications and information services",62500,626761,9.97
+2017-03-01,8,Financial intermediation,24851,626761,3.96
+2017-03-01,9,Real estate and housing services,5352,626761,0.85
+2017-03-01,10,Business services,91784,626761,14.64
+2017-03-01,11,Personal services,102656,626761,16.38
+2017-03-01,12,Public administration,11749,626761,1.87
+2017-04-01,1,"Agriculture, forestry and fishing",37383,628393,5.95
+2017-04-01,2,Mining,9884,628393,1.57
+2017-04-01,3,Manufacturing,67831,628393,10.79
+2017-04-01,4,"Electricity, gas, water and waste management",6640,628393,1.06
+2017-04-01,5,Construction,74683,628393,11.88
+2017-04-01,6,"Wholesale and retail trade, accommodation and food services",134409,628393,21.39
+2017-04-01,7,"Transport, communications and information services",62832,628393,10.0
+2017-04-01,8,Financial intermediation,24758,628393,3.94
+2017-04-01,9,Real estate and housing services,5400,628393,0.86
+2017-04-01,10,Business services,91646,628393,14.58
+2017-04-01,11,Personal services,104456,628393,16.62
+2017-04-01,12,Public administration,12005,628393,1.91
+2017-05-01,1,"Agriculture, forestry and fishing",34528,627479,5.5
+2017-05-01,2,Mining,10130,627479,1.61
+2017-05-01,3,Manufacturing,67311,627479,10.73
+2017-05-01,4,"Electricity, gas, water and waste management",6616,627479,1.05
+2017-05-01,5,Construction,74978,627479,11.95
+2017-05-01,6,"Wholesale and retail trade, accommodation and food services",134395,627479,21.42
+2017-05-01,7,"Transport, communications and information services",62845,627479,10.02
+2017-05-01,8,Financial intermediation,25227,627479,4.02
+2017-05-01,9,Real estate and housing services,5405,627479,0.86
+2017-05-01,10,Business services,91943,627479,14.65
+2017-05-01,11,Personal services,105020,627479,16.74
+2017-05-01,12,Public administration,12204,627479,1.94
+2017-06-01,1,"Agriculture, forestry and fishing",35554,629054,5.65
+2017-06-01,2,Mining,10283,629054,1.63
+2017-06-01,3,Manufacturing,67287,629054,10.7
+2017-06-01,4,"Electricity, gas, water and waste management",6699,629054,1.06
+2017-06-01,5,Construction,74533,629054,11.85
+2017-06-01,6,"Wholesale and retail trade, accommodation and food services",134422,629054,21.37
+2017-06-01,7,"Transport, communications and information services",62692,629054,9.97
+2017-06-01,8,Financial intermediation,25333,629054,4.03
+2017-06-01,9,Real estate and housing services,5475,629054,0.87
+2017-06-01,10,Business services,91836,629054,14.6
+2017-06-01,11,Personal services,105652,629054,16.8
+2017-06-01,12,Public administration,12325,629054,1.96
+2017-07-01,1,"Agriculture, forestry and fishing",36645,629385,5.82
+2017-07-01,2,Mining,9913,629385,1.58
+2017-07-01,3,Manufacturing,67178,629385,10.67
+2017-07-01,4,"Electricity, gas, water and waste management",6761,629385,1.07
+2017-07-01,5,Construction,74442,629385,11.83
+2017-07-01,6,"Wholesale and retail trade, accommodation and food services",134155,629385,21.32
+2017-07-01,7,"Transport, communications and information services",62783,629385,9.98
+2017-07-01,8,Financial intermediation,25501,629385,4.05
+2017-07-01,9,Real estate and housing services,5448,629385,0.87
+2017-07-01,10,Business services,92234,629385,14.65
+2017-07-01,11,Personal services,105335,629385,16.74
+2017-07-01,12,Public administration,12214,629385,1.94
+2017-08-01,1,"Agriculture, forestry and fishing",36558,632998,5.78
+2017-08-01,2,Mining,10150,632998,1.6
+2017-08-01,3,Manufacturing,67021,632998,10.59
+2017-08-01,4,"Electricity, gas, water and waste management",6773,632998,1.07
+2017-08-01,5,Construction,75027,632998,11.85
+2017-08-01,6,"Wholesale and retail trade, accommodation and food services",135155,632998,21.35
+2017-08-01,7,"Transport, communications and information services",63140,632998,9.97
+2017-08-01,8,Financial intermediation,25365,632998,4.01
+2017-08-01,9,Real estate and housing services,5516,632998,0.87
+2017-08-01,10,Business services,92600,632998,14.63
+2017-08-01,11,Personal services,106474,632998,16.82
+2017-08-01,12,Public administration,12284,632998,1.94
+2017-09-01,1,"Agriculture, forestry and fishing",35504,633304,5.61
+2017-09-01,2,Mining,9823,633304,1.55
+2017-09-01,3,Manufacturing,66795,633304,10.55
+2017-09-01,4,"Electricity, gas, water and waste management",6787,633304,1.07
+2017-09-01,5,Construction,74362,633304,11.74
+2017-09-01,6,"Wholesale and retail trade, accommodation and food services",135979,633304,21.47
+2017-09-01,7,"Transport, communications and information services",63275,633304,9.99
+2017-09-01,8,Financial intermediation,25440,633304,4.02
+2017-09-01,9,Real estate and housing services,5475,633304,0.86
+2017-09-01,10,Business services,93511,633304,14.77
+2017-09-01,11,Personal services,107270,633304,16.94
+2017-09-01,12,Public administration,12380,633304,1.95
+2017-10-01,1,"Agriculture, forestry and fishing",37356,639457,5.84
+2017-10-01,2,Mining,10366,639457,1.62
+2017-10-01,3,Manufacturing,67521,639457,10.56
+2017-10-01,4,"Electricity, gas, water and waste management",6972,639457,1.09
+2017-10-01,5,Construction,75350,639457,11.78
+2017-10-01,6,"Wholesale and retail trade, accommodation and food services",136543,639457,21.35
+2017-10-01,7,"Transport, communications and information services",63541,639457,9.94
+2017-10-01,8,Financial intermediation,25425,639457,3.98
+2017-10-01,9,Real estate and housing services,5505,639457,0.86
+2017-10-01,10,Business services,94421,639457,14.77
+2017-10-01,11,Personal services,107296,639457,16.78
+2017-10-01,12,Public administration,12516,639457,1.96
+2017-11-01,1,"Agriculture, forestry and fishing",40320,645395,6.25
+2017-11-01,2,Mining,10359,645395,1.61
+2017-11-01,3,Manufacturing,68107,645395,10.55
+2017-11-01,4,"Electricity, gas, water and waste management",7005,645395,1.09
+2017-11-01,5,Construction,76046,645395,11.78
+2017-11-01,6,"Wholesale and retail trade, accommodation and food services",137917,645395,21.37
+2017-11-01,7,"Transport, communications and information services",64026,645395,9.92
+2017-11-01,8,Financial intermediation,24446,645395,3.79
+2017-11-01,9,Real estate and housing services,5567,645395,0.86
+2017-11-01,10,Business services,94959,645395,14.71
+2017-11-01,11,Personal services,107491,645395,16.66
+2017-11-01,12,Public administration,12506,645395,1.94
+2017-12-01,1,"Agriculture, forestry and fishing",44336,652824,6.79
+2017-12-01,2,Mining,9455,652824,1.45
+2017-12-01,3,Manufacturing,67890,652824,10.4
+2017-12-01,4,"Electricity, gas, water and waste management",6814,652824,1.04
+2017-12-01,5,Construction,75593,652824,11.58
+2017-12-01,6,"Wholesale and retail trade, accommodation and food services",140756,652824,21.56
+2017-12-01,7,"Transport, communications and information services",64485,652824,9.88
+2017-12-01,8,Financial intermediation,25276,652824,3.87
+2017-12-01,9,Real estate and housing services,5520,652824,0.85
+2017-12-01,10,Business services,95979,652824,14.7
+2017-12-01,11,Personal services,107721,652824,16.5
+2017-12-01,12,Public administration,12650,652824,1.94
+2018-01-01,1,"Agriculture, forestry and fishing",43514,649660,6.7
+2018-01-01,2,Mining,9259,649660,1.43
+2018-01-01,3,Manufacturing,67993,649660,10.47
+2018-01-01,4,"Electricity, gas, water and waste management",6891,649660,1.06
+2018-01-01,5,Construction,74323,649660,11.44
+2018-01-01,6,"Wholesale and retail trade, accommodation and food services",139044,649660,21.4
+2018-01-01,7,"Transport, communications and information services",65020,649660,10.01
+2018-01-01,8,Financial intermediation,26056,649660,4.01
+2018-01-01,9,Real estate and housing services,5506,649660,0.85
+2018-01-01,10,Business services,96990,649660,14.93
+2018-01-01,11,Personal services,105889,649660,16.3
+2018-01-01,12,Public administration,12627,649660,1.94
+2018-02-01,1,"Agriculture, forestry and fishing",42594,650021,6.55
+2018-02-01,2,Mining,10277,650021,1.58
+2018-02-01,3,Manufacturing,68620,650021,10.56
+2018-02-01,4,"Electricity, gas, water and waste management",6890,650021,1.06
+2018-02-01,5,Construction,74409,650021,11.45
+2018-02-01,6,"Wholesale and retail trade, accommodation and food services",139194,650021,21.41
+2018-02-01,7,"Transport, communications and information services",65123,650021,10.02
+2018-02-01,8,Financial intermediation,25864,650021,3.98
+2018-02-01,9,Real estate and housing services,5484,650021,0.84
+2018-02-01,10,Business services,96790,650021,14.89
+2018-02-01,11,Personal services,105481,650021,16.23
+2018-02-01,12,Public administration,12570,650021,1.93
+2018-03-01,1,"Agriculture, forestry and fishing",42086,655056,6.42
+2018-03-01,2,Mining,10041,655056,1.53
+2018-03-01,3,Manufacturing,69885,655056,10.67
+2018-03-01,4,"Electricity, gas, water and waste management",6950,655056,1.06
+2018-03-01,5,Construction,75703,655056,11.56
+2018-03-01,6,"Wholesale and retail trade, accommodation and food services",140615,655056,21.47
+2018-03-01,7,"Transport, communications and information services",65215,655056,9.96
+2018-03-01,8,Financial intermediation,25128,655056,3.84
+2018-03-01,9,Real estate and housing services,5440,655056,0.83
+2018-03-01,10,Business services,96788,655056,14.78
+2018-03-01,11,Personal services,108358,655056,16.54
+2018-03-01,12,Public administration,12620,655056,1.93
+2018-04-01,1,"Agriculture, forestry and fishing",40171,657373,6.11
+2018-04-01,2,Mining,10103,657373,1.54
+2018-04-01,3,Manufacturing,69851,657373,10.63
+2018-04-01,4,"Electricity, gas, water and waste management",7016,657373,1.07
+2018-04-01,5,Construction,75896,657373,11.55
+2018-04-01,6,"Wholesale and retail trade, accommodation and food services",141940,657373,21.59
+2018-04-01,7,"Transport, communications and information services",65432,657373,9.95
+2018-04-01,8,Financial intermediation,25943,657373,3.95
+2018-04-01,9,Real estate and housing services,5467,657373,0.83
+2018-04-01,10,Business services,96661,657373,14.7
+2018-04-01,11,Personal services,109709,657373,16.69
+2018-04-01,12,Public administration,12833,657373,1.95
+2018-05-01,1,"Agriculture, forestry and fishing",36881,656757,5.62
+2018-05-01,2,Mining,10579,656757,1.61
+2018-05-01,3,Manufacturing,69452,656757,10.57
+2018-05-01,4,"Electricity, gas, water and waste management",7118,656757,1.08
+2018-05-01,5,Construction,76507,656757,11.65
+2018-05-01,6,"Wholesale and retail trade, accommodation and food services",142625,656757,21.72
+2018-05-01,7,"Transport, communications and information services",65530,656757,9.98
+2018-05-01,8,Financial intermediation,25650,656757,3.91
+2018-05-01,9,Real estate and housing services,5535,656757,0.84
+2018-05-01,10,Business services,96802,656757,14.74
+2018-05-01,11,Personal services,110394,656757,16.81
+2018-05-01,12,Public administration,12965,656757,1.97
+2018-06-01,1,"Agriculture, forestry and fishing",37200,658410,5.65
+2018-06-01,2,Mining,10441,658410,1.59
+2018-06-01,3,Manufacturing,69076,658410,10.49
+2018-06-01,4,"Electricity, gas, water and waste management",7031,658410,1.07
+2018-06-01,5,Construction,76334,658410,11.59
+2018-06-01,6,"Wholesale and retail trade, accommodation and food services",142883,658410,21.7
+2018-06-01,7,"Transport, communications and information services",65542,658410,9.95
+2018-06-01,8,Financial intermediation,26264,658410,3.99
+2018-06-01,9,Real estate and housing services,5528,658410,0.84
+2018-06-01,10,Business services,97068,658410,14.74
+2018-06-01,11,Personal services,111184,658410,16.89
+2018-06-01,12,Public administration,13119,658410,1.99
+2018-07-01,1,"Agriculture, forestry and fishing",38660,662382,5.84
+2018-07-01,2,Mining,10148,662382,1.53
+2018-07-01,3,Manufacturing,68906,662382,10.4
+2018-07-01,4,"Electricity, gas, water and waste management",7121,662382,1.08
+2018-07-01,5,Construction,76447,662382,11.54
+2018-07-01,6,"Wholesale and retail trade, accommodation and food services",143919,662382,21.73
+2018-07-01,7,"Transport, communications and information services",65661,662382,9.91
+2018-07-01,8,Financial intermediation,26593,662382,4.01
+2018-07-01,9,Real estate and housing services,5532,662382,0.84
+2018-07-01,10,Business services,97866,662382,14.77
+2018-07-01,11,Personal services,112018,662382,16.91
+2018-07-01,12,Public administration,12853,662382,1.94
+2018-08-01,1,"Agriculture, forestry and fishing",34020,632355,5.38
+2018-08-01,2,Mining,9655,632355,1.53
+2018-08-01,3,Manufacturing,67020,632355,10.6
+2018-08-01,4,"Electricity, gas, water and waste management",7025,632355,1.11
+2018-08-01,5,Construction,74112,632355,11.72
+2018-08-01,6,"Wholesale and retail trade, accommodation and food services",136608,632355,21.6
+2018-08-01,7,"Transport, communications and information services",61773,632355,9.77
+2018-08-01,8,Financial intermediation,26552,632355,4.2
+2018-08-01,9,Real estate and housing services,5308,632355,0.84
+2018-08-01,10,Business services,94112,632355,14.88
+2018-08-01,11,Personal services,107361,632355,16.98
+2018-08-01,12,Public administration,11680,632355,1.85
+2018-09-01,1,"Agriculture, forestry and fishing",32695,635888,5.14
+2018-09-01,2,Mining,9477,635888,1.49
+2018-09-01,3,Manufacturing,66686,635888,10.49
+2018-09-01,4,"Electricity, gas, water and waste management",7106,635888,1.12
+2018-09-01,5,Construction,74409,635888,11.7
+2018-09-01,6,"Wholesale and retail trade, accommodation and food services",138305,635888,21.75
+2018-09-01,7,"Transport, communications and information services",62367,635888,9.81
+2018-09-01,8,Financial intermediation,26385,635888,4.15
+2018-09-01,9,Real estate and housing services,5376,635888,0.85
+2018-09-01,10,Business services,95515,635888,15.02
+2018-09-01,11,Personal services,108787,635888,17.11
+2018-09-01,12,Public administration,11831,635888,1.86
+2018-10-01,1,"Agriculture, forestry and fishing",34926,643765,5.43
+2018-10-01,2,Mining,10424,643765,1.62
+2018-10-01,3,Manufacturing,67699,643765,10.52
+2018-10-01,4,"Electricity, gas, water and waste management",7190,643765,1.12
+2018-10-01,5,Construction,76030,643765,11.81
+2018-10-01,6,"Wholesale and retail trade, accommodation and food services",138389,643765,21.5
+2018-10-01,7,"Transport, communications and information services",62602,643765,9.72
+2018-10-01,8,Financial intermediation,26667,643765,4.14
+2018-10-01,9,Real estate and housing services,5398,643765,0.84
+2018-10-01,10,Business services,96899,643765,15.05
+2018-10-01,11,Personal services,108631,643765,16.87
+2018-10-01,12,Public administration,11861,643765,1.84
+2018-11-01,1,"Agriculture, forestry and fishing",37357,650146,5.75
+2018-11-01,2,Mining,10703,650146,1.65
+2018-11-01,3,Manufacturing,68075,650146,10.47
+2018-11-01,4,"Electricity, gas, water and waste management",7246,650146,1.11
+2018-11-01,5,Construction,76881,650146,11.83
+2018-11-01,6,"Wholesale and retail trade, accommodation and food services",139670,650146,21.48
+2018-11-01,7,"Transport, communications and information services",63020,650146,9.69
+2018-11-01,8,Financial intermediation,26827,650146,4.13
+2018-11-01,9,Real estate and housing services,5466,650146,0.84
+2018-11-01,10,Business services,97058,650146,14.93
+2018-11-01,11,Personal services,109003,650146,16.77
+2018-11-01,12,Public administration,11946,650146,1.84
+2018-12-01,1,"Agriculture, forestry and fishing",41125,683013,6.02
+2018-12-01,2,Mining,12934,683013,1.89
+2018-12-01,3,Manufacturing,70682,683013,10.35
+2018-12-01,4,"Electricity, gas, water and waste management",7883,683013,1.15
+2018-12-01,5,Construction,78390,683013,11.48
+2018-12-01,6,"Wholesale and retail trade, accommodation and food services",146710,683013,21.48
+2018-12-01,7,"Transport, communications and information services",66146,683013,9.68
+2018-12-01,8,Financial intermediation,30518,683013,4.47
+2018-12-01,9,Real estate and housing services,5821,683013,0.85
+2018-12-01,10,Business services,102060,683013,14.94
+2018-12-01,11,Personal services,112001,683013,16.4
+2018-12-01,12,Public administration,12324,683013,1.8
+2019-01-01,1,"Agriculture, forestry and fishing",39906,675677,5.91
+2019-01-01,2,Mining,13130,675677,1.94
+2019-01-01,3,Manufacturing,70640,675677,10.45
+2019-01-01,4,"Electricity, gas, water and waste management",7910,675677,1.17
+2019-01-01,5,Construction,77026,675677,11.4
+2019-01-01,6,"Wholesale and retail trade, accommodation and food services",146188,675677,21.64
+2019-01-01,7,"Transport, communications and information services",65863,675677,9.75
+2019-01-01,8,Financial intermediation,30533,675677,4.52
+2019-01-01,9,Real estate and housing services,5815,675677,0.86
+2019-01-01,10,Business services,100477,675677,14.87
+2019-01-01,11,Personal services,109509,675677,16.21
+2019-01-01,12,Public administration,12117,675677,1.79
+2019-02-01,1,"Agriculture, forestry and fishing",38953,675008,5.77
+2019-02-01,2,Mining,13109,675008,1.94
+2019-02-01,3,Manufacturing,71141,675008,10.54
+2019-02-01,4,"Electricity, gas, water and waste management",8085,675008,1.2
+2019-02-01,5,Construction,77749,675008,11.52
+2019-02-01,6,"Wholesale and retail trade, accommodation and food services",145432,675008,21.55
+2019-02-01,7,"Transport, communications and information services",66012,675008,9.78
+2019-02-01,8,Financial intermediation,30484,675008,4.52
+2019-02-01,9,Real estate and housing services,5882,675008,0.87
+2019-02-01,10,Business services,100639,675008,14.91
+2019-02-01,11,Personal services,108777,675008,16.11
+2019-02-01,12,Public administration,12085,675008,1.79
+2019-03-01,1,"Agriculture, forestry and fishing",42525,708563,6.0
+2019-03-01,2,Mining,13194,708563,1.86
+2019-03-01,3,Manufacturing,73327,708563,10.35
+2019-03-01,4,"Electricity, gas, water and waste management",8177,708563,1.15
+2019-03-01,5,Construction,82190,708563,11.6
+2019-03-01,6,"Wholesale and retail trade, accommodation and food services",153394,708563,21.65
+2019-03-01,7,"Transport, communications and information services",69913,708563,9.87
+2019-03-01,8,Financial intermediation,30722,708563,4.34
+2019-03-01,9,Real estate and housing services,6047,708563,0.85
+2019-03-01,10,Business services,104091,708563,14.69
+2019-03-01,11,Personal services,116110,708563,16.39
+2019-03-01,12,Public administration,12834,708563,1.81
+2019-04-01,1,"Agriculture, forestry and fishing",40251,710640,5.66
+2019-04-01,2,Mining,13291,710640,1.87
+2019-04-01,3,Manufacturing,72961,710640,10.27
+2019-04-01,4,"Electricity, gas, water and waste management",8256,710640,1.16
+2019-04-01,5,Construction,83081,710640,11.69
+2019-04-01,6,"Wholesale and retail trade, accommodation and food services",154399,710640,21.73
+2019-04-01,7,"Transport, communications and information services",70107,710640,9.87
+2019-04-01,8,Financial intermediation,30806,710640,4.33
+2019-04-01,9,Real estate and housing services,6080,710640,0.86
+2019-04-01,10,Business services,104709,710640,14.73
+2019-04-01,11,Personal services,117410,710640,16.52
+2019-04-01,12,Public administration,13131,710640,1.85
+2019-05-01,1,"Agriculture, forestry and fishing",37014,707358,5.23
+2019-05-01,2,Mining,13296,707358,1.88
+2019-05-01,3,Manufacturing,72312,707358,10.22
+2019-05-01,4,"Electricity, gas, water and waste management",8341,707358,1.18
+2019-05-01,5,Construction,83326,707358,11.78
+2019-05-01,6,"Wholesale and retail trade, accommodation and food services",154462,707358,21.84
+2019-05-01,7,"Transport, communications and information services",69755,707358,9.86
+2019-05-01,8,Financial intermediation,30884,707358,4.37
+2019-05-01,9,Real estate and housing services,6119,707358,0.87
+2019-05-01,10,Business services,104331,707358,14.75
+2019-05-01,11,Personal services,117790,707358,16.65
+2019-05-01,12,Public administration,13266,707358,1.88
+2019-06-01,1,"Agriculture, forestry and fishing",36886,685402,5.38
+2019-06-01,2,Mining,10579,685402,1.54
+2019-06-01,3,Manufacturing,70052,685402,10.22
+2019-06-01,4,"Electricity, gas, water and waste management",7959,685402,1.16
+2019-06-01,5,Construction,81382,685402,11.87
+2019-06-01,6,"Wholesale and retail trade, accommodation and food services",150821,685402,22.0
+2019-06-01,7,"Transport, communications and information services",67422,685402,9.84
+2019-06-01,8,Financial intermediation,27129,685402,3.96
+2019-06-01,9,Real estate and housing services,5839,685402,0.85
+2019-06-01,10,Business services,100971,685402,14.73
+2019-06-01,11,Personal services,116407,685402,16.98
+2019-06-01,12,Public administration,13334,685402,1.95
+2019-07-01,1,"Agriculture, forestry and fishing",39413,713494,5.52
+2019-07-01,2,Mining,13238,713494,1.86
+2019-07-01,3,Manufacturing,72052,713494,10.1
+2019-07-01,4,"Electricity, gas, water and waste management",8564,713494,1.2
+2019-07-01,5,Construction,83480,713494,11.7
+2019-07-01,6,"Wholesale and retail trade, accommodation and food services",155889,713494,21.85
+2019-07-01,7,"Transport, communications and information services",70054,713494,9.82
+2019-07-01,8,Financial intermediation,31098,713494,4.36
+2019-07-01,9,Real estate and housing services,6210,713494,0.87
+2019-07-01,10,Business services,105294,713494,14.76
+2019-07-01,11,Personal services,118407,713494,16.6
+2019-07-01,12,Public administration,13428,713494,1.88
+2019-08-01,1,"Agriculture, forestry and fishing",39106,716323,5.46
+2019-08-01,2,Mining,13226,716323,1.85
+2019-08-01,3,Manufacturing,72018,716323,10.05
+2019-08-01,4,"Electricity, gas, water and waste management",8662,716323,1.21
+2019-08-01,5,Construction,84723,716323,11.83
+2019-08-01,6,"Wholesale and retail trade, accommodation and food services",155839,716323,21.76
+2019-08-01,7,"Transport, communications and information services",70376,716323,9.82
+2019-08-01,8,Financial intermediation,31214,716323,4.36
+2019-08-01,9,Real estate and housing services,6203,716323,0.87
+2019-08-01,10,Business services,105736,716323,14.76
+2019-08-01,11,Personal services,119251,716323,16.65
+2019-08-01,12,Public administration,13594,716323,1.9
+2019-09-01,1,"Agriculture, forestry and fishing",36309,713172,5.09
+2019-09-01,2,Mining,13264,713172,1.86
+2019-09-01,3,Manufacturing,71466,713172,10.02
+2019-09-01,4,"Electricity, gas, water and waste management",8686,713172,1.22
+2019-09-01,5,Construction,83463,713172,11.7
+2019-09-01,6,"Wholesale and retail trade, accommodation and food services",156197,713172,21.9
+2019-09-01,7,"Transport, communications and information services",70488,713172,9.88
+2019-09-01,8,Financial intermediation,31352,713172,4.4
+2019-09-01,9,Real estate and housing services,6257,713172,0.88
+2019-09-01,10,Business services,106297,713172,14.9
+2019-09-01,11,Personal services,119540,713172,16.76
+2019-09-01,12,Public administration,13551,713172,1.9
+2019-10-01,1,"Agriculture, forestry and fishing",38762,716768,5.41
+2019-10-01,2,Mining,13164,716768,1.84
+2019-10-01,3,Manufacturing,71675,716768,10.0
+2019-10-01,4,"Electricity, gas, water and waste management",8643,716768,1.21
+2019-10-01,5,Construction,84261,716768,11.76
+2019-10-01,6,"Wholesale and retail trade, accommodation and food services",155539,716768,21.7
+2019-10-01,7,"Transport, communications and information services",70761,716768,9.87
+2019-10-01,8,Financial intermediation,31428,716768,4.38
+2019-10-01,9,Real estate and housing services,6298,716768,0.88
+2019-10-01,10,Business services,106843,716768,14.91
+2019-10-01,11,Personal services,119379,716768,16.66
+2019-10-01,12,Public administration,13659,716768,1.91
+2019-11-01,1,"Agriculture, forestry and fishing",41501,719447,5.77
+2019-11-01,2,Mining,13312,719447,1.85
+2019-11-01,3,Manufacturing,71858,719447,9.99
+2019-11-01,4,"Electricity, gas, water and waste management",8687,719447,1.21
+2019-11-01,5,Construction,84084,719447,11.69
+2019-11-01,6,"Wholesale and retail trade, accommodation and food services",155481,719447,21.61
+2019-11-01,7,"Transport, communications and information services",71031,719447,9.87
+2019-11-01,8,Financial intermediation,31382,719447,4.36
+2019-11-01,9,Real estate and housing services,6287,719447,0.87
+2019-11-01,10,Business services,106694,719447,14.83
+2019-11-01,11,Personal services,119205,719447,16.57
+2019-11-01,12,Public administration,13595,719447,1.89
+2019-12-01,1,"Agriculture, forestry and fishing",44864,727373,6.17
+2019-12-01,2,Mining,13194,727373,1.81
+2019-12-01,3,Manufacturing,72048,727373,9.91
+2019-12-01,4,"Electricity, gas, water and waste management",8707,727373,1.2
+2019-12-01,5,Construction,84092,727373,11.56
+2019-12-01,6,"Wholesale and retail trade, accommodation and food services",157691,727373,21.68
+2019-12-01,7,"Transport, communications and information services",71375,727373,9.81
+2019-12-01,8,Financial intermediation,31393,727373,4.32
+2019-12-01,9,Real estate and housing services,6313,727373,0.87
+2019-12-01,10,Business services,108040,727373,14.85
+2019-12-01,11,Personal services,119680,727373,16.45
+2019-12-01,12,Public administration,13795,727373,1.9
+2020-01-01,1,"Agriculture, forestry and fishing",38985,682287,5.71
+2020-01-01,2,Mining,13296,682287,1.95
+2020-01-01,3,Manufacturing,69827,682287,10.23
+2020-01-01,4,"Electricity, gas, water and waste management",8387,682287,1.23
+2020-01-01,5,Construction,78413,682287,11.49
+2020-01-01,6,"Wholesale and retail trade, accommodation and food services",146704,682287,21.5
+2020-01-01,7,"Transport, communications and information services",66892,682287,9.8
+2020-01-01,8,Financial intermediation,30760,682287,4.51
+2020-01-01,9,Real estate and housing services,6007,682287,0.88
+2020-01-01,10,Business services,102802,682287,15.07
+2020-01-01,11,Personal services,111231,682287,16.3
+2020-01-01,12,Public administration,12220,682287,1.79
+2020-02-01,1,"Agriculture, forestry and fishing",38109,682512,5.58
+2020-02-01,2,Mining,13146,682512,1.93
+2020-02-01,3,Manufacturing,70050,682512,10.26
+2020-02-01,4,"Electricity, gas, water and waste management",8461,682512,1.24
+2020-02-01,5,Construction,79875,682512,11.7
+2020-02-01,6,"Wholesale and retail trade, accommodation and food services",146310,682512,21.44
+2020-02-01,7,"Transport, communications and information services",67073,682512,9.83
+2020-02-01,8,Financial intermediation,30662,682512,4.49
+2020-02-01,9,Real estate and housing services,6008,682512,0.88
+2020-02-01,10,Business services,103144,682512,15.11
+2020-02-01,11,Personal services,110639,682512,16.21
+2020-02-01,12,Public administration,12215,682512,1.79
+2020-03-01,1,"Agriculture, forestry and fishing",37682,679285,5.55
+2020-03-01,2,Mining,13137,679285,1.93
+2020-03-01,3,Manufacturing,70113,679285,10.32
+2020-03-01,4,"Electricity, gas, water and waste management",8467,679285,1.25
+2020-03-01,5,Construction,79769,679285,11.74
+2020-03-01,6,"Wholesale and retail trade, accommodation and food services",141807,679285,20.88
+2020-03-01,7,"Transport, communications and information services",66630,679285,9.81
+2020-03-01,8,Financial intermediation,30680,679285,4.52
+2020-03-01,9,Real estate and housing services,5977,679285,0.88
+2020-03-01,10,Business services,103618,679285,15.25
+2020-03-01,11,Personal services,112472,679285,16.56
+2020-03-01,12,Public administration,12108,679285,1.78
+2020-04-01,1,"Agriculture, forestry and fishing",34284,629677,5.44
+2020-04-01,2,Mining,13054,629677,2.07
+2020-04-01,3,Manufacturing,65521,629677,10.41
+2020-04-01,4,"Electricity, gas, water and waste management",8343,629677,1.32
+2020-04-01,5,Construction,66537,629677,10.57
+2020-04-01,6,"Wholesale and retail trade, accommodation and food services",126400,629677,20.07
+2020-04-01,7,"Transport, communications and information services",63264,629677,10.05
+2020-04-01,8,Financial intermediation,30151,629677,4.79
+2020-04-01,9,Real estate and housing services,5583,629677,0.89
+2020-04-01,10,Business services,98099,629677,15.58
+2020-04-01,11,Personal services,108971,629677,17.31
+2020-04-01,12,Public administration,12088,629677,1.92
+2020-05-01,1,"Agriculture, forestry and fishing",32189,638522,5.04
+2020-05-01,2,Mining,12963,638522,2.03
+2020-05-01,3,Manufacturing,66230,638522,10.37
+2020-05-01,4,"Electricity, gas, water and waste management",8309,638522,1.3
+2020-05-01,5,Construction,66483,638522,10.41
+2020-05-01,6,"Wholesale and retail trade, accommodation and food services",135194,638522,21.17
+2020-05-01,7,"Transport, communications and information services",63497,638522,9.94
+2020-05-01,8,Financial intermediation,29917,638522,4.69
+2020-05-01,9,Real estate and housing services,5615,638522,0.88
+2020-05-01,10,Business services,97881,638522,15.33
+2020-05-01,11,Personal services,110927,638522,17.37
+2020-05-01,12,Public administration,12137,638522,1.9
+2020-06-01,1,"Agriculture, forestry and fishing",32176,637150,5.05
+2020-06-01,2,Mining,12703,637150,1.99
+2020-06-01,3,Manufacturing,66272,637150,10.4
+2020-06-01,4,"Electricity, gas, water and waste management",8347,637150,1.31
+2020-06-01,5,Construction,65991,637150,10.36
+2020-06-01,6,"Wholesale and retail trade, accommodation and food services",134694,637150,21.14
+2020-06-01,7,"Transport, communications and information services",63210,637150,9.92
+2020-06-01,8,Financial intermediation,29702,637150,4.66
+2020-06-01,9,Real estate and housing services,5529,637150,0.87
+2020-06-01,10,Business services,98354,637150,15.44
+2020-06-01,11,Personal services,110958,637150,17.41
+2020-06-01,12,Public administration,12131,637150,1.9
+2020-07-01,1,"Agriculture, forestry and fishing",34173,639488,5.34
+2020-07-01,2,Mining,12938,639488,2.02
+2020-07-01,3,Manufacturing,66690,639488,10.43
+2020-07-01,4,"Electricity, gas, water and waste management",8405,639488,1.31
+2020-07-01,5,Construction,65853,639488,10.3
+2020-07-01,6,"Wholesale and retail trade, accommodation and food services",133547,639488,20.88
+2020-07-01,7,"Transport, communications and information services",63200,639488,9.88
+2020-07-01,8,Financial intermediation,29683,639488,4.64
+2020-07-01,9,Real estate and housing services,5522,639488,0.86
+2020-07-01,10,Business services,98870,639488,15.46
+2020-07-01,11,Personal services,111539,639488,17.44
+2020-07-01,12,Public administration,12156,639488,1.9
+2020-08-01,1,"Agriculture, forestry and fishing",34226,639583,5.35
+2020-08-01,2,Mining,12939,639583,2.02
+2020-08-01,3,Manufacturing,66723,639583,10.43
+2020-08-01,4,"Electricity, gas, water and waste management",8441,639583,1.32
+2020-08-01,5,Construction,66145,639583,10.34
+2020-08-01,6,"Wholesale and retail trade, accommodation and food services",133327,639583,20.85
+2020-08-01,7,"Transport, communications and information services",63073,639583,9.86
+2020-08-01,8,Financial intermediation,29647,639583,4.64
+2020-08-01,9,Real estate and housing services,5540,639583,0.87
+2020-08-01,10,Business services,99093,639583,15.49
+2020-08-01,11,Personal services,111545,639583,17.44
+2020-08-01,12,Public administration,12147,639583,1.9
+2020-09-01,1,"Agriculture, forestry and fishing",33351,644205,5.18
+2020-09-01,2,Mining,12948,644205,2.01
+2020-09-01,3,Manufacturing,66780,644205,10.37
+2020-09-01,4,"Electricity, gas, water and waste management",8564,644205,1.33
+2020-09-01,5,Construction,66963,644205,10.39
+2020-09-01,6,"Wholesale and retail trade, accommodation and food services",134248,644205,20.84
+2020-09-01,7,"Transport, communications and information services",63925,644205,9.92
+2020-09-01,8,Financial intermediation,29657,644205,4.6
+2020-09-01,9,Real estate and housing services,5550,644205,0.86
+2020-09-01,10,Business services,100786,644205,15.65
+2020-09-01,11,Personal services,112452,644205,17.46
+2020-09-01,12,Public administration,12453,644205,1.93
+2020-10-01,1,"Agriculture, forestry and fishing",37026,668220,5.54
+2020-10-01,2,Mining,12964,668220,1.94
+2020-10-01,3,Manufacturing,68830,668220,10.3
+2020-10-01,4,"Electricity, gas, water and waste management",8685,668220,1.3
+2020-10-01,5,Construction,73121,668220,10.94
+2020-10-01,6,"Wholesale and retail trade, accommodation and food services",139368,668220,20.86
+2020-10-01,7,"Transport, communications and information services",67165,668220,10.05
+2020-10-01,8,Financial intermediation,29748,668220,4.45
+2020-10-01,9,Real estate and housing services,5664,668220,0.85
+2020-10-01,10,Business services,102954,668220,15.41
+2020-10-01,11,Personal services,113912,668220,17.05
+2020-10-01,12,Public administration,12362,668220,1.85
+2020-11-01,1,"Agriculture, forestry and fishing",41267,694264,5.94
+2020-11-01,2,Mining,13197,694264,1.9
+2020-11-01,3,Manufacturing,70383,694264,10.14
+2020-11-01,4,"Electricity, gas, water and waste management",8884,694264,1.28
+2020-11-01,5,Construction,77839,694264,11.21
+2020-11-01,6,"Wholesale and retail trade, accommodation and food services",144356,694264,20.79
+2020-11-01,7,"Transport, communications and information services",69569,694264,10.02
+2020-11-01,8,Financial intermediation,29934,694264,4.31
+2020-11-01,9,Real estate and housing services,5793,694264,0.83
+2020-11-01,10,Business services,106130,694264,15.29
+2020-11-01,11,Personal services,117467,694264,16.92
+2020-11-01,12,Public administration,13330,694264,1.92
+2020-12-01,1,"Agriculture, forestry and fishing",44804,706264,6.34
+2020-12-01,2,Mining,13111,706264,1.86
+2020-12-01,3,Manufacturing,70902,706264,10.04
+2020-12-01,4,"Electricity, gas, water and waste management",8903,706264,1.26
+2020-12-01,5,Construction,78424,706264,11.1
+2020-12-01,6,"Wholesale and retail trade, accommodation and food services",148765,706264,21.06
+2020-12-01,7,"Transport, communications and information services",70528,706264,9.99
+2020-12-01,8,Financial intermediation,30022,706264,4.25
+2020-12-01,9,Real estate and housing services,5902,706264,0.84
+2020-12-01,10,Business services,107382,706264,15.2
+2020-12-01,11,Personal services,118447,706264,16.77
+2020-12-01,12,Public administration,13364,706264,1.89
+2021-01-01,1,"Agriculture, forestry and fishing",42883,700574,6.12
+2021-01-01,2,Mining,13394,700574,1.91
+2021-01-01,3,Manufacturing,70918,700574,10.12
+2021-01-01,4,"Electricity, gas, water and waste management",8993,700574,1.28
+2021-01-01,5,Construction,77200,700574,11.02
+2021-01-01,6,"Wholesale and retail trade, accommodation and food services",147016,700574,20.99
+2021-01-01,7,"Transport, communications and information services",70461,700574,10.06
+2021-01-01,8,Financial intermediation,30033,700574,4.29
+2021-01-01,9,Real estate and housing services,5892,700574,0.84
+2021-01-01,10,Business services,106898,700574,15.26
+2021-01-01,11,Personal services,118215,700574,16.87
+2021-01-01,12,Public administration,12889,700574,1.84
+2021-02-01,1,"Agriculture, forestry and fishing",41912,702420,5.97
+2021-02-01,2,Mining,13503,702420,1.92
+2021-02-01,3,Manufacturing,71513,702420,10.18
+2021-02-01,4,"Electricity, gas, water and waste management",9016,702420,1.28
+2021-02-01,5,Construction,78843,702420,11.22
+2021-02-01,6,"Wholesale and retail trade, accommodation and food services",146483,702420,20.85
+2021-02-01,7,"Transport, communications and information services",70800,702420,10.08
+2021-02-01,8,Financial intermediation,29875,702420,4.25
+2021-02-01,9,Real estate and housing services,5880,702420,0.84
+2021-02-01,10,Business services,107696,702420,15.33
+2021-02-01,11,Personal services,118060,702420,16.81
+2021-02-01,12,Public administration,12954,702420,1.84
+2021-03-01,1,"Agriculture, forestry and fishing",41233,708022,5.82
+2021-03-01,2,Mining,13693,708022,1.93
+2021-03-01,3,Manufacturing,72513,708022,10.24
+2021-03-01,4,"Electricity, gas, water and waste management",9073,708022,1.28
+2021-03-01,5,Construction,80762,708022,11.41
+2021-03-01,6,"Wholesale and retail trade, accommodation and food services",147133,708022,20.78
+2021-03-01,7,"Transport, communications and information services",71723,708022,10.13
+2021-03-01,8,Financial intermediation,30096,708022,4.25
+2021-03-01,9,Real estate and housing services,5925,708022,0.84
+2021-03-01,10,Business services,108419,708022,15.31
+2021-03-01,11,Personal services,118927,708022,16.8
+2021-03-01,12,Public administration,12837,708022,1.81
+2021-04-01,1,"Agriculture, forestry and fishing",39888,711221,5.61
+2021-04-01,2,Mining,13775,711221,1.94
+2021-04-01,3,Manufacturing,72746,711221,10.23
+2021-04-01,4,"Electricity, gas, water and waste management",9115,711221,1.28
+2021-04-01,5,Construction,81386,711221,11.44
+2021-04-01,6,"Wholesale and retail trade, accommodation and food services",148377,711221,20.86
+2021-04-01,7,"Transport, communications and information services",72296,711221,10.17
+2021-04-01,8,Financial intermediation,30175,711221,4.24
+2021-04-01,9,Real estate and housing services,5933,711221,0.83
+2021-04-01,10,Business services,109085,711221,15.34
+2021-04-01,11,Personal services,120127,711221,16.89
+2021-04-01,12,Public administration,12922,711221,1.82
+2021-05-01,1,"Agriculture, forestry and fishing",36589,706867,5.18
+2021-05-01,2,Mining,13824,706867,1.96
+2021-05-01,3,Manufacturing,72180,706867,10.21
+2021-05-01,4,"Electricity, gas, water and waste management",9155,706867,1.3
+2021-05-01,5,Construction,81018,706867,11.46
+2021-05-01,6,"Wholesale and retail trade, accommodation and food services",147979,706867,20.93
+2021-05-01,7,"Transport, communications and information services",72322,706867,10.23
+2021-05-01,8,Financial intermediation,30191,706867,4.27
+2021-05-01,9,Real estate and housing services,5914,706867,0.84
+2021-05-01,10,Business services,108754,706867,15.39
+2021-05-01,11,Personal services,120651,706867,17.07
+2021-05-01,12,Public administration,12845,706867,1.82
+2021-06-01,1,"Agriculture, forestry and fishing",35794,708953,5.05
+2021-06-01,2,Mining,13851,708953,1.95
+2021-06-01,3,Manufacturing,72188,708953,10.18
+2021-06-01,4,"Electricity, gas, water and waste management",9135,708953,1.29
+2021-06-01,5,Construction,81306,708953,11.47
+2021-06-01,6,"Wholesale and retail trade, accommodation and food services",148951,708953,21.01
+2021-06-01,7,"Transport, communications and information services",72794,708953,10.27
+2021-06-01,8,Financial intermediation,30157,708953,4.25
+2021-06-01,9,Real estate and housing services,5928,708953,0.84
+2021-06-01,10,Business services,109396,708953,15.43
+2021-06-01,11,Personal services,121205,708953,17.1
+2021-06-01,12,Public administration,12885,708953,1.82
+2021-07-01,1,"Agriculture, forestry and fishing",36830,715018,5.15
+2021-07-01,2,Mining,13865,715018,1.94
+2021-07-01,3,Manufacturing,72470,715018,10.14
+2021-07-01,4,"Electricity, gas, water and waste management",9167,715018,1.28
+2021-07-01,5,Construction,82176,715018,11.49
+2021-07-01,6,"Wholesale and retail trade, accommodation and food services",151102,715018,21.13
+2021-07-01,7,"Transport, communications and information services",73130,715018,10.23
+2021-07-01,8,Financial intermediation,30200,715018,4.22
+2021-07-01,9,Real estate and housing services,6000,715018,0.84
+2021-07-01,10,Business services,110380,715018,15.44
+2021-07-01,11,Personal services,121768,715018,17.03
+2021-07-01,12,Public administration,12861,715018,1.8
+2021-08-01,1,"Agriculture, forestry and fishing",36533,722991,5.05
+2021-08-01,2,Mining,13938,722991,1.93
+2021-08-01,3,Manufacturing,73212,722991,10.13
+2021-08-01,4,"Electricity, gas, water and waste management",9128,722991,1.26
+2021-08-01,5,Construction,82772,722991,11.45
+2021-08-01,6,"Wholesale and retail trade, accommodation and food services",154379,722991,21.35
+2021-08-01,7,"Transport, communications and information services",74043,722991,10.24
+2021-08-01,8,Financial intermediation,30332,722991,4.2
+2021-08-01,9,Real estate and housing services,6054,722991,0.84
+2021-08-01,10,Business services,111722,722991,15.45
+2021-08-01,11,Personal services,123118,722991,17.03
+2021-08-01,12,Public administration,12807,722991,1.77
+2021-09-01,1,"Agriculture, forestry and fishing",36613,732585,5.0
+2021-09-01,2,Mining,14064,732585,1.92
+2021-09-01,3,Manufacturing,73819,732585,10.08
+2021-09-01,4,"Electricity, gas, water and waste management",9204,732585,1.26
+2021-09-01,5,Construction,83927,732585,11.46
+2021-09-01,6,"Wholesale and retail trade, accommodation and food services",157723,732585,21.53
+2021-09-01,7,"Transport, communications and information services",75112,732585,10.25
+2021-09-01,8,Financial intermediation,30465,732585,4.16
+2021-09-01,9,Real estate and housing services,6108,732585,0.83
+2021-09-01,10,Business services,113502,732585,15.49
+2021-09-01,11,Personal services,124486,732585,16.99
+2021-09-01,12,Public administration,12861,732585,1.76
+2021-10-01,1,"Agriculture, forestry and fishing",37962,735569,5.16
+2021-10-01,2,Mining,14140,735569,1.92
+2021-10-01,3,Manufacturing,73901,735569,10.05
+2021-10-01,4,"Electricity, gas, water and waste management",9238,735569,1.26
+2021-10-01,5,Construction,84448,735569,11.48
+2021-10-01,6,"Wholesale and retail trade, accommodation and food services",158024,735569,21.48
+2021-10-01,7,"Transport, communications and information services",75365,735569,10.25
+2021-10-01,8,Financial intermediation,30494,735569,4.15
+2021-10-01,9,Real estate and housing services,6075,735569,0.83
+2021-10-01,10,Business services,113954,735569,15.49
+2021-10-01,11,Personal services,124348,735569,16.91
+2021-10-01,12,Public administration,12925,735569,1.76
+2021-11-01,1,"Agriculture, forestry and fishing",40493,743048,5.45
+2021-11-01,2,Mining,14146,743048,1.9
+2021-11-01,3,Manufacturing,74342,743048,10.01
+2021-11-01,4,"Electricity, gas, water and waste management",9328,743048,1.26
+2021-11-01,5,Construction,85566,743048,11.52
+2021-11-01,6,"Wholesale and retail trade, accommodation and food services",159458,743048,21.46
+2021-11-01,7,"Transport, communications and information services",75882,743048,10.21
+2021-11-01,8,Financial intermediation,30426,743048,4.09
+2021-11-01,9,Real estate and housing services,6106,743048,0.82
+2021-11-01,10,Business services,115227,743048,15.51
+2021-11-01,11,Personal services,124384,743048,16.74
+2021-11-01,12,Public administration,13018,743048,1.75
+2021-12-01,1,"Agriculture, forestry and fishing",43739,754047,5.8
+2021-12-01,2,Mining,14185,754047,1.88
+2021-12-01,3,Manufacturing,75081,754047,9.96
+2021-12-01,4,"Electricity, gas, water and waste management",9407,754047,1.25
+2021-12-01,5,Construction,85858,754047,11.39
+2021-12-01,6,"Wholesale and retail trade, accommodation and food services",162810,754047,21.59
+2021-12-01,7,"Transport, communications and information services",76752,754047,10.18
+2021-12-01,8,Financial intermediation,30504,754047,4.05
+2021-12-01,9,Real estate and housing services,6155,754047,0.82
+2021-12-01,10,Business services,116857,754047,15.5
+2021-12-01,11,Personal services,125189,754047,16.6
+2021-12-01,12,Public administration,13137,754047,1.74
+2022-01-01,1,"Agriculture, forestry and fishing",42560,747879,5.69
+2022-01-01,2,Mining,14298,747879,1.91
+2022-01-01,3,Manufacturing,74807,747879,10.0
+2022-01-01,4,"Electricity, gas, water and waste management",9477,747879,1.27
+2022-01-01,5,Construction,84681,747879,11.32
+2022-01-01,6,"Wholesale and retail trade, accommodation and food services",161384,747879,21.58
+2022-01-01,7,"Transport, communications and information services",76356,747879,10.21
+2022-01-01,8,Financial intermediation,30512,747879,4.08
+2022-01-01,9,Real estate and housing services,6114,747879,0.82
+2022-01-01,10,Business services,116596,747879,15.59
+2022-01-01,11,Personal services,123624,747879,16.53
+2022-01-01,12,Public administration,13026,747879,1.74
+2022-02-01,1,"Agriculture, forestry and fishing",41276,747164,5.52
+2022-02-01,2,Mining,14403,747164,1.93
+2022-02-01,3,Manufacturing,75214,747164,10.07
+2022-02-01,4,"Electricity, gas, water and waste management",9644,747164,1.29
+2022-02-01,5,Construction,85066,747164,11.39
+2022-02-01,6,"Wholesale and retail trade, accommodation and food services",160254,747164,21.45
+2022-02-01,7,"Transport, communications and information services",76345,747164,10.22
+2022-02-01,8,Financial intermediation,30383,747164,4.07
+2022-02-01,9,Real estate and housing services,6154,747164,0.82
+2022-02-01,10,Business services,117688,747164,15.75
+2022-02-01,11,Personal services,122969,747164,16.46
+2022-02-01,12,Public administration,12976,747164,1.74
+2022-03-01,1,"Agriculture, forestry and fishing",40933,755154,5.42
+2022-03-01,2,Mining,14489,755154,1.92
+2022-03-01,3,Manufacturing,76147,755154,10.08
+2022-03-01,4,"Electricity, gas, water and waste management",9691,755154,1.28
+2022-03-01,5,Construction,86304,755154,11.43
+2022-03-01,6,"Wholesale and retail trade, accommodation and food services",161512,755154,21.39
+2022-03-01,7,"Transport, communications and information services",77191,755154,10.22
+2022-03-01,8,Financial intermediation,30467,755154,4.03
+2022-03-01,9,Real estate and housing services,6230,755154,0.82
+2022-03-01,10,Business services,118631,755154,15.71
+2022-03-01,11,Personal services,125994,755154,16.68
+2022-03-01,12,Public administration,13059,755154,1.73
+2022-04-01,1,"Agriculture, forestry and fishing",39214,757494,5.18
+2022-04-01,2,Mining,14526,757494,1.92
+2022-04-01,3,Manufacturing,76459,757494,10.09
+2022-04-01,4,"Electricity, gas, water and waste management",9595,757494,1.27
+2022-04-01,5,Construction,87079,757494,11.5
+2022-04-01,6,"Wholesale and retail trade, accommodation and food services",161910,757494,21.37
+2022-04-01,7,"Transport, communications and information services",77296,757494,10.2
+2022-04-01,8,Financial intermediation,30455,757494,4.02
+2022-04-01,9,Real estate and housing services,6243,757494,0.82
+2022-04-01,10,Business services,119296,757494,15.75
+2022-04-01,11,Personal services,127803,757494,16.87
+2022-04-01,12,Public administration,13172,757494,1.74
+2022-05-01,1,"Agriculture, forestry and fishing",36132,745693,4.85
+2022-05-01,2,Mining,14579,745693,1.96
+2022-05-01,3,Manufacturing,75775,745693,10.16
+2022-05-01,4,"Electricity, gas, water and waste management",9559,745693,1.28
+2022-05-01,5,Construction,85639,745693,11.48
+2022-05-01,6,"Wholesale and retail trade, accommodation and food services",159353,745693,21.37
+2022-05-01,7,"Transport, communications and information services",76614,745693,10.27
+2022-05-01,8,Financial intermediation,30179,745693,4.05
+2022-05-01,9,Real estate and housing services,6121,745693,0.82
+2022-05-01,10,Business services,117301,745693,15.73
+2022-05-01,11,Personal services,126280,745693,16.93
+2022-05-01,12,Public administration,12930,745693,1.73
+2022-06-01,1,"Agriculture, forestry and fishing",36323,747534,4.86
+2022-06-01,2,Mining,14633,747534,1.96
+2022-06-01,3,Manufacturing,75557,747534,10.11
+2022-06-01,4,"Electricity, gas, water and waste management",9558,747534,1.28
+2022-06-01,5,Construction,85647,747534,11.46
+2022-06-01,6,"Wholesale and retail trade, accommodation and food services",159768,747534,21.37
+2022-06-01,7,"Transport, communications and information services",76860,747534,10.28
+2022-06-01,8,Financial intermediation,30187,747534,4.04
+2022-06-01,9,Real estate and housing services,6100,747534,0.82
+2022-06-01,10,Business services,116967,747534,15.65
+2022-06-01,11,Personal services,127160,747534,17.01
+2022-06-01,12,Public administration,13199,747534,1.77
+2022-07-01,1,"Agriculture, forestry and fishing",36829,747861,4.92
+2022-07-01,2,Mining,14691,747861,1.96
+2022-07-01,3,Manufacturing,75679,747861,10.12
+2022-07-01,4,"Electricity, gas, water and waste management",9611,747861,1.29
+2022-07-01,5,Construction,84954,747861,11.36
+2022-07-01,6,"Wholesale and retail trade, accommodation and food services",159887,747861,21.38
+2022-07-01,7,"Transport, communications and information services",76748,747861,10.26
+2022-07-01,8,Financial intermediation,30244,747861,4.04
+2022-07-01,9,Real estate and housing services,6107,747861,0.82
+2022-07-01,10,Business services,117603,747861,15.73
+2022-07-01,11,Personal services,126907,747861,16.97
+2022-07-01,12,Public administration,13165,747861,1.76
+2022-08-01,1,"Agriculture, forestry and fishing",37223,753086,4.94
+2022-08-01,2,Mining,14708,753086,1.95
+2022-08-01,3,Manufacturing,75530,753086,10.03
+2022-08-01,4,"Electricity, gas, water and waste management",9649,753086,1.28
+2022-08-01,5,Construction,85937,753086,11.41
+2022-08-01,6,"Wholesale and retail trade, accommodation and food services",160606,753086,21.33
+2022-08-01,7,"Transport, communications and information services",77022,753086,10.23
+2022-08-01,8,Financial intermediation,30352,753086,4.03
+2022-08-01,9,Real estate and housing services,6162,753086,0.82
+2022-08-01,10,Business services,119189,753086,15.83
+2022-08-01,11,Personal services,127981,753086,16.99
+2022-08-01,12,Public administration,13358,753086,1.77
+2022-09-01,1,"Agriculture, forestry and fishing",36247,752549,4.82
+2022-09-01,2,Mining,14755,752549,1.96
+2022-09-01,3,Manufacturing,75060,752549,9.97
+2022-09-01,4,"Electricity, gas, water and waste management",9752,752549,1.3
+2022-09-01,5,Construction,84991,752549,11.29
+2022-09-01,6,"Wholesale and retail trade, accommodation and food services",160819,752549,21.37
+2022-09-01,7,"Transport, communications and information services",76932,752549,10.22
+2022-09-01,8,Financial intermediation,30468,752549,4.05
+2022-09-01,9,Real estate and housing services,6146,752549,0.82
+2022-09-01,10,Business services,119569,752549,15.89
+2022-09-01,11,Personal services,128980,752549,17.14
+2022-09-01,12,Public administration,13427,752549,1.78
+2022-10-01,1,"Agriculture, forestry and fishing",37577,752107,5.0
+2022-10-01,2,Mining,14832,752107,1.97
+2022-10-01,3,Manufacturing,75151,752107,9.99
+2022-10-01,4,"Electricity, gas, water and waste management",9817,752107,1.31
+2022-10-01,5,Construction,84108,752107,11.18
+2022-10-01,6,"Wholesale and retail trade, accommodation and food services",160659,752107,21.36
+2022-10-01,7,"Transport, communications and information services",76523,752107,10.17
+2022-10-01,8,Financial intermediation,30485,752107,4.05
+2022-10-01,9,Real estate and housing services,6128,752107,0.81
+2022-10-01,10,Business services,119594,752107,15.9
+2022-10-01,11,Personal services,128413,752107,17.07
+2022-10-01,12,Public administration,13399,752107,1.78
+2022-11-01,1,"Agriculture, forestry and fishing",39957,755875,5.29
+2022-11-01,2,Mining,14873,755875,1.97
+2022-11-01,3,Manufacturing,75232,755875,9.95
+2022-11-01,4,"Electricity, gas, water and waste management",9926,755875,1.31
+2022-11-01,5,Construction,83796,755875,11.09
+2022-11-01,6,"Wholesale and retail trade, accommodation and food services",161509,755875,21.37
+2022-11-01,7,"Transport, communications and information services",76707,755875,10.15
+2022-11-01,8,Financial intermediation,30264,755875,4.0
+2022-11-01,9,Real estate and housing services,6134,755875,0.81
+2022-11-01,10,Business services,120242,755875,15.91
+2022-11-01,11,Personal services,128303,755875,16.97
+2022-11-01,12,Public administration,13465,755875,1.78
+2022-12-01,1,"Agriculture, forestry and fishing",42203,732336,5.76
+2022-12-01,2,Mining,11208,732336,1.53
+2022-12-01,3,Manufacturing,72320,732336,9.88
+2022-12-01,4,"Electricity, gas, water and waste management",9275,732336,1.27
+2022-12-01,5,Construction,81216,732336,11.09
+2022-12-01,6,"Wholesale and retail trade, accommodation and food services",158383,732336,21.63
+2022-12-01,7,"Transport, communications and information services",74119,732336,10.12
+2022-12-01,8,Financial intermediation,25861,732336,3.53
+2022-12-01,9,Real estate and housing services,5751,732336,0.79
+2022-12-01,10,Business services,117110,732336,15.99
+2022-12-01,11,Personal services,126184,732336,17.23
+2022-12-01,12,Public administration,13459,732336,1.84
+2023-01-01,1,"Agriculture, forestry and fishing",39686,722960,5.49
+2023-01-01,2,Mining,10392,722960,1.44
+2023-01-01,3,Manufacturing,71620,722960,9.91
+2023-01-01,4,"Electricity, gas, water and waste management",9519,722960,1.32
+2023-01-01,5,Construction,79647,722960,11.02
+2023-01-01,6,"Wholesale and retail trade, accommodation and food services",156553,722960,21.65
+2023-01-01,7,"Transport, communications and information services",73877,722960,10.22
+2023-01-01,8,Financial intermediation,26581,722960,3.68
+2023-01-01,9,Real estate and housing services,5738,722960,0.79
+2023-01-01,10,Business services,116198,722960,16.07
+2023-01-01,11,Personal services,124124,722960,17.17
+2023-01-01,12,Public administration,13641,722960,1.89
+2023-02-01,1,"Agriculture, forestry and fishing",38681,721085,5.36
+2023-02-01,2,Mining,11669,721085,1.62
+2023-02-01,3,Manufacturing,71680,721085,9.94
+2023-02-01,4,"Electricity, gas, water and waste management",9411,721085,1.31
+2023-02-01,5,Construction,79629,721085,11.04
+2023-02-01,6,"Wholesale and retail trade, accommodation and food services",155786,721085,21.6
+2023-02-01,7,"Transport, communications and information services",73579,721085,10.2
+2023-02-01,8,Financial intermediation,25959,721085,3.6
+2023-02-01,9,Real estate and housing services,5696,721085,0.79
+2023-02-01,10,Business services,115853,721085,16.07
+2023-02-01,11,Personal services,123846,721085,17.17
+2023-02-01,12,Public administration,13494,721085,1.87
+2023-03-01,1,"Agriculture, forestry and fishing",38236,722174,5.29
+2023-03-01,2,Mining,10993,722174,1.52
+2023-03-01,3,Manufacturing,71683,722174,9.93
+2023-03-01,4,"Electricity, gas, water and waste management",9414,722174,1.3
+2023-03-01,5,Construction,80472,722174,11.14
+2023-03-01,6,"Wholesale and retail trade, accommodation and food services",155770,722174,21.57
+2023-03-01,7,"Transport, communications and information services",73290,722174,10.15
+2023-03-01,8,Financial intermediation,26030,722174,3.6
+2023-03-01,9,Real estate and housing services,5671,722174,0.79
+2023-03-01,10,Business services,115807,722174,16.04
+2023-03-01,11,Personal services,125696,722174,17.41
+2023-03-01,12,Public administration,13338,722174,1.85
+2023-04-01,1,"Agriculture, forestry and fishing",36613,722979,5.06
+2023-04-01,2,Mining,11418,722979,1.58
+2023-04-01,3,Manufacturing,71498,722979,9.89
+2023-04-01,4,"Electricity, gas, water and waste management",9506,722979,1.31
+2023-04-01,5,Construction,80096,722979,11.08
+2023-04-01,6,"Wholesale and retail trade, accommodation and food services",156244,722979,21.61
+2023-04-01,7,"Transport, communications and information services",73299,722979,10.14
+2023-04-01,8,Financial intermediation,26556,722979,3.67
+2023-04-01,9,Real estate and housing services,5710,722979,0.79
+2023-04-01,10,Business services,115760,722979,16.01
+2023-04-01,11,Personal services,126988,722979,17.56
+2023-04-01,12,Public administration,13578,722979,1.88
+2023-05-01,1,"Agriculture, forestry and fishing",30825,683145,4.51
+2023-05-01,2,Mining,11452,683145,1.68
+2023-05-01,3,Manufacturing,68626,683145,10.05
+2023-05-01,4,"Electricity, gas, water and waste management",9355,683145,1.37
+2023-05-01,5,Construction,76424,683145,11.19
+2023-05-01,6,"Wholesale and retail trade, accommodation and food services",145944,683145,21.36
+2023-05-01,7,"Transport, communications and information services",69000,683145,10.1
+2023-05-01,8,Financial intermediation,26177,683145,3.83
+2023-05-01,9,Real estate and housing services,5408,683145,0.79
+2023-05-01,10,Business services,110602,683145,16.19
+2023-05-01,11,Personal services,120082,683145,17.58
+2023-05-01,12,Public administration,12685,683145,1.86
+2023-06-01,1,"Agriculture, forestry and fishing",31266,685339,4.56
+2023-06-01,2,Mining,11735,685339,1.71
+2023-06-01,3,Manufacturing,68331,685339,9.97
+2023-06-01,4,"Electricity, gas, water and waste management",9298,685339,1.36
+2023-06-01,5,Construction,76031,685339,11.09
+2023-06-01,6,"Wholesale and retail trade, accommodation and food services",146183,685339,21.33
+2023-06-01,7,"Transport, communications and information services",68807,685339,10.04
+2023-06-01,8,Financial intermediation,26310,685339,3.84
+2023-06-01,9,Real estate and housing services,5445,685339,0.79
+2023-06-01,10,Business services,110979,685339,16.19
+2023-06-01,11,Personal services,121430,685339,17.72
+2023-06-01,12,Public administration,12817,685339,1.87
+2023-07-01,1,"Agriculture, forestry and fishing",32069,682134,4.7
+2023-07-01,2,Mining,11566,682134,1.7
+2023-07-01,3,Manufacturing,67889,682134,9.95
+2023-07-01,4,"Electricity, gas, water and waste management",9081,682134,1.33
+2023-07-01,5,Construction,75221,682134,11.03
+2023-07-01,6,"Wholesale and retail trade, accommodation and food services",145782,682134,21.37
+2023-07-01,7,"Transport, communications and information services",68394,682134,10.03
+2023-07-01,8,Financial intermediation,26295,682134,3.85
+2023-07-01,9,Real estate and housing services,5470,682134,0.8
+2023-07-01,10,Business services,110640,682134,16.22
+2023-07-01,11,Personal services,120514,682134,17.67
+2023-07-01,12,Public administration,12670,682134,1.86
+2023-08-01,1,"Agriculture, forestry and fishing",32071,683207,4.69
+2023-08-01,2,Mining,11116,683207,1.63
+2023-08-01,3,Manufacturing,67569,683207,9.89
+2023-08-01,4,"Electricity, gas, water and waste management",9052,683207,1.32
+2023-08-01,5,Construction,75132,683207,11.0
+2023-08-01,6,"Wholesale and retail trade, accommodation and food services",146383,683207,21.43
+2023-08-01,7,"Transport, communications and information services",68350,683207,10.0
+2023-08-01,8,Financial intermediation,26135,683207,3.83
+2023-08-01,9,Real estate and housing services,5472,683207,0.8
+2023-08-01,10,Business services,110683,683207,16.2
+2023-08-01,11,Personal services,121751,683207,17.82
+2023-08-01,12,Public administration,12816,683207,1.88
+2023-09-01,1,"Agriculture, forestry and fishing",34280,707306,4.85
+2023-09-01,2,Mining,10922,707306,1.54
+2023-09-01,3,Manufacturing,68624,707306,9.7
+2023-09-01,4,"Electricity, gas, water and waste management",9201,707306,1.3
+2023-09-01,5,Construction,75909,707306,10.73
+2023-09-01,6,"Wholesale and retail trade, accommodation and food services",153924,707306,21.76
+2023-09-01,7,"Transport, communications and information services",72095,707306,10.19
+2023-09-01,8,Financial intermediation,25892,707306,3.66
+2023-09-01,9,Real estate and housing services,5666,707306,0.8
+2023-09-01,10,Business services,113402,707306,16.03
+2023-09-01,11,Personal services,127179,707306,17.98
+2023-09-01,12,Public administration,13761,707306,1.95
+2023-10-01,1,"Agriculture, forestry and fishing",35516,711156,4.99
+2023-10-01,2,Mining,11452,711156,1.61
+2023-10-01,3,Manufacturing,69295,711156,9.74
+2023-10-01,4,"Electricity, gas, water and waste management",9184,711156,1.29
+2023-10-01,5,Construction,75948,711156,10.68
+2023-10-01,6,"Wholesale and retail trade, accommodation and food services",153710,711156,21.61
+2023-10-01,7,"Transport, communications and information services",72511,711156,10.2
+2023-10-01,8,Financial intermediation,26066,711156,3.67
+2023-10-01,9,Real estate and housing services,5678,711156,0.8
+2023-10-01,10,Business services,114539,711156,16.11
+2023-10-01,11,Personal services,127246,711156,17.89
+2023-10-01,12,Public administration,13768,711156,1.94
+2023-11-01,1,"Agriculture, forestry and fishing",36885,714021,5.17
+2023-11-01,2,Mining,11886,714021,1.66
+2023-11-01,3,Manufacturing,69105,714021,9.68
+2023-11-01,4,"Electricity, gas, water and waste management",9233,714021,1.29
+2023-11-01,5,Construction,75795,714021,10.62
+2023-11-01,6,"Wholesale and retail trade, accommodation and food services",154133,714021,21.59
+2023-11-01,7,"Transport, communications and information services",72488,714021,10.15
+2023-11-01,8,Financial intermediation,26258,714021,3.68
+2023-11-01,9,Real estate and housing services,5708,714021,0.8
+2023-11-01,10,Business services,114721,714021,16.07
+2023-11-01,11,Personal services,127532,714021,17.86
+2023-11-01,12,Public administration,13828,714021,1.94
+2023-12-01,1,"Agriculture, forestry and fishing",39715,713888,5.56
+2023-12-01,2,Mining,10921,713888,1.53
+2023-12-01,3,Manufacturing,68723,713888,9.63
+2023-12-01,4,"Electricity, gas, water and waste management",9077,713888,1.27
+2023-12-01,5,Construction,74611,713888,10.45
+2023-12-01,6,"Wholesale and retail trade, accommodation and food services",155744,713888,21.82
+2023-12-01,7,"Transport, communications and information services",72349,713888,10.13
+2023-12-01,8,Financial intermediation,24853,713888,3.48
+2023-12-01,9,Real estate and housing services,5668,713888,0.79
+2023-12-01,10,Business services,115136,713888,16.13
+2023-12-01,11,Personal services,127164,713888,17.81
+2023-12-01,12,Public administration,13881,713888,1.94
+2024-01-01,1,"Agriculture, forestry and fishing",38490,709653,5.42
+2024-01-01,2,Mining,10457,709653,1.47
+2024-01-01,3,Manufacturing,69168,709653,9.75
+2024-01-01,4,"Electricity, gas, water and waste management",9068,709653,1.28
+2024-01-01,5,Construction,73659,709653,10.38
+2024-01-01,6,"Wholesale and retail trade, accommodation and food services",154613,709653,21.79
+2024-01-01,7,"Transport, communications and information services",72476,709653,10.21
+2024-01-01,8,Financial intermediation,25443,709653,3.59
+2024-01-01,9,Real estate and housing services,5656,709653,0.8
+2024-01-01,10,Business services,114992,709653,16.2
+2024-01-01,11,Personal services,126039,709653,17.76
+2024-01-01,12,Public administration,13428,709653,1.89
+2024-02-01,1,"Agriculture, forestry and fishing",36712,706696,5.19
+2024-02-01,2,Mining,11767,706696,1.67
+2024-02-01,3,Manufacturing,69007,706696,9.76
+2024-02-01,4,"Electricity, gas, water and waste management",9057,706696,1.28
+2024-02-01,5,Construction,73598,706696,10.41
+2024-02-01,6,"Wholesale and retail trade, accommodation and food services",153225,706696,21.68
+2024-02-01,7,"Transport, communications and information services",72202,706696,10.22
+2024-02-01,8,Financial intermediation,25911,706696,3.67
+2024-02-01,9,Real estate and housing services,5586,706696,0.79
+2024-02-01,10,Business services,114588,706696,16.21
+2024-02-01,11,Personal services,125429,706696,17.75
+2024-02-01,12,Public administration,13366,706696,1.89
+2024-03-01,1,"Agriculture, forestry and fishing",36663,707079,5.19
+2024-03-01,2,Mining,10699,707079,1.51
+2024-03-01,3,Manufacturing,69674,707079,9.85
+2024-03-01,4,"Electricity, gas, water and waste management",8995,707079,1.27
+2024-03-01,5,Construction,73714,707079,10.43
+2024-03-01,6,"Wholesale and retail trade, accommodation and food services",153050,707079,21.65
+2024-03-01,7,"Transport, communications and information services",71769,707079,10.15
+2024-03-01,8,Financial intermediation,26129,707079,3.7
+2024-03-01,9,Real estate and housing services,5578,707079,0.79
+2024-03-01,10,Business services,114519,707079,16.2
+2024-03-01,11,Personal services,126920,707079,17.95
+2024-03-01,12,Public administration,13214,707079,1.87
+2024-04-01,1,"Agriculture, forestry and fishing",35430,706693,5.01
+2024-04-01,2,Mining,11514,706693,1.63
+2024-04-01,3,Manufacturing,69479,706693,9.83
+2024-04-01,4,"Electricity, gas, water and waste management",9098,706693,1.29
+2024-04-01,5,Construction,73971,706693,10.47
+2024-04-01,6,"Wholesale and retail trade, accommodation and food services",152927,706693,21.64
+2024-04-01,7,"Transport, communications and information services",71559,706693,10.13
+2024-04-01,8,Financial intermediation,25244,706693,3.57
+2024-04-01,9,Real estate and housing services,5590,706693,0.79
+2024-04-01,10,Business services,114512,706693,16.2
+2024-04-01,11,Personal services,127664,706693,18.06
+2024-04-01,12,Public administration,13442,706693,1.9
+2024-05-01,1,"Agriculture, forestry and fishing",33209,703384,4.72
+2024-05-01,2,Mining,11718,703384,1.67
+2024-05-01,3,Manufacturing,69216,703384,9.84
+2024-05-01,4,"Electricity, gas, water and waste management",9115,703384,1.3
+2024-05-01,5,Construction,73357,703384,10.43
+2024-05-01,6,"Wholesale and retail trade, accommodation and food services",152110,703384,21.63
+2024-05-01,7,"Transport, communications and information services",71460,703384,10.16
+2024-05-01,8,Financial intermediation,26419,703384,3.76
+2024-05-01,9,Real estate and housing services,5537,703384,0.79
+2024-05-01,10,Business services,113540,703384,16.14
+2024-05-01,11,Personal services,127855,703384,18.18
+2024-05-01,12,Public administration,13496,703384,1.92
+2024-06-01,1,"Agriculture, forestry and fishing",32549,699925,4.65
+2024-06-01,2,Mining,11472,699925,1.64
+2024-06-01,3,Manufacturing,68656,699925,9.81
+2024-06-01,4,"Electricity, gas, water and waste management",9056,699925,1.29
+2024-06-01,5,Construction,72327,699925,10.33
+2024-06-01,6,"Wholesale and retail trade, accommodation and food services",151406,699925,21.63
+2024-06-01,7,"Transport, communications and information services",71011,699925,10.15
+2024-06-01,8,Financial intermediation,26753,699925,3.82
+2024-06-01,9,Real estate and housing services,5499,699925,0.79
+2024-06-01,10,Business services,113350,699925,16.19
+2024-06-01,11,Personal services,127934,699925,18.28
+2024-06-01,12,Public administration,13407,699925,1.92
+2024-07-01,1,"Agriculture, forestry and fishing",34222,694050,4.93
+2024-07-01,2,Mining,11686,694050,1.68
+2024-07-01,3,Manufacturing,68305,694050,9.84
+2024-07-01,4,"Electricity, gas, water and waste management",9087,694050,1.31
+2024-07-01,5,Construction,71889,694050,10.36
+2024-07-01,6,"Wholesale and retail trade, accommodation and food services",149210,694050,21.5
+2024-07-01,7,"Transport, communications and information services",70465,694050,10.15
+2024-07-01,8,Financial intermediation,26370,694050,3.8
+2024-07-01,9,Real estate and housing services,5476,694050,0.79
+2024-07-01,10,Business services,112233,694050,16.17
+2024-07-01,11,Personal services,125404,694050,18.07
+2024-07-01,12,Public administration,13084,694050,1.89
+2024-08-01,1,"Agriculture, forestry and fishing",33711,691656,4.87
+2024-08-01,2,Mining,11353,691656,1.64
+2024-08-01,3,Manufacturing,68152,691656,9.85
+2024-08-01,4,"Electricity, gas, water and waste management",9102,691656,1.32
+2024-08-01,5,Construction,71988,691656,10.41
+2024-08-01,6,"Wholesale and retail trade, accommodation and food services",148581,691656,21.48
+2024-08-01,7,"Transport, communications and information services",70208,691656,10.15
+2024-08-01,8,Financial intermediation,26307,691656,3.8
+2024-08-01,9,Real estate and housing services,5437,691656,0.79
+2024-08-01,10,Business services,111357,691656,16.1
+2024-08-01,11,Personal services,125515,691656,18.15
+2024-08-01,12,Public administration,13187,691656,1.91
+2024-09-01,1,"Agriculture, forestry and fishing",32731,688353,4.75
+2024-09-01,2,Mining,10518,688353,1.53
+2024-09-01,3,Manufacturing,67206,688353,9.76
+2024-09-01,4,"Electricity, gas, water and waste management",9025,688353,1.31
+2024-09-01,5,Construction,71547,688353,10.39
+2024-09-01,6,"Wholesale and retail trade, accommodation and food services",148494,688353,21.57
+2024-09-01,7,"Transport, communications and information services",69920,688353,10.16
+2024-09-01,8,Financial intermediation,26181,688353,3.8
+2024-09-01,9,Real estate and housing services,5416,688353,0.79
+2024-09-01,10,Business services,111482,688353,16.2
+2024-09-01,11,Personal services,125939,688353,18.3
+2024-09-01,12,Public administration,13213,688353,1.92
+2024-10-01,1,"Agriculture, forestry and fishing",34109,691028,4.94
+2024-10-01,2,Mining,11777,691028,1.7
+2024-10-01,3,Manufacturing,67665,691028,9.79
+2024-10-01,4,"Electricity, gas, water and waste management",9095,691028,1.32
+2024-10-01,5,Construction,72705,691028,10.52
+2024-10-01,6,"Wholesale and retail trade, accommodation and food services",147846,691028,21.4
+2024-10-01,7,"Transport, communications and information services",70021,691028,10.13
+2024-10-01,8,Financial intermediation,26264,691028,3.8
+2024-10-01,9,Real estate and housing services,5413,691028,0.78
+2024-10-01,10,Business services,111402,691028,16.12
+2024-10-01,11,Personal services,124890,691028,18.07
+2024-10-01,12,Public administration,13273,691028,1.92
+2024-11-01,1,"Agriculture, forestry and fishing",35744,692209,5.16
+2024-11-01,2,Mining,12060,692209,1.74
+2024-11-01,3,Manufacturing,67755,692209,9.79
+2024-11-01,4,"Electricity, gas, water and waste management",9036,692209,1.31
+2024-11-01,5,Construction,72788,692209,10.52
+2024-11-01,6,"Wholesale and retail trade, accommodation and food services",148101,692209,21.4
+2024-11-01,7,"Transport, communications and information services",69898,692209,10.1
+2024-11-01,8,Financial intermediation,26256,692209,3.79
+2024-11-01,9,Real estate and housing services,5374,692209,0.78
+2024-11-01,10,Business services,110828,692209,16.01
+2024-11-01,11,Personal services,124608,692209,18.0
+2024-11-01,12,Public administration,13216,692209,1.91
+2024-12-01,1,"Agriculture, forestry and fishing",38503,718866,5.36
+2024-12-01,2,Mining,15221,718866,2.12
+2024-12-01,3,Manufacturing,69603,718866,9.68
+2024-12-01,4,"Electricity, gas, water and waste management",9788,718866,1.36
+2024-12-01,5,Construction,73383,718866,10.21
+2024-12-01,6,"Wholesale and retail trade, accommodation and food services",153039,718866,21.29
+2024-12-01,7,"Transport, communications and information services",72638,718866,10.1
+2024-12-01,8,Financial intermediation,29779,718866,4.14
+2024-12-01,9,Real estate and housing services,5727,718866,0.8
+2024-12-01,10,Business services,115098,718866,16.01
+2024-12-01,11,Personal services,126723,718866,17.63
+2024-12-01,12,Public administration,13262,718866,1.84
+2025-01-01,1,"Agriculture, forestry and fishing",36079,704553,5.12
+2025-01-01,2,Mining,15295,704553,2.17
+2025-01-01,3,Manufacturing,68768,704553,9.76
+2025-01-01,4,"Electricity, gas, water and waste management",9841,704553,1.4
+2025-01-01,5,Construction,71921,704553,10.21
+2025-01-01,6,"Wholesale and retail trade, accommodation and food services",150037,704553,21.3
+2025-01-01,7,"Transport, communications and information services",71735,704553,10.18
+2025-01-01,8,Financial intermediation,29743,704553,4.22
+2025-01-01,9,Real estate and housing services,5660,704553,0.8
+2025-01-01,10,Business services,113190,704553,16.07
+2025-01-01,11,Personal services,123600,704553,17.54
+2025-01-01,12,Public administration,12574,704553,1.78
+2025-02-01,1,"Agriculture, forestry and fishing",34848,696024,5.01
+2025-02-01,2,Mining,15366,696024,2.21
+2025-02-01,3,Manufacturing,67967,696024,9.77
+2025-02-01,4,"Electricity, gas, water and waste management",9862,696024,1.42
+2025-02-01,5,Construction,71501,696024,10.27
+2025-02-01,6,"Wholesale and retail trade, accommodation and food services",147529,696024,21.2
+2025-02-01,7,"Transport, communications and information services",70778,696024,10.17
+2025-02-01,8,Financial intermediation,29481,696024,4.24
+2025-02-01,9,Real estate and housing services,5557,696024,0.8
+2025-02-01,10,Business services,111882,696024,16.07
+2025-02-01,11,Personal services,122248,696024,17.56
+2025-02-01,12,Public administration,12532,696024,1.8
+2025-03-01,1,"Agriculture, forestry and fishing",34317,685289,5.01
+2025-03-01,2,Mining,15322,685289,2.24
+2025-03-01,3,Manufacturing,66861,685289,9.76
+2025-03-01,4,"Electricity, gas, water and waste management",9703,685289,1.42
+2025-03-01,5,Construction,70774,685289,10.33
+2025-03-01,6,"Wholesale and retail trade, accommodation and food services",145594,685289,21.25
+2025-03-01,7,"Transport, communications and information services",69532,685289,10.15
+2025-03-01,8,Financial intermediation,29299,685289,4.28
+2025-03-01,9,Real estate and housing services,5476,685289,0.8
+2025-03-01,10,Business services,109301,685289,15.95
+2025-03-01,11,Personal services,120798,685289,17.63
+2025-03-01,12,Public administration,11873,685289,1.73
